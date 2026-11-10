@@ -1,0 +1,183 @@
+{
+ "geoEnv": "na",
+ "latLng": {
+  "lat": 40.757118225,
+  "lng": -73.984863281
+ },
+ "id": "venues.187433368.1874464748.1166515",
+ "address": {
+  "countryCode": "US",
+  "countryName": "United States",
+  "state": "",
+  "city": "Manhattan",
+  "street": "W 44th St",
+  "houseNumber": "145"
+ },
+ "name": "Millennium Times Square New York",
+ "phone": {
+  "href": "tel:(212) 768-4400",
+  "text": "(212) 768-4400"
+ },
+ "services": [
+  "wi_fi",
+  "restrooms",
+  "credit_cards",
+  "reservations",
+  "air_conditioning",
+  "parking_for_customers",
+  "deliveries"
+ ],
+ "images": [
+  {
+   "id": "401ebebe-0f82-427a-99a3-4c95161d576f",
+   "src": {
+    "small": "https://venue-image.waze.com/thumbs/thumb100_401ebebe-0f82-427a-99a3-4c95161d576f",
+    "large": "https://venue-image.waze.com/thumbs/thumb700_401ebebe-0f82-427a-99a3-4c95161d576f"
+   },
+   "attributions": []
+  },
+  {
+   "id": "559c2046-1284-467b-aeb0-ff10b7ce7f27",
+   "src": {
+    "small": "https://venue-image.waze.com/thumbs/thumb100_559c2046-1284-467b-aeb0-ff10b7ce7f27",
+    "large": "https://venue-image.waze.com/thumbs/thumb700_559c2046-1284-467b-aeb0-ff10b7ce7f27"
+   },
+   "attributions": []
+  },
+  {
+   "id": "bb1ccea8-b9df-4c49-8c19-350b40a23190",
+   "src": {
+    "small": "https://venue-image.waze.com/thumbs/thumb100_bb1ccea8-b9df-4c49-8c19-350b40a23190",
+    "large": "https://venue-image.waze.com/thumbs/thumb700_bb1ccea8-b9df-4c49-8c19-350b40a23190"
+   },
+   "attributions": []
+  },
+  {
+   "id": "cae3d135-37cf-46c1-8719-0413286d6d9a",
+   "src": {
+    "small": "https://venue-image.waze.com/thumbs/thumb100_cae3d135-37cf-46c1-8719-0413286d6d9a",
+    "large": "https://venue-image.waze.com/thumbs/thumb700_cae3d135-37cf-46c1-8719-0413286d6d9a"
+   },
+   "attributions": []
+  },
+  {
+   "id": "d8e690c3-16b9-481b-ab55-5d7e1205de77",
+   "src": {
+    "small": "https://venue-image.waze.com/thumbs/thumb100_d8e690c3-16b9-481b-ab55-5d7e1205de77",
+    "large": "https://venue-image.waze.com/thumbs/thumb700_d8e690c3-16b9-481b-ab55-5d7e1205de77"
+   },
+   "attributions": []
+  },
+  {
+   "id": "6013789a-16c9-42a6-8b67-2394b593cfc3",
+   "src": {
+    "small": "https://venue-image.waze.com/thumbs/thumb100_6013789a-16c9-42a6-8b67-2394b593cfc3",
+    "large": "https://venue-image.waze.com/thumbs/thumb700_6013789a-16c9-42a6-8b67-2394b593cfc3"
+   },
+   "attributions": []
+  },
+  {
+   "id": "4c9fba4a-b63b-4d4f-857a-6159ba0d7a6a",
+   "src": {
+    "small": "https://venue-image.waze.com/thumbs/thumb100_4c9fba4a-b63b-4d4f-857a-6159ba0d7a6a",
+    "large": "https://venue-image.waze.com/thumbs/thumb700_4c9fba4a-b63b-4d4f-857a-6159ba0d7a6a"
+   },
+   "attributions": []
+  },
+  {
+   "id": "aadc5783-2f20-4908-952c-670e10f63959",
+   "src": {
+    "small": "https://venue-image.waze.com/thumbs/thumb100_aadc5783-2f20-4908-952c-670e10f63959",
+    "large": "https://venue-image.waze.com/thumbs/thumb700_aadc5783-2f20-4908-952c-670e10f63959"
+   },
+   "attributions": []
+  },
+  {
+   "id": "b2c09676-2abf-4698-b685-ad0d02cef413",
+   "src": {
+    "small": "https://venue-image.waze.com/thumbs/thumb100_b2c09676-2abf-4698-b685-ad0d02cef413",
+    "large": "https://venue-image.waze.com/thumbs/thumb700_b2c09676-2abf-4698-b685-ad0d02cef413"
+   },
+   "attributions": []
+  }
+ ],
+ "hours": [
+  {
+   "day": "0",
+   "from": {
+    "hours": 0,
+    "minutes": 0
+   },
+   "to": {
+    "hours": 0,
+    "minutes": 0
+   }
+  },
+  {
+   "day": "1",
+   "from": {
+    "hours": 0,
+    "minutes": 0
+   },
+   "to": {
+    "hours": 0,
+    "minutes": 0
+   }
+  },
+  {
+   "day": "2",
+   "from": {
+    "hours": 0,
+    "minutes": 0
+   },
+   "to": {
+    "hours": 0,
+    "minutes": 0
+   }
+  },
+  {
+   "day": "3",
+   "from": {
+    "hours": 0,
+    "minutes": 0
+   },
+   "to": {
+    "hours": 0,
+    "minutes": 0
+   }
+  },
+  {
+   "day": "4",
+   "from": {
+    "hours": 0,
+    "minutes": 0
+   },
+   "to": {
+    "hours": 0,
+    "minutes": 0
+   }
+  },
+  {
+   "day": "5",
+   "from": {
+    "hours": 0,
+    "minutes": 0
+   },
+   "to": {
+    "hours": 0,
+    "minutes": 0
+   }
+  },
+  {
+   "day": "6",
+   "from": {
+    "hours": 0,
+    "minutes": 0
+   },
+   "to": {
+    "hours": 0,
+    "minutes": 0
+   }
+  }
+ ]
+}

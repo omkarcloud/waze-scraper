@@ -1,0 +1,7489 @@
+{
+ "alerts": [
+  {
+   "id": "alert-177803606/946a2348-6535-4c7e-a9ba-adcfb2e95f58",
+   "location": {
+    "x": -0.194046,
+    "y": 51.472302
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Chipstead St",
+   "reportDescription": "",
+   "pubMillis": 1792055037000
+  },
+  {
+   "id": "alert-177891413/81b8d077-3f50-4d00-9483-fd702eec9c53",
+   "location": {
+    "x": -0.194839,
+    "y": 51.471999
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Studdridge St",
+   "reportDescription": "",
+   "pubMillis": 1792055067000
+  },
+  {
+   "id": "alert-177734718/7d92d26a-98ef-4b69-aaa2-ad2bbb4e8c84",
+   "location": {
+    "x": -0.194839,
+    "y": 51.471999
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Studdridge St",
+   "reportDescription": "",
+   "pubMillis": 1792055067000,
+   "nThumbsUp": 1
+  },
+  {
+   "id": "alert-177818156/510f7b1e-ef3f-4f4e-88b6-9471d3bf0f7d",
+   "location": {
+    "x": -0.195938,
+    "y": 51.474142
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Chipstead St",
+   "reportDescription": "",
+   "pubMillis": 1792055037000,
+   "nThumbsUp": 1
+  },
+  {
+   "id": "alert-123102139/85bd1053-9300-408e-8afe-333adf3861e5",
+   "location": {
+    "x": -0.187255,
+    "y": 51.461286
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Old York Rd",
+   "provider": "UK Community",
+   "providerId": "147867815_s121643900bw_d1770015600000",
+   "reportDescription": "Closed until Aug 2027 for roadworks. Ref #147867815",
+   "pubMillis": 1788642412000,
+   "reportBy": "ClosureMonitor",
+   "nThumbsUp": 9
+  },
+  {
+   "id": "alert-177847593/e58a5f59-3fce-4e7d-8508-c644c8a8682d",
+   "location": {
+    "x": -0.195694,
+    "y": 51.471644
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Studdridge St",
+   "reportDescription": "",
+   "pubMillis": 1792055068000
+  },
+  {
+   "id": "alert-123014096/609e5deb-019f-4507-9c87-f2d5924a39ef",
+   "location": {
+    "x": -0.188092,
+    "y": 51.460494
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Old York Rd",
+   "provider": "UK Community",
+   "providerId": "147867815_s121643900fw_d1770015600000",
+   "reportDescription": "Closed until Aug 2027 for roadworks. Ref #147867815",
+   "pubMillis": 1788642412000,
+   "reportBy": "ClosureMonitor",
+   "nThumbsUp": 7
+  },
+  {
+   "id": "alert-177769380/92ad8858-68af-4e03-9e1a-599481f5af8d",
+   "location": {
+    "x": -0.194046,
+    "y": 51.472302
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Studdridge St",
+   "reportDescription": "",
+   "pubMillis": 1792055067000,
+   "nThumbsUp": 1
+  },
+  {
+   "id": "alert-648295217/b388ff8d-5cca-48f2-9402-78f5ce3c6be5",
+   "location": {
+    "x": -0.178653,
+    "y": 51.499752
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Prince Consort Rd",
+   "pubMillis": 1794037391000
+  },
+  {
+   "id": "alert-601005252/562f351a-157a-4638-996d-bf6cf20cecc4",
+   "location": {
+    "x": -0.158284,
+    "y": 51.467489
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Grayshott Rd",
+   "reportDescription": "",
+   "pubMillis": 1793534416000
+  },
+  {
+   "id": "alert-601005137/95bd3dc0-2c70-4f72-bce2-e18bbc283a6b",
+   "location": {
+    "x": -0.158207,
+    "y": 51.467048
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Grayshott Rd",
+   "reportDescription": "",
+   "pubMillis": 1793534413000
+  },
+  {
+   "id": "alert-648597235/08bcf13a-8827-4b99-b9f1-45d9c7e66196",
+   "location": {
+    "x": -0.134349,
+    "y": 51.4631
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Clapham Manor St",
+   "pubMillis": 1794040168000
+  },
+  {
+   "id": "alert-572991796/bcd25e6d-95ee-4bf3-9e09-f3060833a160",
+   "location": {
+    "x": -0.138276,
+    "y": 51.481145
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Cringle St",
+   "provider": "Elgin (Road closures)",
+   "providerId": "153125085_s121625818fw_d1792827420000",
+   "reportDescription": "[Causeway one.network] .",
+   "pubMillis": 1793287801000
+  },
+  {
+   "id": "alert-572869973/08abe0f5-a1eb-4a44-9cc5-ea231d2189cf",
+   "location": {
+    "x": -0.138951,
+    "y": 51.481276
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Cringle St",
+   "provider": "Elgin (Road closures)",
+   "providerId": "153125085_s121625818bw_d1792827420000",
+   "reportDescription": "[Causeway one.network] .",
+   "pubMillis": 1793287801000
+  },
+  {
+   "id": "alert-1277201940/b63e8cce-ed12-4e72-b756-5ca835fd9744",
+   "location": {
+    "x": -0.134374,
+    "y": 51.482879
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "reportDescription": "",
+   "pubMillis": 1762188926000,
+   "nThumbsUp": 18
+  },
+  {
+   "id": "alert-1277201939/c385b5a7-7390-46c2-bbe7-c74c07b8e88a",
+   "location": {
+    "x": -0.134323,
+    "y": 51.482804
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "reportDescription": "",
+   "pubMillis": 1762188926000,
+   "nThumbsUp": 11
+  },
+  {
+   "id": "alert-1674836433/28856b60-47ff-4ced-b338-ab989f1133b0",
+   "location": {
+    "x": -0.132302,
+    "y": 51.498057
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "ROAD_CLOSED_EVENT",
+   "street": "Abbey Orchard St",
+   "reportDescription": "",
+   "pubMillis": 1745224573000,
+   "nThumbsUp": 76
+  },
+  {
+   "id": "alert-585855041/251cccac-7143-4288-91d1-98e51f2b2db0",
+   "location": {
+    "x": -0.124539,
+    "y": 51.481597
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Wyvil Rd",
+   "provider": "Elgin (Road closures)",
+   "providerId": "151588809_s443510989bw_d1793088000000",
+   "reportDescription": "Closed to 9 Nov ref #151588809. #236755",
+   "pubMillis": 1793383569000
+  },
+  {
+   "id": "alert-585859855/2e6b3272-26ee-469b-a182-fbe2c482222c",
+   "location": {
+    "x": -0.125799,
+    "y": 51.481568
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Wyvil Rd",
+   "provider": "Elgin (Road closures)",
+   "providerId": "151588809_s443510989fw_d1793088000000",
+   "reportDescription": "Closed to 9 Nov ref #151588809. #236755",
+   "pubMillis": 1793383569000
+  },
+  {
+   "id": "alert-645417381/02e63b1b-1b98-428c-9fe9-32550055d48c",
+   "location": {
+    "x": -0.131789,
+    "y": 51.483533
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "reportDescription": "",
+   "pubMillis": 1793999863000
+  },
+  {
+   "id": "alert-617744649/6912eede-f43a-4854-b01d-f094328ae53a",
+   "location": {
+    "x": -0.126659,
+    "y": 51.484196
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "reportDescription": "",
+   "pubMillis": 1793747076000,
+   "nThumbsUp": 1
+  },
+  {
+   "id": "alert-648398856/8cbeae13-0841-44d9-b526-586abab10537",
+   "location": {
+    "x": -0.12666,
+    "y": 51.484197
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "pubMillis": 1794038924000
+  },
+  {
+   "id": "alert-1674836434/a57316c0-df32-4519-ba13-ea8ce8a1292a",
+   "location": {
+    "x": -0.130692,
+    "y": 51.498374
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "ROAD_CLOSED_EVENT",
+   "street": "Abbey Orchard St",
+   "reportDescription": "",
+   "pubMillis": 1745224573000
+  },
+  {
+   "id": "alert-575889207/cce5e453-9030-4b5d-a57e-3267f1d434e2",
+   "location": {
+    "x": -0.105353,
+    "y": 51.503606
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Joan St",
+   "provider": "Elgin (Road closures)",
+   "providerId": "149936517_s121697970bw_d1778475480000",
+   "reportDescription": "[Causeway one.network] .",
+   "pubMillis": 1793307070000,
+   "nThumbsUp": 1
+  },
+  {
+   "id": "alert-645353642/29bd5222-aa29-45a7-98cd-a51bcf187efc",
+   "location": {
+    "x": -0.13174,
+    "y": 51.483479
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "reportDescription": "",
+   "pubMillis": 1793999863000
+  },
+  {
+   "id": "alert-616702048/1a35f722-66e3-4c72-9451-2f885162b760",
+   "location": {
+    "x": -0.147479,
+    "y": 51.513259
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "ROAD_CLOSED_EVENT",
+   "street": "Davies Mews",
+   "reportDescription": "",
+   "pubMillis": 1724238545000,
+   "nThumbsUp": 108
+  },
+  {
+   "id": "alert-616687035/93d63890-d9c8-4ff0-871c-2ea792abe1d2",
+   "location": {
+    "x": -0.148532,
+    "y": 51.513047
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Davies Mews",
+   "reportDescription": "",
+   "pubMillis": 1724238544000,
+   "nThumbsUp": 5
+  },
+  {
+   "id": "alert-616741768/07c189c9-4b7f-4052-9eaa-7aef94ed6433",
+   "location": {
+    "x": -0.148346,
+    "y": 51.512679
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "ROAD_CLOSED_EVENT",
+   "street": "Davies St",
+   "reportDescription": "",
+   "pubMillis": 1724238545000,
+   "nThumbsUp": 210
+  },
+  {
+   "id": "alert-616974065/66b7a13f-fe5d-4fae-b7fa-bbf57c7b3eb9",
+   "location": {
+    "x": -0.148532,
+    "y": 51.513047
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Davies St",
+   "reportDescription": "",
+   "pubMillis": 1724238545000,
+   "nThumbsUp": 7
+  },
+  {
+   "id": "alert-795732201/ffb3a100-d84b-4149-b4f5-79cab704fcfc",
+   "location": {
+    "x": -0.135878,
+    "y": 51.509414
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Air St",
+   "reportDescription": "",
+   "pubMillis": 1775244572000,
+   "nThumbsUp": 20
+  },
+  {
+   "id": "alert-587681582/5ffe5952-89dd-451d-afe5-61832be9ebeb",
+   "location": {
+    "x": -0.143303,
+    "y": 51.508227
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Berkeley St",
+   "reportDescription": "",
+   "pubMillis": 1793388645000
+  },
+  {
+   "id": "alert-587666567/422f6c0a-723f-45ee-8ee1-c20721738d48",
+   "location": {
+    "x": -0.144153,
+    "y": 51.508915
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Berkeley St",
+   "reportDescription": "",
+   "pubMillis": 1793388645000
+  },
+  {
+   "id": "alert-224511248/48ceb994-4a77-4adc-86ae-de3ec1b6bb59",
+   "location": {
+    "x": -0.155776,
+    "y": 51.523113
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Allsop Pl",
+   "reportDescription": "",
+   "pubMillis": 1789655259000,
+   "nThumbsUp": 18
+  },
+  {
+   "id": "alert-648522977/03f04d78-964b-4887-9f0a-0f9d3d2208df",
+   "location": {
+    "x": -0.14809,
+    "y": 51.517876
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Queen Anne St",
+   "pubMillis": 1794039935000
+  },
+  {
+   "id": "alert-648671178/d0d7d6be-491a-4105-82f0-cd68bddd62e6",
+   "location": {
+    "x": -0.136932,
+    "y": 51.518899
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Newman St",
+   "pubMillis": 1794040239000
+  },
+  {
+   "id": "alert-759401327/a0f894b2-b4da-4aed-a5c0-9f0223ba7802",
+   "location": {
+    "x": -0.170412,
+    "y": 51.528728
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "ROAD_CLOSED_EVENT",
+   "street": "Oak Tree Rd",
+   "reportDescription": "",
+   "pubMillis": 1740517608000,
+   "nThumbsUp": 28
+  },
+  {
+   "id": "alert-645369732/b72e8dcc-f27e-442c-9b89-ee30ef8b494a",
+   "location": {
+    "x": -0.132737,
+    "y": 51.536936
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Granary St",
+   "reportDescription": "",
+   "pubMillis": 1793999969000
+  },
+  {
+   "id": "alert-759401328/881d0898-21f6-414c-89eb-60a3cb61dc28",
+   "location": {
+    "x": -0.170004,
+    "y": 51.528357
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "ROAD_CLOSED_EVENT",
+   "street": "Oak Tree Rd",
+   "reportDescription": "",
+   "pubMillis": 1740517608000,
+   "nThumbsUp": 31
+  },
+  {
+   "id": "alert-1332625996/2957e2d4-7795-40a8-8bb2-520aebc43483",
+   "location": {
+    "x": -0.135626,
+    "y": 51.526928
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Euston St",
+   "reportDescription": "",
+   "pubMillis": 1762694219000,
+   "nThumbsUp": 20
+  },
+  {
+   "id": "alert-1332747728/d2c22f8a-7e22-48d3-84ca-bbc551f17fb2",
+   "location": {
+    "x": -0.135989,
+    "y": 51.527408
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Cobourg St",
+   "reportDescription": "",
+   "pubMillis": 1762694219000
+  },
+  {
+   "id": "alert-1332597095/ae7ae2ca-33e9-4fab-949e-3bd582c1b816",
+   "location": {
+    "x": -0.135546,
+    "y": 51.526959
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Cobourg St",
+   "reportDescription": "",
+   "pubMillis": 1762694219000,
+   "nThumbsUp": 25
+  },
+  {
+   "id": "alert-1332582456/0832ba03-5fec-414d-9800-2728db5b6bd4",
+   "location": {
+    "x": -0.136442,
+    "y": 51.52787
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Starcross St",
+   "reportDescription": "",
+   "pubMillis": 1762694219000,
+   "nThumbsUp": 55
+  },
+  {
+   "id": "alert-1332640684/1118e8f0-52cf-4bf4-8351-96c7955bbe7f",
+   "location": {
+    "x": -0.137341,
+    "y": 51.526868
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Drummond St",
+   "reportDescription": "",
+   "pubMillis": 1762694219000,
+   "nThumbsUp": 69
+  },
+  {
+   "id": "alert-1332582457/7fd8ad5a-7ef4-4f12-a022-01bcb1217489",
+   "location": {
+    "x": -0.136873,
+    "y": 51.526435
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Euston St",
+   "reportDescription": "",
+   "pubMillis": 1762694219000,
+   "nThumbsUp": 45
+  },
+  {
+   "id": "alert-625395066/cbbc8f92-81cb-47db-bd2c-3d7827215a01",
+   "location": {
+    "x": -0.14077,
+    "y": 51.528555
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Robert St",
+   "reportDescription": "",
+   "pubMillis": 1793831385000
+  },
+  {
+   "id": "alert-648574664/49cdf4c0-d286-4855-96e5-401821c8b526",
+   "location": {
+    "x": -0.124995,
+    "y": 51.514804
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Endell St",
+   "pubMillis": 1794040056000
+  },
+  {
+   "id": "alert-648489990/f61dc3e8-cb8f-4041-8ee0-d1c8fed82a15",
+   "location": {
+    "x": -0.124612,
+    "y": 51.51454
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Endell St",
+   "pubMillis": 1794040069000
+  },
+  {
+   "id": "alert-1097944792/a9453811-f343-43a7-89c8-92715ca11231",
+   "location": {
+    "x": -0.128283,
+    "y": 51.506956
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "The Mall",
+   "reportDescription": "",
+   "pubMillis": 1733438437000,
+   "nThumbsUp": 106
+  },
+  {
+   "id": "alert-210319452/67896217-7314-42da-857d-9a1e3068fe06",
+   "location": {
+    "x": -0.088397,
+    "y": 51.512854
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "King William St",
+   "reportDescription": "",
+   "pubMillis": 1789576087000,
+   "nThumbsUp": 2
+  },
+  {
+   "id": "alert-575869359/9b775162-374e-4587-8844-0b5b5a51567e",
+   "location": {
+    "x": -0.105378,
+    "y": 51.504135
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Joan St",
+   "provider": "Elgin (Road closures)",
+   "providerId": "149936517_s121697970fw_d1778475480000",
+   "reportDescription": "[Causeway one.network] .",
+   "pubMillis": 1793307070000,
+   "nThumbsUp": 1
+  },
+  {
+   "id": "alert-637370134/e01c197e-9322-41e6-8876-b8fbb32aaf4a",
+   "location": {
+    "x": -0.092501,
+    "y": 51.512737
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Watling St",
+   "provider": "UK Community",
+   "providerId": "153464740_s293802148fw_d1793951580000",
+   "reportDescription": "Closed until Nov 12 for roadworks. Ref #153464740",
+   "pubMillis": 1793952160000,
+   "reportBy": "ClosureMonitor"
+  },
+  {
+   "id": "alert-210372851/3e9979fa-7245-4272-9c58-67fdb211fdc6",
+   "location": {
+    "x": -0.088074,
+    "y": 51.512442
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "King William St",
+   "reportDescription": "",
+   "pubMillis": 1789576087000,
+   "nThumbsUp": 3
+  },
+  {
+   "id": "alert-23697997/416e7e8c-0bbe-4917-9cbc-6e0cb9376cdd",
+   "location": {
+    "x": -0.090254,
+    "y": 51.506291
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Montague Cl",
+   "provider": "Elgin (Road closures)",
+   "providerId": "152268902_s167453730fw_d1788735600000",
+   "reportDescription": "[Causeway one.network] .",
+   "pubMillis": 1790440184000,
+   "nThumbsUp": 8
+  },
+  {
+   "id": "alert-23742737/81e5513c-17fd-49bd-b5a5-3f50f27b85ae",
+   "location": {
+    "x": -0.0899,
+    "y": 51.506695
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Montague Cl",
+   "provider": "Elgin (Road closures)",
+   "providerId": "152268902_s167453730bw_d1788735600000",
+   "reportDescription": "[Causeway one.network] .",
+   "pubMillis": 1790440184000,
+   "nThumbsUp": 1
+  },
+  {
+   "id": "alert-111106787/99e86f72-cc20-4d4d-8802-e79a946de879",
+   "location": {
+    "x": -0.095381,
+    "y": 51.521396
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Viscount St",
+   "reportDescription": "",
+   "pubMillis": 1791457721000
+  },
+  {
+   "id": "alert-1082523921/dd79e801-1c33-4236-bbb2-ab277a8ce362",
+   "location": {
+    "x": -0.093111,
+    "y": 51.515591
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Aldermanbury",
+   "reportDescription": "",
+   "pubMillis": 1780382318000,
+   "nThumbsUp": 1
+  },
+  {
+   "id": "alert-1082719350/9f5b0591-0b34-450e-9629-cfa13beb2977",
+   "location": {
+    "x": -0.093111,
+    "y": 51.515591
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Aldermanbury",
+   "reportDescription": "",
+   "pubMillis": 1780382373000,
+   "nThumbsUp": 8
+  },
+  {
+   "id": "alert-111047455/bdd356e5-6431-41f7-83b1-77e0bd6045d5",
+   "location": {
+    "x": -0.095381,
+    "y": 51.521396
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Viscount St",
+   "reportDescription": "",
+   "pubMillis": 1791457721000
+  },
+  {
+   "id": "alert-115487964/b3c16662-9c3e-4606-8b2b-ab0e5802c983",
+   "location": {
+    "x": -0.094295,
+    "y": 51.521475
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Brackley St",
+   "reportDescription": "",
+   "pubMillis": 1791490971000,
+   "nThumbsUp": 1
+  },
+  {
+   "id": "alert-111052461/849953d4-99bf-4dec-b307-722033b3ef1d",
+   "location": {
+    "x": -0.0952,
+    "y": 51.521055
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Viscount St",
+   "reportDescription": "",
+   "pubMillis": 1791457720000,
+   "nThumbsUp": 1
+  },
+  {
+   "id": "alert-115427222/51f0c1cc-0732-455a-8a30-d42a09dc5b1b",
+   "location": {
+    "x": -0.095381,
+    "y": 51.521396
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Brackley St",
+   "reportDescription": "",
+   "pubMillis": 1791490971000,
+   "nThumbsUp": 2
+  },
+  {
+   "id": "alert-258641740/c2fc5237-20d5-422d-9056-cd69f4ac1d8f",
+   "location": {
+    "x": -0.104633,
+    "y": 51.517845
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "West Smithfield",
+   "reportDescription": "",
+   "pubMillis": 1790025593000,
+   "nThumbsUp": 8
+  },
+  {
+   "id": "alert-1249751415/284d97b5-68d2-41bc-83ee-93bb0f3850e1",
+   "location": {
+    "x": -0.103342,
+    "y": 51.517226
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "ROAD_CLOSED_EVENT",
+   "street": "Snow Hill",
+   "reportDescription": "",
+   "pubMillis": 1743418806000,
+   "nThumbsUp": 85
+  },
+  {
+   "id": "alert-648299383/1b29ba82-5a60-4894-bd15-4c599875a34c",
+   "location": {
+    "x": -0.093905,
+    "y": 51.51694
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Wood St",
+   "pubMillis": 1794038035000
+  },
+  {
+   "id": "alert-648434752/bbf5c3bc-07fc-4c38-b110-c0f4c1c64953",
+   "location": {
+    "x": -0.102975,
+    "y": 51.51931
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Charterhouse St",
+   "pubMillis": 1794038782000
+  },
+  {
+   "id": "alert-648423246/7742e6c1-4f64-4d23-930a-609277596c1e",
+   "location": {
+    "x": -0.102975,
+    "y": 51.51931
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Charterhouse St",
+   "pubMillis": 1794038795000
+  },
+  {
+   "id": "alert-648593284/64945cba-54f6-4314-a920-26ba847c7312",
+   "location": {
+    "x": -0.105321,
+    "y": 51.518549
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Charterhouse St",
+   "pubMillis": 1794040760000,
+   "nThumbsUp": 1
+  },
+  {
+   "id": "alert-224472940/01eade29-2c19-4d9c-a01b-b967893b7bc1",
+   "location": {
+    "x": -0.109138,
+    "y": 51.529997
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Inglebert St",
+   "reportDescription": "",
+   "pubMillis": 1789655526000,
+   "nThumbsUp": 10
+  },
+  {
+   "id": "alert-224395335/24e53a17-73f9-4cc3-9638-6cf5f2659cad",
+   "location": {
+    "x": -0.11043,
+    "y": 51.529765
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Inglebert St",
+   "reportDescription": "",
+   "pubMillis": 1789655526000,
+   "nThumbsUp": 6
+  },
+  {
+   "id": "alert-645384619/d05e8c53-6b08-482d-87fb-d1cf2863200b",
+   "location": {
+    "x": -0.130431,
+    "y": 51.536803
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Granary St",
+   "reportDescription": "",
+   "pubMillis": 1793999969000
+  },
+  {
+   "id": "alert-210353646/4de48408-42e2-4a12-809a-4e95e9148f20",
+   "location": {
+    "x": -0.087835,
+    "y": 51.512152
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "King William St",
+   "reportDescription": "",
+   "pubMillis": 1789576087000
+  },
+  {
+   "id": "alert-713756718/56a0ae24-f23b-4894-86dc-45cd005ee84d",
+   "location": {
+    "x": -0.086893,
+    "y": 51.511029
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "King William St",
+   "reportDescription": "",
+   "pubMillis": 1777062450000,
+   "nThumbsUp": 27
+  },
+  {
+   "id": "alert-210397350/bab58dc5-31b2-4877-b5c9-24f0566878a4",
+   "location": {
+    "x": -0.087346,
+    "y": 51.511577
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "King William St",
+   "reportDescription": "",
+   "pubMillis": 1789576088000
+  },
+  {
+   "id": "alert-713722245/f70853c5-27b0-47ad-9916-fed2c5eeec0b",
+   "location": {
+    "x": -0.086976,
+    "y": 51.511136
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "King William St",
+   "reportDescription": "",
+   "pubMillis": 1777062450000
+  },
+  {
+   "id": "alert-6009690/e6b8c9dc-84b4-461c-91ab-c5995550a61c",
+   "location": {
+    "x": -0.087099,
+    "y": 51.511294
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "King William St",
+   "reportDescription": "",
+   "pubMillis": 1790238225000
+  },
+  {
+   "id": "alert-210315096/348c2295-9d86-4447-afa2-a5abdbc8b998",
+   "location": {
+    "x": -0.087737,
+    "y": 51.512035
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "King William St",
+   "reportDescription": "",
+   "pubMillis": 1789576087000,
+   "nThumbsUp": 2
+  },
+  {
+   "id": "alert-210377917/420166ab-6d33-4a08-8b7f-f0b84a5c9572",
+   "location": {
+    "x": -0.087479,
+    "y": 51.511729
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "King William St",
+   "reportDescription": "",
+   "pubMillis": 1789576088000
+  },
+  {
+   "id": "alert-44419600/3f46fb06-7d80-4889-bed7-590e505537a1",
+   "location": {
+    "x": -0.08728,
+    "y": 51.512684
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Abchurch Ln",
+   "provider": "Elgin (Road closures)",
+   "providerId": "152469323_s121696217fw_d1790578800000",
+   "reportDescription": "Roadworks to  22 Dec ref #152469323",
+   "pubMillis": 1790718128000,
+   "nThumbsUp": 5
+  },
+  {
+   "id": "alert-648461069/82beb0f1-7156-48ae-8e36-57fb45c53f54",
+   "location": {
+    "x": -0.076105,
+    "y": 51.511596
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Crosswall",
+   "pubMillis": 1794038180000
+  },
+  {
+   "id": "alert-212784467/c1010f1f-ffa6-4c7c-b1b3-e375a756b24e",
+   "location": {
+    "x": -0.08197,
+    "y": 51.520576
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Appold St",
+   "provider": "Elgin (Road closures)",
+   "providerId": "152263958_s121697915bw_d1791914400000",
+   "reportDescription": "[Causeway one.network] .",
+   "pubMillis": 1792399859000,
+   "nThumbsUp": 2
+  },
+  {
+   "id": "alert-97820786/7c66f101-1644-43b8-b02a-25a1af808d08",
+   "location": {
+    "x": -0.08524,
+    "y": 51.520303
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Wilson St",
+   "reportDescription": "",
+   "pubMillis": 1791327615000,
+   "nThumbsUp": 3
+  },
+  {
+   "id": "alert-212832954/0d4ce564-304f-4bf0-b957-d4de84f4aef6",
+   "location": {
+    "x": -0.081592,
+    "y": 51.520961
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Appold St",
+   "provider": "Elgin (Road closures)",
+   "providerId": "152263958_s121697915fw_d1791914400000",
+   "reportDescription": "[Causeway one.network] .",
+   "pubMillis": 1792399859000,
+   "nThumbsUp": 4
+  },
+  {
+   "id": "alert-648462132/378230ba-891e-47e2-a36c-25e8f9b1b23b",
+   "location": {
+    "x": -0.077767,
+    "y": 51.510797
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Savage Gdns",
+   "pubMillis": 1794038701000
+  },
+  {
+   "id": "alert-648428591/1c75e2c3-d74e-46d7-a019-a2b4eb52fd47",
+   "location": {
+    "x": -0.077032,
+    "y": 51.510846
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Cooper's Row",
+   "pubMillis": 1794039225000
+  },
+  {
+   "id": "alert-648547235/3321b96a-7cea-46bf-b808-396601e31529",
+   "location": {
+    "x": -0.077032,
+    "y": 51.510846
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Cooper's Row",
+   "pubMillis": 1794039265000
+  },
+  {
+   "id": "alert-648484282/5d80eb17-c69d-43c8-ac5c-68897de4ab52",
+   "location": {
+    "x": -0.077032,
+    "y": 51.510846
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Cooper's Row",
+   "pubMillis": 1794039311000
+  },
+  {
+   "id": "alert-648399555/02a0330d-0cf0-407b-ac9e-332d09488520",
+   "location": {
+    "x": -0.077032,
+    "y": 51.510846
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Cooper's Row",
+   "pubMillis": 1794039369000
+  },
+  {
+   "id": "alert-123191206/e7328ac1-a543-47b4-8aca-e1ca326897a7",
+   "location": {
+    "x": -0.07182,
+    "y": 51.53947
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Albion Dr",
+   "provider": "UK Community",
+   "providerId": "27012935_s441314895fw_d1672531200000",
+   "reportDescription": "Closed due to an event. Ref #27012935",
+   "pubMillis": 1788642430000,
+   "reportBy": "ClosureMonitor",
+   "nThumbsUp": 2
+  },
+  {
+   "id": "alert-123122303/e22e1411-31c4-46f9-a57c-4dffe77c31b1",
+   "location": {
+    "x": -0.070186,
+    "y": 51.539382
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Albion Dr",
+   "provider": "UK Community",
+   "providerId": "27012935_s441314895bw_d1672531200000",
+   "reportDescription": "Closed due to an event. Ref #27012935",
+   "pubMillis": 1788642430000,
+   "reportBy": "ClosureMonitor",
+   "nThumbsUp": 5
+  },
+  {
+   "id": "alert-603734091/8d0b552c-e07e-44fe-9dc4-890347414752",
+   "location": {
+    "x": -0.199853,
+    "y": 51.482042
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "B317 - North End Rd",
+   "reportDescription": "",
+   "pubMillis": 1793572335000
+  },
+  {
+   "id": "alert-603851084/1b2df87d-0b81-438a-a573-955532700de5",
+   "location": {
+    "x": -0.19995,
+    "y": 51.482159
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "B317 - North End Rd",
+   "reportDescription": "",
+   "pubMillis": 1793572335000,
+   "nThumbsUp": 1
+  },
+  {
+   "id": "alert-603826826/e20a29d7-675f-47c2-9f41-78a3f8b33e2e",
+   "location": {
+    "x": -0.19995,
+    "y": 51.482159
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "B317 - North End Rd",
+   "reportDescription": "",
+   "pubMillis": 1793572335000
+  },
+  {
+   "id": "alert-572581524/9b780be2-b234-4289-a27b-61b116e835d7",
+   "location": {
+    "x": -0.073544,
+    "y": 51.488988
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "B204 - Rolls Rd",
+   "reportDescription": "",
+   "pubMillis": 1793285912000
+  },
+  {
+   "id": "alert-246314119/240fc619-a1e0-423c-a6ec-6065f402a6f3",
+   "location": {
+    "x": -0.176611,
+    "y": 51.541618
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "B509 - Hillgrove Rd",
+   "reportDescription": "",
+   "pubMillis": 1792690198000,
+   "nThumbsUp": 5
+  },
+  {
+   "id": "alert-645224827/f6c199fe-4c02-4e18-9250-9b0e7d03c9c7",
+   "location": {
+    "x": -0.173133,
+    "y": 51.541632
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "B525 - Avenue Rd",
+   "reportDescription": "",
+   "pubMillis": 1793998626000
+  },
+  {
+   "id": "alert-645996425/4050e602-c26d-4771-b423-15279b92d824",
+   "location": {
+    "x": -0.172982,
+    "y": 51.541888
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "B525 - Avenue Rd",
+   "reportDescription": "",
+   "pubMillis": 1794005256000
+  },
+  {
+   "id": "alert-571570057/f8550f54-66b0-4fe7-8640-a7c5bc099b8d",
+   "location": {
+    "x": -0.167333,
+    "y": 51.48353
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "A3031 - Albert Bridge",
+   "provider": "Royal Borough of Kensington and Chelsea",
+   "providerId": "",
+   "reportDescription": "",
+   "pubMillis": 1793280321000,
+   "reportBy": "Royal Borough of Kensington and Chelsea"
+  },
+  {
+   "id": "alert-571621620/69fad6eb-e074-4c96-9cf2-62a0100c3a9c",
+   "location": {
+    "x": -0.166211,
+    "y": 51.481296
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "A3031 - Albert Bridge",
+   "provider": "Royal Borough of Kensington and Chelsea",
+   "providerId": "",
+   "reportDescription": "",
+   "pubMillis": 1793280321000,
+   "reportBy": "Royal Borough of Kensington and Chelsea",
+   "nThumbsUp": 1
+  },
+  {
+   "id": "alert-636795786/3ac70973-edba-4ec4-a763-0fcd6e323e4f",
+   "location": {
+    "x": -0.060557,
+    "y": 51.492122
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "A2206 - Southwark Park Rd",
+   "provider": "UK Community",
+   "providerId": "153082653_s324279562bw_d1793943646000",
+   "reportDescription": "Closed until Sun night for roadworks. Ref #153082653",
+   "pubMillis": 1793944356000,
+   "reportBy": "ClosureMonitor"
+  },
+  {
+   "id": "alert-636643598/163cd943-116e-490c-9a0d-a16e886e01ec",
+   "location": {
+    "x": -0.05999,
+    "y": 51.492347
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "A2206 - Southwark Park Rd",
+   "provider": "UK Community",
+   "providerId": "153082653_s324279562fw_d1793943646000",
+   "reportDescription": "Closed until Sun night for roadworks. Ref #153082653",
+   "pubMillis": 1793944356000,
+   "reportBy": "ClosureMonitor"
+  },
+  {
+   "id": "alert-190592996/679c1ceb-2502-41ca-9244-ef751404432f",
+   "location": {
+    "x": -0.134659,
+    "y": 51.530873
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "A4200 - Eversholt St",
+   "provider": "UK Community",
+   "providerId": "231246_s152266141fw_d1789318800000",
+   "reportDescription": "Closed until Dec 30 for utility works works. Ref #231246",
+   "pubMillis": 1789319405000,
+   "reportBy": "ClosureMonitor",
+   "nThumbsUp": 8
+  },
+  {
+   "id": "alert-190675797/f5abb09a-aca6-4233-80d5-4f3839df1c7b",
+   "location": {
+    "x": -0.131927,
+    "y": 51.528374
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "A4200 - Eversholt St",
+   "provider": "UK Community",
+   "providerId": "231246_s287233041bw_d1789318800000",
+   "reportDescription": "Closed until Dec 30 for utility works works. Ref #231246",
+   "pubMillis": 1789319406000,
+   "reportBy": "ClosureMonitor"
+  },
+  {
+   "id": "alert-190499675/2b9f7c53-df5d-47c0-8a40-d49cc62e8e16",
+   "location": {
+    "x": -0.133308,
+    "y": 51.529634
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "A4200 - Eversholt St",
+   "provider": "UK Community",
+   "providerId": "231246_s121720444fw_d1789318800000",
+   "reportDescription": "Closed until Dec 30 for utility works works. Ref #231246",
+   "pubMillis": 1789319406000,
+   "reportBy": "ClosureMonitor",
+   "nThumbsUp": 4
+  },
+  {
+   "id": "alert-190573262/c2100212-2936-4d4e-9c9b-3bdda1cbdeec",
+   "location": {
+    "x": -0.132393,
+    "y": 51.528808
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "A4200 - Eversholt St",
+   "provider": "UK Community",
+   "providerId": "231246_s287233042bw_d1789318800000",
+   "reportDescription": "Closed until Dec 30 for utility works works. Ref #231246",
+   "pubMillis": 1789319406000,
+   "reportBy": "ClosureMonitor"
+  },
+  {
+   "id": "alert-190583083/d260c88e-8832-4deb-9cd8-1e67bd870eaa",
+   "location": {
+    "x": -0.133781,
+    "y": 51.530065
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "A4200 - Eversholt St",
+   "provider": "UK Community",
+   "providerId": "231246_s121718680fw_d1789318800000",
+   "reportDescription": "Closed until Dec 30 for utility works works. Ref #231246",
+   "pubMillis": 1789319406000,
+   "reportBy": "ClosureMonitor"
+  },
+  {
+   "id": "alert-105937477/d66631fe-04e7-43d2-ae21-b27da4abbf79",
+   "location": {
+    "x": -0.072365,
+    "y": 51.510166
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "A1202 - Royal Mint St",
+   "reportDescription": "",
+   "pubMillis": 1788459181000,
+   "nThumbsUp": 14
+  },
+  {
+   "id": "alert-645145222/3a45e36e-137c-4dfb-980c-6ec4a45bdf96",
+   "location": {
+    "x": -0.173461,
+    "y": 51.54199
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "A41 - Avenue Rd",
+   "reportDescription": "",
+   "pubMillis": 1793998694000
+  }
+ ],
+ "jams": [
+  {
+   "id": 549737676,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "Closed until Dec 30 for utility works works. Ref #231246"
+   },
+   "line": [
+    {
+     "x": -0.131927,
+     "y": 51.528374
+    },
+    {
+     "x": -0.131886,
+     "y": 51.528337
+    },
+    {
+     "x": -0.131358,
+     "y": 51.527867
+    }
+   ],
+   "level": 5,
+   "street": "A4200 - Eversholt St",
+   "city": "Euston",
+   "blockUpdate": 1789319406123,
+   "updateMillis": 1794040958440,
+   "endNode": "",
+   "length": 69,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 236701198,
+     "ID": 287233041,
+     "toNode": 151259734,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92670088,
+   "line": [
+    {
+     "x": -0.123985,
+     "y": 51.530068
+    },
+    {
+     "x": -0.124428,
+     "y": 51.530386
+    },
+    {
+     "x": -0.125264,
+     "y": 51.531438
+    },
+    {
+     "x": -0.125468,
+     "y": 51.531694
+    },
+    {
+     "x": -0.125512,
+     "y": 51.531827
+    },
+    {
+     "x": -0.125495,
+     "y": 51.531917
+    },
+    {
+     "x": -0.125468,
+     "y": 51.532038
+    },
+    {
+     "x": -0.125568,
+     "y": 51.532181
+    },
+    {
+     "x": -0.125867,
+     "y": 51.532393
+    },
+    {
+     "x": -0.126598,
+     "y": 51.533396
+    },
+    {
+     "x": -0.127013,
+     "y": 51.533965
+    },
+    {
+     "x": -0.127013,
+     "y": 51.533966
+    },
+    {
+     "x": -0.128623,
+     "y": 51.533407
+    }
+   ],
+   "level": 2,
+   "street": "A5202 - Pancras Rd",
+   "city": "King's Cross",
+   "updateMillis": 1794040956408,
+   "endNode": "A5202 - Pancras Rd",
+   "length": 618,
+   "speed": 2.6777777777777776,
+   "segments": [
+    {
+     "fromNode": 127578039,
+     "ID": 307448784,
+     "toNode": 250543728,
+     "isForward": true
+    },
+    {
+     "fromNode": 250543728,
+     "ID": 309770949,
+     "toNode": 252003019,
+     "isForward": true
+    },
+    {
+     "fromNode": 252003019,
+     "ID": 370816585,
+     "toNode": 290798505,
+     "isForward": true
+    },
+    {
+     "fromNode": 290798505,
+     "ID": 370816586,
+     "toNode": 127608420,
+     "isForward": true
+    },
+    {
+     "fromNode": 127608420,
+     "ID": 121735990,
+     "toNode": 148183689,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1294844450,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.200599,
+     "y": 51.482964
+    },
+    {
+     "x": -0.200921,
+     "y": 51.483344
+    }
+   ],
+   "level": 5,
+   "street": "B317 - North End Rd",
+   "city": "Fulham",
+   "blockUpdate": 1793572249778,
+   "updateMillis": 1794040966831,
+   "endNode": "Anselm Rd",
+   "length": 48,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127529043,
+     "ID": 121631443,
+     "toNode": 127526163,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 691910700,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.128283,
+     "y": 51.506956
+    },
+    {
+     "x": -0.129013,
+     "y": 51.506603
+    },
+    {
+     "x": -0.130832,
+     "y": 51.505877
+    }
+   ],
+   "level": 5,
+   "street": "The Mall",
+   "city": "Westminster",
+   "blockUpdate": 1733438437327,
+   "updateMillis": 1794040958996,
+   "endNode": "Horse Guards Rd",
+   "length": 214,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 216433146,
+     "ID": 256744313,
+     "toNode": 127595221,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92296594,
+   "line": [
+    {
+     "x": -0.184391,
+     "y": 51.545496
+    },
+    {
+     "x": -0.184783,
+     "y": 51.545322
+    },
+    {
+     "x": -0.184989,
+     "y": 51.545254
+    },
+    {
+     "x": -0.185481,
+     "y": 51.545135
+    },
+    {
+     "x": -0.185875,
+     "y": 51.54507
+    },
+    {
+     "x": -0.186535,
+     "y": 51.545037
+    },
+    {
+     "x": -0.187943,
+     "y": 51.545066
+    },
+    {
+     "x": -0.188885,
+     "y": 51.545101
+    }
+   ],
+   "level": 2,
+   "street": "Compayne Gdns",
+   "city": "South Hampstead",
+   "updateMillis": 1794040853070,
+   "endNode": "Priory Rd",
+   "length": 324,
+   "speed": 2.202777777777778,
+   "segments": [
+    {
+     "fromNode": 127598563,
+     "ID": 121728485,
+     "toNode": 127598038,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92136042,
+   "line": [
+    {
+     "x": -0.192249,
+     "y": 51.548931
+    },
+    {
+     "x": -0.193233,
+     "y": 51.548815
+    },
+    {
+     "x": -0.193683,
+     "y": 51.548889
+    },
+    {
+     "x": -0.194647,
+     "y": 51.549042
+    }
+   ],
+   "level": 3,
+   "street": "Sumatra Rd",
+   "city": "West Hampstead",
+   "updateMillis": 1794040851026,
+   "endNode": "Dennington Park Rd",
+   "length": 171,
+   "speed": 1.3805555555555555,
+   "segments": [
+    {
+     "fromNode": 127607576,
+     "ID": 121734334,
+     "toNode": 127603637,
+     "isForward": false
+    },
+    {
+     "fromNode": 127603637,
+     "ID": 121726991,
+     "toNode": 127603638,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1087235540,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "Closed until Dec 30 for utility works works. Ref #231246"
+   },
+   "line": [
+    {
+     "x": -0.133781,
+     "y": 51.530065
+    },
+    {
+     "x": -0.133308,
+     "y": 51.529634
+    }
+   ],
+   "level": 5,
+   "street": "A4200 - Eversholt St",
+   "city": "Euston",
+   "blockUpdate": 1789319406002,
+   "updateMillis": 1794040959114,
+   "endNode": "Drummond Cr",
+   "length": 58,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127596156,
+     "ID": 121718680,
+     "toNode": 127596221,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 8202596,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.148532,
+     "y": 51.513047
+    },
+    {
+     "x": -0.148346,
+     "y": 51.512679
+    }
+   ],
+   "level": 5,
+   "street": "Davies St",
+   "city": "Mayfair",
+   "blockUpdate": 1724238545062,
+   "updateMillis": 1794040958603,
+   "endNode": "Brook St",
+   "length": 43,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127594696,
+     "ID": 186361744,
+     "toNode": 127597337,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 787788008,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "[Causeway one.network] ."
+   },
+   "line": [
+    {
+     "x": -0.138276,
+     "y": 51.481145
+    },
+    {
+     "x": -0.13846,
+     "y": 51.481205
+    },
+    {
+     "x": -0.138951,
+     "y": 51.481276
+    }
+   ],
+   "level": 5,
+   "street": "Cringle St",
+   "city": "Battersea",
+   "blockUpdate": 1793287801408,
+   "updateMillis": 1794040956934,
+   "endNode": "Kirtling St",
+   "length": 49,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127524233,
+     "ID": 121625818,
+     "toNode": 127524520,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 91187058,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -0.102974,
+     "y": 51.519309
+    },
+    {
+     "x": -0.105321,
+     "y": 51.518549
+    }
+   ],
+   "level": 5,
+   "street": "Charterhouse St",
+   "city": "City of London",
+   "blockUpdate": 1794038782892,
+   "updateMillis": 1794040957279,
+   "endNode": "A201 - Farringdon Rd",
+   "length": 183,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 148225675,
+     "ID": 142785103,
+     "toNode": 127582725,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 587252000,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "ROAD_CLOSED_EVENT",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.147479,
+     "y": 51.513259
+    },
+    {
+     "x": -0.148532,
+     "y": 51.513047
+    }
+   ],
+   "level": 5,
+   "street": "Davies Mews",
+   "city": "Mayfair",
+   "blockUpdate": 1724238545009,
+   "updateMillis": 1794040957954,
+   "endNode": "Davies St",
+   "length": 77,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127594697,
+     "ID": 121716869,
+     "toNode": 127594696,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 1776150780,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.14077,
+     "y": 51.528555
+    },
+    {
+     "x": -0.138622,
+     "y": 51.528547
+    }
+   ],
+   "level": 5,
+   "street": "Robert St",
+   "city": "Euston",
+   "blockUpdate": 1793831385878,
+   "updateMillis": 1794040958551,
+   "endNode": "A400 - Hampstead Rd",
+   "length": 149,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127595768,
+     "ID": 121717796,
+     "toNode": 127595769,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 593350012,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "ROAD_CLOSED_EVENT",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.130692,
+     "y": 51.498374
+    },
+    {
+     "x": -0.129963,
+     "y": 51.498401
+    }
+   ],
+   "level": 5,
+   "street": "Abbey Orchard St",
+   "city": "Westminster",
+   "blockUpdate": 1745224573306,
+   "updateMillis": 1794040957227,
+   "endNode": "B326 - Great Smith St",
+   "length": 51,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127523444,
+     "ID": 121624660,
+     "toNode": 127523727,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 735432692,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.195938,
+     "y": 51.474142
+    },
+    {
+     "x": -0.195363,
+     "y": 51.473707
+    },
+    {
+     "x": -0.194915,
+     "y": 51.473322
+    },
+    {
+     "x": -0.194737,
+     "y": 51.473129
+    },
+    {
+     "x": -0.194046,
+     "y": 51.472302
+    }
+   ],
+   "level": 5,
+   "street": "Chipstead St",
+   "city": "Fulham",
+   "blockUpdate": 1792055037578,
+   "updateMillis": 1794040957940,
+   "endNode": "Studdridge St",
+   "length": 244,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127530241,
+     "ID": 121632773,
+     "toNode": 127530242,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 790746114,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.135989,
+     "y": 51.527408
+    },
+    {
+     "x": -0.136442,
+     "y": 51.52787
+    }
+   ],
+   "level": 5,
+   "street": "Cobourg St",
+   "city": "Euston",
+   "blockUpdate": 1762694219316,
+   "updateMillis": 1794040958439,
+   "endNode": "Starcross St",
+   "length": 60,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127596151,
+     "ID": 121718516,
+     "toNode": 127594998,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92095326,
+   "line": [
+    {
+     "x": -0.152929,
+     "y": 51.466149
+    },
+    {
+     "x": -0.152798,
+     "y": 51.465697
+    },
+    {
+     "x": -0.152736,
+     "y": 51.465039
+    },
+    {
+     "x": -0.152687,
+     "y": 51.464779
+    }
+   ],
+   "level": 4,
+   "street": "Taybridge Rd",
+   "city": "Clapham",
+   "updateMillis": 1794040957584,
+   "endNode": "Gowrie Rd",
+   "length": 154,
+   "speed": 0.7305555555555555,
+   "segments": [
+    {
+     "fromNode": 127525914,
+     "ID": 121642368,
+     "toNode": 127528224,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 92095316,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -0.124994,
+     "y": 51.514803
+    },
+    {
+     "x": -0.124611,
+     "y": 51.514539
+    }
+   ],
+   "level": 5,
+   "street": "Endell St",
+   "city": "Seven Dials",
+   "blockUpdate": 1794040056958,
+   "updateMillis": 1794040957150,
+   "endNode": "Betterton St",
+   "length": 40,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127582363,
+     "ID": 121698159,
+     "toNode": 127580178,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92490666,
+   "line": [
+    {
+     "x": -0.155205,
+     "y": 51.51964
+    },
+    {
+     "x": -0.154616,
+     "y": 51.519733
+    },
+    {
+     "x": -0.154563,
+     "y": 51.519713
+    },
+    {
+     "x": -0.153875,
+     "y": 51.518444
+    }
+   ],
+   "level": 3,
+   "street": "Manchester St",
+   "city": "Marylebone",
+   "updateMillis": 1794040852858,
+   "endNode": "Blandford St",
+   "length": 196,
+   "speed": 1.3555555555555556,
+   "segments": [
+    {
+     "fromNode": 127595970,
+     "ID": 121719001,
+     "toNode": 127595966,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 593777738,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "ROAD_CLOSED_EVENT",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.148346,
+     "y": 51.512679
+    },
+    {
+     "x": -0.148532,
+     "y": 51.513047
+    }
+   ],
+   "level": 5,
+   "street": "Davies St",
+   "city": "Mayfair",
+   "blockUpdate": 1724238545136,
+   "updateMillis": 1794040958413,
+   "endNode": "Davies Mews",
+   "length": 43,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127597337,
+     "ID": 186361744,
+     "toNode": 127594696,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92570794,
+   "line": [
+    {
+     "x": -0.139223,
+     "y": 51.455006
+    },
+    {
+     "x": -0.139524,
+     "y": 51.455145
+    },
+    {
+     "x": -0.139578,
+     "y": 51.455196
+    },
+    {
+     "x": -0.139837,
+     "y": 51.455535
+    },
+    {
+     "x": -0.140047,
+     "y": 51.455681
+    },
+    {
+     "x": -0.140916,
+     "y": 51.456196
+    },
+    {
+     "x": -0.141016,
+     "y": 51.456224
+    },
+    {
+     "x": -0.141122,
+     "y": 51.456202
+    },
+    {
+     "x": -0.141812,
+     "y": 51.455831
+    }
+   ],
+   "level": 3,
+   "street": "Hambalt Rd",
+   "city": "Clapham Park",
+   "updateMillis": 1794040957941,
+   "endNode": "Narbonne Ave",
+   "length": 258,
+   "speed": 1.4194444444444445,
+   "segments": [
+    {
+     "fromNode": 127535775,
+     "ID": 121640928,
+     "toNode": 127532964,
+     "isForward": false
+    },
+    {
+     "fromNode": 127532964,
+     "ID": 121638297,
+     "toNode": 127534475,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 735432698,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.194046,
+     "y": 51.472302
+    },
+    {
+     "x": -0.194737,
+     "y": 51.473129
+    },
+    {
+     "x": -0.194915,
+     "y": 51.473322
+    },
+    {
+     "x": -0.195363,
+     "y": 51.473707
+    },
+    {
+     "x": -0.195938,
+     "y": 51.474142
+    }
+   ],
+   "level": 5,
+   "street": "Chipstead St",
+   "city": "Fulham",
+   "blockUpdate": 1792055037639,
+   "updateMillis": 1794040957941,
+   "endNode": "A308 - New Kings Rd",
+   "length": 244,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127530242,
+     "ID": 121632773,
+     "toNode": 127530241,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92095308,
+   "line": [
+    {
+     "x": -0.168681,
+     "y": 51.47703
+    },
+    {
+     "x": -0.168724,
+     "y": 51.477076
+    },
+    {
+     "x": -0.169278,
+     "y": 51.477696
+    },
+    {
+     "x": -0.169869,
+     "y": 51.478273
+    },
+    {
+     "x": -0.170331,
+     "y": 51.478739
+    },
+    {
+     "x": -0.170562,
+     "y": 51.478981
+    },
+    {
+     "x": -0.17097,
+     "y": 51.479425
+    },
+    {
+     "x": -0.171481,
+     "y": 51.479997
+    }
+   ],
+   "level": 4,
+   "street": "A3220 - Battersea Bridge Rd",
+   "city": "Battersea",
+   "updateMillis": 1794040956883,
+   "endNode": "A3220 - Battersea Bridge",
+   "length": 383,
+   "speed": 1.4833333333333334,
+   "segments": [
+    {
+     "fromNode": 127524191,
+     "ID": 121625076,
+     "toNode": 127524200,
+     "isForward": false
+    },
+    {
+     "fromNode": 127524200,
+     "ID": 121626034,
+     "toNode": 127524677,
+     "isForward": false
+    },
+    {
+     "fromNode": 127524677,
+     "ID": 121626430,
+     "toNode": 127524676,
+     "isForward": false
+    },
+    {
+     "fromNode": 127524676,
+     "ID": 121626633,
+     "toNode": 127524915,
+     "isForward": false
+    },
+    {
+     "fromNode": 127524915,
+     "ID": 137863475,
+     "toNode": 148600731,
+     "isForward": false
+    },
+    {
+     "fromNode": 148600731,
+     "ID": 433555657,
+     "toNode": 331954124,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 156208,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.19995,
+     "y": 51.482159
+    },
+    {
+     "x": -0.199853,
+     "y": 51.482042
+    }
+   ],
+   "level": 5,
+   "street": "B317 - North End Rd",
+   "city": "Fulham",
+   "blockUpdate": 1793572335342,
+   "updateMillis": 1794040967486,
+   "endNode": "Eustace Rd",
+   "length": 15,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127529045,
+     "ID": 121631371,
+     "toNode": 127529046,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 52159528,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.087737,
+     "y": 51.512035
+    },
+    {
+     "x": -0.087479,
+     "y": 51.511729
+    }
+   ],
+   "level": 5,
+   "street": "King William St",
+   "city": "City of London",
+   "blockUpdate": 1789576087754,
+   "updateMillis": 1794040957168,
+   "endNode": "Nicholas Ln",
+   "length": 38,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127582302,
+     "ID": 121698104,
+     "toNode": 127580428,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1219234200,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "ROAD_CLOSED_EVENT",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.103342,
+     "y": 51.517226
+    },
+    {
+     "x": -0.103103,
+     "y": 51.517112
+    },
+    {
+     "x": -0.103003,
+     "y": 51.517034
+    },
+    {
+     "x": -0.102909,
+     "y": 51.516929
+    },
+    {
+     "x": -0.102865,
+     "y": 51.51684
+    },
+    {
+     "x": -0.102858,
+     "y": 51.516787
+    },
+    {
+     "x": -0.102865,
+     "y": 51.516673
+    },
+    {
+     "x": -0.102914,
+     "y": 51.516575
+    }
+   ],
+   "level": 5,
+   "street": "Snow Hill",
+   "city": "City of London",
+   "blockUpdate": 1743418806443,
+   "updateMillis": 1794040958635,
+   "endNode": "A40 - Newgate St",
+   "length": 86,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127580373,
+     "ID": 161489643,
+     "toNode": 162615858,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 1305156094,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.095381,
+     "y": 51.521396
+    },
+    {
+     "x": -0.0952,
+     "y": 51.521055
+    }
+   ],
+   "level": 5,
+   "street": "Viscount St",
+   "city": "City of London",
+   "blockUpdate": 1791457721055,
+   "updateMillis": 1794040957363,
+   "endNode": "Cripplegate St",
+   "length": 40,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127580356,
+     "ID": 369395541,
+     "toNode": 289881420,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 29410294,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.176611,
+     "y": 51.541618
+    },
+    {
+     "x": -0.176484,
+     "y": 51.541594
+    },
+    {
+     "x": -0.176348,
+     "y": 51.541587
+    },
+    {
+     "x": -0.175254,
+     "y": 51.541696
+    }
+   ],
+   "level": 5,
+   "street": "B509 - Hillgrove Rd",
+   "city": "Kilburn",
+   "blockUpdate": 1792690198602,
+   "updateMillis": 1794040959363,
+   "endNode": "A41 - Finchley Rd",
+   "length": 96,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 152628811,
+     "ID": 143652583,
+     "toNode": 171215043,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 37326606,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.131789,
+     "y": 51.483533
+    },
+    {
+     "x": -0.13174,
+     "y": 51.483479
+    }
+   ],
+   "level": 5,
+   "street": "",
+   "city": "Nine Elms",
+   "blockUpdate": 1793999863550,
+   "updateMillis": 1794040957963,
+   "endNode": "A3205 - Nine Elms Ln (W)",
+   "length": 7,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 212747677,
+     "ID": 395717229,
+     "toNode": 306976129,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 156218,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.200215,
+     "y": 51.482488
+    },
+    {
+     "x": -0.200315,
+     "y": 51.482612
+    }
+   ],
+   "level": 5,
+   "street": "B317 - North End Rd",
+   "city": "Fulham",
+   "blockUpdate": 1793572335271,
+   "updateMillis": 1794040967502,
+   "endNode": "Tournay Rd",
+   "length": 15,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127529047,
+     "ID": 121631379,
+     "toNode": 127529040,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92617662,
+   "line": [
+    {
+     "x": -0.133404,
+     "y": 51.504806
+    },
+    {
+     "x": -0.130832,
+     "y": 51.505877
+    },
+    {
+     "x": -0.129013,
+     "y": 51.506603
+    },
+    {
+     "x": -0.128283,
+     "y": 51.506956
+    },
+    {
+     "x": -0.127922,
+     "y": 51.50721
+    }
+   ],
+   "level": 2,
+   "street": "The Mall",
+   "city": "St. James's Park",
+   "updateMillis": 1794040958727,
+   "endNode": "",
+   "length": 467,
+   "speed": 3.2583333333333333,
+   "segments": [
+    {
+     "fromNode": 307499818,
+     "ID": 142373830,
+     "toNode": 127595221,
+     "isForward": true
+    },
+    {
+     "fromNode": 127595221,
+     "ID": 256744313,
+     "toNode": 216433146,
+     "isForward": true
+    },
+    {
+     "fromNode": 216433146,
+     "ID": 256744314,
+     "toNode": 163022763,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1109318178,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.088397,
+     "y": 51.512854
+    },
+    {
+     "x": -0.088175,
+     "y": 51.512572
+    },
+    {
+     "x": -0.088074,
+     "y": 51.512442
+    }
+   ],
+   "level": 5,
+   "street": "King William St",
+   "city": "City of London",
+   "blockUpdate": 1789576087623,
+   "updateMillis": 1794040957262,
+   "endNode": "Sherborne Ln",
+   "length": 51,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127582146,
+     "ID": 267469594,
+     "toNode": 223302427,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92311998,
+   "line": [
+    {
+     "x": -0.179753,
+     "y": 51.517469
+    },
+    {
+     "x": -0.176822,
+     "y": 51.515433
+    },
+    {
+     "x": -0.176347,
+     "y": 51.515186
+    }
+   ],
+   "level": 2,
+   "street": "Eastbourne Ter",
+   "city": "Paddington",
+   "updateMillis": 1794040957968,
+   "endNode": "A4205 - Praed St",
+   "length": 347,
+   "speed": 2.286111111111111,
+   "segments": [
+    {
+     "fromNode": 226354218,
+     "ID": 153608925,
+     "toNode": 127605453,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 92590266,
+   "line": [
+    {
+     "x": -0.17048,
+     "y": 51.482792
+    },
+    {
+     "x": -0.171124,
+     "y": 51.482662
+    },
+    {
+     "x": -0.17206,
+     "y": 51.482444
+    },
+    {
+     "x": -0.173395,
+     "y": 51.482142
+    }
+   ],
+   "level": 4,
+   "street": "A3212 - Chelsea Embankment",
+   "city": "Chelsea",
+   "updateMillis": 1794040956887,
+   "endNode": "A3220 - Battersea Bridge",
+   "length": 215,
+   "speed": 1.413888888888889,
+   "segments": [
+    {
+     "fromNode": 127524075,
+     "ID": 121626192,
+     "toNode": 171210216,
+     "isForward": true
+    },
+    {
+     "fromNode": 171210216,
+     "ID": 142126621,
+     "toNode": 151753327,
+     "isForward": true
+    },
+    {
+     "fromNode": 151753327,
+     "ID": 142126622,
+     "toNode": 151753324,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 37255288,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.13174,
+     "y": 51.483479
+    },
+    {
+     "x": -0.131789,
+     "y": 51.483533
+    }
+   ],
+   "level": 5,
+   "street": "",
+   "city": "Nine Elms",
+   "blockUpdate": 1793999863577,
+   "updateMillis": 1794040958167,
+   "endNode": "A3205 - Nine Elms Ln (E)",
+   "length": 7,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 306976129,
+     "ID": 395717229,
+     "toNode": 212747677,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92219454,
+   "line": [
+    {
+     "x": -0.086172,
+     "y": 51.518815
+    },
+    {
+     "x": -0.085663,
+     "y": 51.519544
+    },
+    {
+     "x": -0.085401,
+     "y": 51.519984
+    },
+    {
+     "x": -0.08524,
+     "y": 51.520303
+    }
+   ],
+   "level": 3,
+   "street": "Wilson St",
+   "city": "City of London",
+   "updateMillis": 1794040957185,
+   "endNode": "Sun St",
+   "length": 178,
+   "speed": 1.011111111111111,
+   "segments": [
+    {
+     "fromNode": 127582123,
+     "ID": 208403136,
+     "toNode": 127582105,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92539846,
+   "line": [
+    {
+     "x": -0.143211,
+     "y": 51.537732
+    },
+    {
+     "x": -0.142362,
+     "y": 51.536791
+    },
+    {
+     "x": -0.142176,
+     "y": 51.536582
+    },
+    {
+     "x": -0.141862,
+     "y": 51.536229
+    }
+   ],
+   "level": 3,
+   "street": "Arlington Rd",
+   "city": "Camden Town",
+   "updateMillis": 1794040852647,
+   "length": 192,
+   "speed": 1.5944444444444446,
+   "segments": [
+    {
+     "fromNode": 127596141,
+     "ID": 121719193,
+     "toNode": 127594965,
+     "isForward": false
+    },
+    {
+     "fromNode": 127594965,
+     "ID": 395626330,
+     "toNode": 306915144,
+     "isForward": true
+    },
+    {
+     "fromNode": 306915144,
+     "ID": 395626331,
+     "toNode": 276933481,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1871162820,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "[Causeway one.network] ."
+   },
+   "line": [
+    {
+     "x": -0.081592,
+     "y": 51.520961
+    },
+    {
+     "x": -0.081826,
+     "y": 51.520701
+    },
+    {
+     "x": -0.08197,
+     "y": 51.520576
+    }
+   ],
+   "level": 5,
+   "street": "Appold St",
+   "city": "City of London",
+   "blockUpdate": 1792399859905,
+   "updateMillis": 1794040956968,
+   "endNode": "Pindar St",
+   "length": 50,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127580406,
+     "ID": 121697915,
+     "toNode": 127582121,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 763372996,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.167333,
+     "y": 51.48353
+    },
+    {
+     "x": -0.166211,
+     "y": 51.481296
+    }
+   ],
+   "level": 5,
+   "street": "A3031 - Albert Bridge",
+   "city": "Chelsea",
+   "blockUpdate": 1793280321158,
+   "updateMillis": 1794040958667,
+   "endNode": "A3031 - Albert Bridge Rd",
+   "length": 261,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 162143345,
+     "ID": 160341759,
+     "toNode": 127524658,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1296169990,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "Closed to 9 Nov ref #151588809. #236755"
+   },
+   "line": [
+    {
+     "x": -0.124539,
+     "y": 51.481597
+    },
+    {
+     "x": -0.124662,
+     "y": 51.481612
+    },
+    {
+     "x": -0.125799,
+     "y": 51.481568
+    }
+   ],
+   "level": 5,
+   "street": "Wyvil Rd",
+   "city": "South Lambeth",
+   "blockUpdate": 1793383569187,
+   "updateMillis": 1794040957799,
+   "endNode": "Trenchold St",
+   "length": 88,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127509514,
+     "ID": 443510989,
+     "toNode": 338464865,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 90740256,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -0.076105,
+     "y": 51.511596
+    },
+    {
+     "x": -0.077355,
+     "y": 51.511593
+    }
+   ],
+   "level": 5,
+   "street": "Crosswall",
+   "city": "City of London",
+   "blockUpdate": 1794038180906,
+   "updateMillis": 1794040956505,
+   "endNode": "Crutched Friars",
+   "length": 87,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 153169892,
+     "ID": 121700338,
+     "toNode": 127581581,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92658638,
+   "line": [
+    {
+     "x": -0.168794,
+     "y": 51.512357
+    },
+    {
+     "x": -0.172294,
+     "y": 51.512007
+    },
+    {
+     "x": -0.173991,
+     "y": 51.511857
+    },
+    {
+     "x": -0.174845,
+     "y": 51.51176
+    },
+    {
+     "x": -0.175963,
+     "y": 51.511599
+    }
+   ],
+   "level": 2,
+   "street": "A402 - Bayswater Rd",
+   "city": "Bayswater",
+   "updateMillis": 1794040956240,
+   "endNode": "A4209 - Lancaster Ter",
+   "length": 505,
+   "speed": 3.2916666666666665,
+   "segments": [
+    {
+     "fromNode": 127596811,
+     "ID": 121736252,
+     "toNode": 127605423,
+     "isForward": true
+    },
+    {
+     "fromNode": 127605423,
+     "ID": 323863705,
+     "toNode": 127606805,
+     "isForward": true
+    },
+    {
+     "fromNode": 127606805,
+     "ID": 323863436,
+     "toNode": 261048574,
+     "isForward": false
+    },
+    {
+     "fromNode": 261048574,
+     "ID": 323863435,
+     "toNode": 127606804,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 1305128838,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.094295,
+     "y": 51.521475
+    },
+    {
+     "x": -0.095381,
+     "y": 51.521396
+    }
+   ],
+   "level": 5,
+   "street": "Brackley St",
+   "city": "City of London",
+   "blockUpdate": 1791490971254,
+   "updateMillis": 1794040956402,
+   "endNode": "Viscount St",
+   "length": 76,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127580357,
+     "ID": 121696179,
+     "toNode": 127580356,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 735502490,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.194839,
+     "y": 51.471999
+    },
+    {
+     "x": -0.194046,
+     "y": 51.472302
+    }
+   ],
+   "level": 5,
+   "street": "Studdridge St",
+   "city": "Fulham",
+   "blockUpdate": 1792055067921,
+   "updateMillis": 1794040957662,
+   "endNode": "Chipstead St",
+   "length": 65,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127530252,
+     "ID": 121632781,
+     "toNode": 127530242,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 777215262,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.109138,
+     "y": 51.529997
+    },
+    {
+     "x": -0.11043,
+     "y": 51.529765
+    }
+   ],
+   "level": 5,
+   "street": "Inglebert St",
+   "city": "Clerkenwell",
+   "blockUpdate": 1789655526587,
+   "updateMillis": 1794040956357,
+   "endNode": "Amwell St",
+   "length": 93,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127580290,
+     "ID": 121696144,
+     "toNode": 127580291,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1339846290,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.134323,
+     "y": 51.482804
+    },
+    {
+     "x": -0.134374,
+     "y": 51.482879
+    }
+   ],
+   "level": 5,
+   "street": "",
+   "city": "Nine Elms",
+   "blockUpdate": 1762188926519,
+   "updateMillis": 1794040957097,
+   "endNode": "A3205 - Nine Elms Ln (E)",
+   "length": 9,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 179114075,
+     "ID": 395717228,
+     "toNode": 306976124,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 735395226,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.195694,
+     "y": 51.471644
+    },
+    {
+     "x": -0.194839,
+     "y": 51.471999
+    }
+   ],
+   "level": 5,
+   "street": "Studdridge St",
+   "city": "Fulham",
+   "blockUpdate": 1792055068025,
+   "updateMillis": 1794040957663,
+   "endNode": "Quarrendon St",
+   "length": 71,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127530240,
+     "ID": 121632779,
+     "toNode": 127530252,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 564473066,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.194839,
+     "y": 51.471999
+    },
+    {
+     "x": -0.195694,
+     "y": 51.471644
+    }
+   ],
+   "level": 5,
+   "street": "Studdridge St",
+   "city": "Fulham",
+   "blockUpdate": 1792055067960,
+   "updateMillis": 1794040957662,
+   "endNode": "Chiddingtone St",
+   "length": 71,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127530252,
+     "ID": 121632779,
+     "toNode": 127530240,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92193326,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -0.136931,
+     "y": 51.518899
+    },
+    {
+     "x": -0.136412,
+     "y": 51.518627
+    },
+    {
+     "x": -0.13623,
+     "y": 51.518478
+    },
+    {
+     "x": -0.135319,
+     "y": 51.517105
+    }
+   ],
+   "level": 5,
+   "street": "Newman St",
+   "city": "Fitzrovia",
+   "blockUpdate": 1794040239040,
+   "updateMillis": 1794040958474,
+   "endNode": "Eastcastle St",
+   "length": 233,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127595547,
+     "ID": 121719136,
+     "toNode": 127595536,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1294848124,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.19995,
+     "y": 51.482159
+    },
+    {
+     "x": -0.200215,
+     "y": 51.482488
+    }
+   ],
+   "level": 5,
+   "street": "B317 - North End Rd",
+   "city": "Fulham",
+   "blockUpdate": 1793572335362,
+   "updateMillis": 1794040967485,
+   "endNode": "Armadale Rd",
+   "length": 41,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127529045,
+     "ID": 121631372,
+     "toNode": 127529047,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 777200132,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "Closed due to an event. Ref #27012935"
+   },
+   "line": [
+    {
+     "x": -0.070186,
+     "y": 51.539382
+    },
+    {
+     "x": -0.07182,
+     "y": 51.53947
+    }
+   ],
+   "level": 5,
+   "street": "Albion Dr",
+   "city": "Haggerston",
+   "blockUpdate": 1788642430823,
+   "updateMillis": 1794040956256,
+   "endNode": "Hilborough Rd",
+   "length": 114,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127578817,
+     "ID": 441314895,
+     "toNode": 127578815,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 587322966,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.136442,
+     "y": 51.52787
+    },
+    {
+     "x": -0.137842,
+     "y": 51.527311
+    }
+   ],
+   "level": 5,
+   "street": "Starcross St",
+   "city": "Euston",
+   "blockUpdate": 1762694219341,
+   "updateMillis": 1794040958660,
+   "endNode": "North Gower St",
+   "length": 115,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127594998,
+     "ID": 121717029,
+     "toNode": 127594997,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 1294848122,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.200599,
+     "y": 51.482964
+    },
+    {
+     "x": -0.200554,
+     "y": 51.482909
+    }
+   ],
+   "level": 5,
+   "street": "B317 - North End Rd",
+   "city": "Fulham",
+   "blockUpdate": 1793572335590,
+   "updateMillis": 1794040967483,
+   "endNode": "Halford Rd",
+   "length": 7,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127529043,
+     "ID": 121631370,
+     "toNode": 127529044,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 30692238,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.086893,
+     "y": 51.511029
+    },
+    {
+     "x": -0.086813,
+     "y": 51.510958
+    }
+   ],
+   "level": 5,
+   "street": "King William St",
+   "city": "City of London",
+   "blockUpdate": 1777062450783,
+   "updateMillis": 1794040956861,
+   "endNode": "",
+   "length": 10,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 305111388,
+     "ID": 392951029,
+     "toNode": 289349045,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 691903078,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "[Causeway one.network] ."
+   },
+   "line": [
+    {
+     "x": -0.0899,
+     "y": 51.506695
+    },
+    {
+     "x": -0.089954,
+     "y": 51.506655
+    },
+    {
+     "x": -0.090021,
+     "y": 51.506542
+    },
+    {
+     "x": -0.090172,
+     "y": 51.50635
+    },
+    {
+     "x": -0.090254,
+     "y": 51.506291
+    }
+   ],
+   "level": 5,
+   "street": "Montague Cl",
+   "city": "Southwark",
+   "blockUpdate": 1790440184217,
+   "updateMillis": 1794040958225,
+   "endNode": "Cathedral St",
+   "length": 52,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 165017698,
+     "ID": 167453730,
+     "toNode": 127580448,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 75462178,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "ROAD_CLOSED_EVENT",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.170004,
+     "y": 51.528357
+    },
+    {
+     "x": -0.170412,
+     "y": 51.528728
+    }
+   ],
+   "level": 5,
+   "street": "Oak Tree Rd",
+   "city": "St. Johns Wood",
+   "blockUpdate": 1740517608665,
+   "updateMillis": 1794040956828,
+   "length": 50,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 173482543,
+     "ID": 182099315,
+     "toNode": 173482626,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 140595262,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "Closed until Sun night for roadworks. Ref #153082653"
+   },
+   "line": [
+    {
+     "x": -0.060557,
+     "y": 51.492122
+    },
+    {
+     "x": -0.060463,
+     "y": 51.492141
+    },
+    {
+     "x": -0.060235,
+     "y": 51.492263
+    },
+    {
+     "x": -0.05999,
+     "y": 51.492347
+    }
+   ],
+   "level": 5,
+   "street": "A2206 - Southwark Park Rd",
+   "city": "Bermondsey",
+   "blockUpdate": 1793944356506,
+   "updateMillis": 1794040957017,
+   "endNode": "Drummond Rd",
+   "length": 47,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 261312107,
+     "ID": 324279562,
+     "toNode": 127510076,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 754547608,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.087479,
+     "y": 51.511729
+    },
+    {
+     "x": -0.087346,
+     "y": 51.511577
+    }
+   ],
+   "level": 5,
+   "street": "King William St",
+   "city": "City of London",
+   "blockUpdate": 1789576088050,
+   "updateMillis": 1794040957007,
+   "length": 19,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127580428,
+     "ID": 440534261,
+     "toNode": 336537307,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 105250340,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "Closed until Dec 30 for utility works works. Ref #231246"
+   },
+   "line": [
+    {
+     "x": -0.133308,
+     "y": 51.529634
+    },
+    {
+     "x": -0.132393,
+     "y": 51.528808
+    }
+   ],
+   "level": 5,
+   "street": "A4200 - Eversholt St",
+   "city": "Euston",
+   "blockUpdate": 1789319406050,
+   "updateMillis": 1794040959104,
+   "endNode": "Doric Way",
+   "length": 112,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127596221,
+     "ID": 121720444,
+     "toNode": 127596942,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 691974234,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.11043,
+     "y": 51.529765
+    },
+    {
+     "x": -0.109138,
+     "y": 51.529997
+    }
+   ],
+   "level": 5,
+   "street": "Inglebert St",
+   "city": "Clerkenwell",
+   "blockUpdate": 1789655526533,
+   "updateMillis": 1794040956359,
+   "endNode": "Mylne St",
+   "length": 93,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127580291,
+     "ID": 121696144,
+     "toNode": 127580290,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 777230902,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "Closed until Aug 2027 for roadworks. Ref #147867815"
+   },
+   "line": [
+    {
+     "x": -0.187255,
+     "y": 51.461286
+    },
+    {
+     "x": -0.187408,
+     "y": 51.461083
+    },
+    {
+     "x": -0.187812,
+     "y": 51.460745
+    },
+    {
+     "x": -0.188092,
+     "y": 51.460494
+    }
+   ],
+   "level": 5,
+   "street": "Old York Rd",
+   "city": "Wandsworth",
+   "blockUpdate": 1788642412314,
+   "updateMillis": 1794040956404,
+   "endNode": "Ferrier St",
+   "length": 106,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 148557767,
+     "ID": 121643900,
+     "toNode": 127531719,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 723297146,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.086976,
+     "y": 51.511136
+    },
+    {
+     "x": -0.086934,
+     "y": 51.511083
+    }
+   ],
+   "level": 5,
+   "street": "King William St",
+   "city": "City of London",
+   "blockUpdate": 1777062450757,
+   "updateMillis": 1794040956292,
+   "length": 7,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 305111386,
+     "ID": 392951045,
+     "toNode": 305111411,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 75466008,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "[Causeway one.network] ."
+   },
+   "line": [
+    {
+     "x": -0.105378,
+     "y": 51.504135
+    },
+    {
+     "x": -0.10539,
+     "y": 51.503704
+    },
+    {
+     "x": -0.105353,
+     "y": 51.503606
+    }
+   ],
+   "level": 5,
+   "street": "Joan St",
+   "city": "Southwark",
+   "blockUpdate": 1793307070114,
+   "updateMillis": 1794040956989,
+   "endNode": "B300 - The Cut",
+   "length": 59,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127580437,
+     "ID": 121697970,
+     "toNode": 127582170,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1095645220,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "Closed due to an event. Ref #27012935"
+   },
+   "line": [
+    {
+     "x": -0.07182,
+     "y": 51.53947
+    },
+    {
+     "x": -0.070186,
+     "y": 51.539382
+    }
+   ],
+   "level": 5,
+   "street": "Albion Dr",
+   "city": "Dalston",
+   "blockUpdate": 1788642430790,
+   "updateMillis": 1794040956256,
+   "endNode": "B108 - Queensbridge Rd",
+   "length": 114,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127578815,
+     "ID": 441314895,
+     "toNode": 127578817,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1101568706,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.137341,
+     "y": 51.526868
+    },
+    {
+     "x": -0.135989,
+     "y": 51.527408
+    }
+   ],
+   "level": 5,
+   "street": "Drummond St",
+   "city": "Euston",
+   "blockUpdate": 1762694219279,
+   "updateMillis": 1794040958768,
+   "endNode": "Cobourg St",
+   "length": 111,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127595809,
+     "ID": 121718515,
+     "toNode": 127596151,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1302357450,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.144153,
+     "y": 51.508915
+    },
+    {
+     "x": -0.144093,
+     "y": 51.508866
+    },
+    {
+     "x": -0.143303,
+     "y": 51.508227
+    }
+   ],
+   "level": 5,
+   "street": "Berkeley St",
+   "city": "Mayfair",
+   "blockUpdate": 1793388645645,
+   "updateMillis": 1794040958754,
+   "endNode": "Stratton St",
+   "length": 97,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127595322,
+     "ID": 249721312,
+     "toNode": 127595354,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 75466004,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.095381,
+     "y": 51.521396
+    },
+    {
+     "x": -0.09549,
+     "y": 51.5217
+    }
+   ],
+   "level": 5,
+   "street": "Viscount St",
+   "city": "City of London",
+   "blockUpdate": 1791457721003,
+   "updateMillis": 1794040957011,
+   "endNode": "Fann St",
+   "length": 35,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127580356,
+     "ID": 121697797,
+     "toNode": 127582003,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 641844780,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.087099,
+     "y": 51.511294
+    },
+    {
+     "x": -0.086976,
+     "y": 51.511136
+    }
+   ],
+   "level": 5,
+   "street": "King William St",
+   "city": "City of London",
+   "blockUpdate": 1790238225185,
+   "updateMillis": 1794040957719,
+   "length": 20,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127582150,
+     "ID": 392951026,
+     "toNode": 305111386,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 51595134,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.172982,
+     "y": 51.541888
+    },
+    {
+     "x": -0.173011,
+     "y": 51.54185
+    },
+    {
+     "x": -0.1731,
+     "y": 51.541769
+    },
+    {
+     "x": -0.173133,
+     "y": 51.541632
+    }
+   ],
+   "level": 5,
+   "street": "B525 - Avenue Rd",
+   "city": "Belsize Park",
+   "blockUpdate": 1794005256171,
+   "updateMillis": 1794040958420,
+   "endNode": "B525 - Avenue Rd",
+   "length": 31,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127597661,
+     "ID": 121721293,
+     "toNode": 127597660,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 1759865236,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "Roadworks to  22 Dec ref #152469323"
+   },
+   "line": [
+    {
+     "x": -0.08728,
+     "y": 51.512684
+    },
+    {
+     "x": -0.087675,
+     "y": 51.5122
+    },
+    {
+     "x": -0.087835,
+     "y": 51.512152
+    }
+   ],
+   "level": 5,
+   "street": "Abchurch Ln",
+   "city": "City of London",
+   "blockUpdate": 1790718128203,
+   "updateMillis": 1794040957067,
+   "endNode": "King William St",
+   "length": 73,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127580429,
+     "ID": 121696217,
+     "toNode": 127580430,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1305125048,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.0952,
+     "y": 51.521055
+    },
+    {
+     "x": -0.095381,
+     "y": 51.521396
+    }
+   ],
+   "level": 5,
+   "street": "Viscount St",
+   "city": "City of London",
+   "blockUpdate": 1791457720959,
+   "updateMillis": 1794040956373,
+   "endNode": "Brackley St",
+   "length": 40,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 289881420,
+     "ID": 369395541,
+     "toNode": 127580356,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 37417282,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.132737,
+     "y": 51.536936
+    },
+    {
+     "x": -0.132553,
+     "y": 51.536972
+    },
+    {
+     "x": -0.131222,
+     "y": 51.537491
+    },
+    {
+     "x": -0.131175,
+     "y": 51.537497
+    },
+    {
+     "x": -0.131133,
+     "y": 51.537493
+    },
+    {
+     "x": -0.131095,
+     "y": 51.537474
+    },
+    {
+     "x": -0.13043,
+     "y": 51.536803
+    }
+   ],
+   "level": 5,
+   "street": "Granary St",
+   "city": "Camden Town",
+   "blockUpdate": 1793999969022,
+   "updateMillis": 1794040958093,
+   "endNode": "Camley St",
+   "length": 220,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127596340,
+     "ID": 471226928,
+     "toNode": 355641592,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 92555516,
+   "line": [
+    {
+     "x": -0.050107,
+     "y": 51.46597
+    },
+    {
+     "x": -0.050076,
+     "y": 51.465865
+    },
+    {
+     "x": -0.047245,
+     "y": 51.461842
+    },
+    {
+     "x": -0.047008,
+     "y": 51.461537
+    }
+   ],
+   "level": 1,
+   "street": "Ivydale Rd",
+   "city": "Nunhead",
+   "updateMillis": 1794040852205,
+   "endNode": "",
+   "length": 539,
+   "speed": 3.713888888888889,
+   "segments": [
+    {
+     "fromNode": 181423210,
+     "ID": 400348581,
+     "toNode": 152263118,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 92376318,
+   "line": [
+    {
+     "x": -0.095275,
+     "y": 51.454793
+    },
+    {
+     "x": -0.094737,
+     "y": 51.454423
+    },
+    {
+     "x": -0.0939,
+     "y": 51.453824
+    },
+    {
+     "x": -0.093787,
+     "y": 51.45373
+    },
+    {
+     "x": -0.093633,
+     "y": 51.453569
+    },
+    {
+     "x": -0.093395,
+     "y": 51.45323
+    }
+   ],
+   "level": 2,
+   "street": "Holmdene Ave",
+   "city": "Herne Hill",
+   "updateMillis": 1794040958821,
+   "endNode": "A2214 - Half Moon Ln",
+   "length": 220,
+   "speed": 1.7805555555555554,
+   "segments": [
+    {
+     "fromNode": 127511827,
+     "ID": 121616493,
+     "toNode": 127518462,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 787748724,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "[Causeway one.network] ."
+   },
+   "line": [
+    {
+     "x": -0.138951,
+     "y": 51.481276
+    },
+    {
+     "x": -0.13846,
+     "y": 51.481205
+    },
+    {
+     "x": -0.138276,
+     "y": 51.481145
+    }
+   ],
+   "level": 5,
+   "street": "Cringle St",
+   "city": "Battersea",
+   "blockUpdate": 1793287801338,
+   "updateMillis": 1794040956962,
+   "endNode": "A3205 - Nine Elms Ln",
+   "length": 49,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127524520,
+     "ID": 121625818,
+     "toNode": 127524233,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 718741332,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.087835,
+     "y": 51.512152
+    },
+    {
+     "x": -0.087737,
+     "y": 51.512035
+    }
+   ],
+   "level": 5,
+   "street": "King William St",
+   "city": "City of London",
+   "blockUpdate": 1789576087889,
+   "updateMillis": 1794040957035,
+   "endNode": "Abchurch Ln",
+   "length": 15,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127580430,
+     "ID": 440534660,
+     "toNode": 127582302,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92433926,
+   "line": [
+    {
+     "x": -0.161939,
+     "y": 51.521387
+    },
+    {
+     "x": -0.161117,
+     "y": 51.521537
+    },
+    {
+     "x": -0.159655,
+     "y": 51.521809
+    },
+    {
+     "x": -0.159418,
+     "y": 51.521853
+    },
+    {
+     "x": -0.159329,
+     "y": 51.521867
+    },
+    {
+     "x": -0.158587,
+     "y": 51.522004
+    },
+    {
+     "x": -0.157508,
+     "y": 51.522187
+    },
+    {
+     "x": -0.155492,
+     "y": 51.52254
+    },
+    {
+     "x": -0.153001,
+     "y": 51.523012
+    },
+    {
+     "x": -0.15257,
+     "y": 51.52308
+    }
+   ],
+   "level": 2,
+   "street": "A501 (E) - Marylebone Rd",
+   "city": "Marylebone",
+   "updateMillis": 1794040957299,
+   "endNode": "York Gate",
+   "length": 677,
+   "speed": 4.969444444444444,
+   "segments": [
+    {
+     "fromNode": 127595074,
+     "ID": 121717974,
+     "toNode": 127595945,
+     "isForward": false
+    },
+    {
+     "fromNode": 127595945,
+     "ID": 121719166,
+     "toNode": 127595649,
+     "isForward": false
+    },
+    {
+     "fromNode": 127595649,
+     "ID": 357519784,
+     "toNode": 282161571,
+     "isForward": true
+    },
+    {
+     "fromNode": 282161571,
+     "ID": 357519785,
+     "toNode": 258079220,
+     "isForward": true
+    },
+    {
+     "fromNode": 258079220,
+     "ID": 319170336,
+     "toNode": 127596105,
+     "isForward": true
+    },
+    {
+     "fromNode": 127596105,
+     "ID": 121718410,
+     "toNode": 127596101,
+     "isForward": false
+    },
+    {
+     "fromNode": 127596101,
+     "ID": 121720201,
+     "toNode": 127596736,
+     "isForward": false
+    },
+    {
+     "fromNode": 127596736,
+     "ID": 121720119,
+     "toNode": 127596136,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 754265968,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.136873,
+     "y": 51.526435
+    },
+    {
+     "x": -0.135626,
+     "y": 51.526928
+    }
+   ],
+   "level": 5,
+   "street": "Euston St",
+   "city": "Euston",
+   "blockUpdate": 1762694219341,
+   "updateMillis": 1794040958691,
+   "endNode": "Cobourg St",
+   "length": 102,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127596153,
+     "ID": 371822085,
+     "toNode": 291435695,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 92238586,
+   "line": [
+    {
+     "x": -0.162911,
+     "y": 51.467629
+    },
+    {
+     "x": -0.16274,
+     "y": 51.467238
+    },
+    {
+     "x": -0.162695,
+     "y": 51.467139
+    },
+    {
+     "x": -0.162511,
+     "y": 51.466758
+    },
+    {
+     "x": -0.162415,
+     "y": 51.466515
+    },
+    {
+     "x": -0.162399,
+     "y": 51.466469
+    },
+    {
+     "x": -0.162233,
+     "y": 51.465768
+    },
+    {
+     "x": -0.162145,
+     "y": 51.465382
+    },
+    {
+     "x": -0.16204,
+     "y": 51.46502
+    },
+    {
+     "x": -0.161939,
+     "y": 51.464655
+    },
+    {
+     "x": -0.161856,
+     "y": 51.464498
+    }
+   ],
+   "level": 4,
+   "street": "A3220 - Latchmere Rd",
+   "city": "Battersea",
+   "updateMillis": 1794040956954,
+   "endNode": "A3220 - Elspeth Rd",
+   "length": 356,
+   "speed": 0.9,
+   "segments": [
+    {
+     "fromNode": 151547747,
+     "ID": 121643804,
+     "toNode": 127528098,
+     "isForward": false
+    },
+    {
+     "fromNode": 127528098,
+     "ID": 121630210,
+     "toNode": 127528099,
+     "isForward": true
+    },
+    {
+     "fromNode": 127528099,
+     "ID": 121630242,
+     "toNode": 127528093,
+     "isForward": true
+    },
+    {
+     "fromNode": 127528093,
+     "ID": 121630243,
+     "toNode": 127528119,
+     "isForward": true
+    },
+    {
+     "fromNode": 127528119,
+     "ID": 121634401,
+     "toNode": 127531311,
+     "isForward": true
+    },
+    {
+     "fromNode": 127531311,
+     "ID": 441803812,
+     "toNode": 337377773,
+     "isForward": false
+    },
+    {
+     "fromNode": 337377773,
+     "ID": 441803811,
+     "toNode": 151547727,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 107698668,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.093111,
+     "y": 51.515591
+    },
+    {
+     "x": -0.093093,
+     "y": 51.516287
+    }
+   ],
+   "level": 5,
+   "street": "Aldermanbury",
+   "city": "City of London",
+   "blockUpdate": 1780382373767,
+   "updateMillis": 1794040956904,
+   "endNode": "Love Ln",
+   "length": 77,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 182763553,
+     "ID": 121700566,
+     "toNode": 127583300,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92368646,
+   "line": [
+    {
+     "x": -0.148088,
+     "y": 51.53516
+    },
+    {
+     "x": -0.148176,
+     "y": 51.535334
+    },
+    {
+     "x": -0.14828,
+     "y": 51.535496
+    },
+    {
+     "x": -0.148394,
+     "y": 51.535641
+    },
+    {
+     "x": -0.14853,
+     "y": 51.535773
+    },
+    {
+     "x": -0.148746,
+     "y": 51.53592
+    },
+    {
+     "x": -0.149193,
+     "y": 51.53615
+    },
+    {
+     "x": -0.149525,
+     "y": 51.536275
+    },
+    {
+     "x": -0.149711,
+     "y": 51.536325
+    },
+    {
+     "x": -0.150839,
+     "y": 51.536581
+    },
+    {
+     "x": -0.151236,
+     "y": 51.536659
+    },
+    {
+     "x": -0.151589,
+     "y": 51.536676
+    },
+    {
+     "x": -0.151914,
+     "y": 51.536657
+    },
+    {
+     "x": -0.152303,
+     "y": 51.536604
+    },
+    {
+     "x": -0.15317,
+     "y": 51.536442
+    },
+    {
+     "x": -0.15448,
+     "y": 51.536143
+    },
+    {
+     "x": -0.159319,
+     "y": 51.534965
+    },
+    {
+     "x": -0.162132,
+     "y": 51.534242
+    },
+    {
+     "x": -0.162443,
+     "y": 51.534121
+    },
+    {
+     "x": -0.162601,
+     "y": 51.534028
+    }
+   ],
+   "level": 1,
+   "street": "Outer Circle",
+   "city": "Regent's Park",
+   "updateMillis": 1794040851834,
+   "endNode": "Avenue Rd",
+   "length": 1137,
+   "speed": 6.338888888888889,
+   "segments": [
+    {
+     "fromNode": 127596335,
+     "ID": 474534371,
+     "toNode": 212733603,
+     "isForward": false
+    },
+    {
+     "fromNode": 212733603,
+     "ID": 396901944,
+     "toNode": 127596395,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92613378,
+   "line": [
+    {
+     "x": -0.192292,
+     "y": 51.491717
+    },
+    {
+     "x": -0.192725,
+     "y": 51.491473
+    },
+    {
+     "x": -0.195079,
+     "y": 51.489887
+    }
+   ],
+   "level": 1,
+   "street": "Penywern Rd",
+   "city": "Earls Court",
+   "updateMillis": 1794040957479,
+   "endNode": "A3220 - Warwick Rd",
+   "length": 281,
+   "speed": 1.7333333333333334,
+   "segments": [
+    {
+     "fromNode": 127525825,
+     "ID": 121634120,
+     "toNode": 127530333,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 90790370,
+   "line": [
+    {
+     "x": -0.065871,
+     "y": 51.545945
+    },
+    {
+     "x": -0.066918,
+     "y": 51.546025
+    },
+    {
+     "x": -0.06758,
+     "y": 51.546076
+    },
+    {
+     "x": -0.068245,
+     "y": 51.546152
+    },
+    {
+     "x": -0.069553,
+     "y": 51.546354
+    }
+   ],
+   "level": 4,
+   "street": "A1207 - Graham Rd",
+   "city": "Dalston",
+   "updateMillis": 1794040956284,
+   "endNode": "",
+   "length": 260,
+   "speed": 1.2416666666666667,
+   "segments": [
+    {
+     "fromNode": 127579282,
+     "ID": 121694705,
+     "toNode": 127577853,
+     "isForward": true
+    },
+    {
+     "fromNode": 127577853,
+     "ID": 177840004,
+     "toNode": 152711110,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 91984112,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -0.148089,
+     "y": 51.517876
+    },
+    {
+     "x": -0.146579,
+     "y": 51.51814
+    }
+   ],
+   "level": 5,
+   "street": "Queen Anne St",
+   "city": "Marylebone",
+   "blockUpdate": 1794039935710,
+   "updateMillis": 1794040958896,
+   "endNode": "Harley St",
+   "length": 109,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127595198,
+     "ID": 121718081,
+     "toNode": 127595992,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1219234108,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "[Causeway one.network] ."
+   },
+   "line": [
+    {
+     "x": -0.105353,
+     "y": 51.503606
+    },
+    {
+     "x": -0.10539,
+     "y": 51.503704
+    },
+    {
+     "x": -0.105378,
+     "y": 51.504135
+    }
+   ],
+   "level": 5,
+   "street": "Joan St",
+   "city": "Southwark",
+   "blockUpdate": 1793307070155,
+   "updateMillis": 1794040957079,
+   "length": 59,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127582170,
+     "ID": 121697970,
+     "toNode": 127580437,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 91456738,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -0.077032,
+     "y": 51.510845
+    },
+    {
+     "x": -0.076908,
+     "y": 51.510631
+    },
+    {
+     "x": -0.076837,
+     "y": 51.510213
+    }
+   ],
+   "level": 5,
+   "street": "Cooper's Row",
+   "city": "City of London",
+   "blockUpdate": 1794039225574,
+   "updateMillis": 1794040957177,
+   "endNode": "Trinity Sq",
+   "length": 72,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127581601,
+     "ID": 121701454,
+     "toNode": 127583405,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1871652122,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.126659,
+     "y": 51.484196
+    },
+    {
+     "x": -0.126658,
+     "y": 51.484308
+    },
+    {
+     "x": -0.126762,
+     "y": 51.48443
+    },
+    {
+     "x": -0.126864,
+     "y": 51.48451
+    }
+   ],
+   "level": 5,
+   "street": "",
+   "city": "Vauxhall",
+   "blockUpdate": 1793747076768,
+   "updateMillis": 1794040957609,
+   "endNode": "A3205 - Nine Elms Ln (W)",
+   "length": 39,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 339021219,
+     "ID": 444385725,
+     "toNode": 339021220,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 92391958,
+   "line": [
+    {
+     "x": -0.138933,
+     "y": 51.492526
+    },
+    {
+     "x": -0.139939,
+     "y": 51.492212
+    },
+    {
+     "x": -0.141194,
+     "y": 51.491828
+    }
+   ],
+   "level": 3,
+   "street": "B324 - Warwick Way",
+   "city": "Pimlico",
+   "updateMillis": 1794040851133,
+   "endNode": "A3213 - Belgrave Rd",
+   "length": 175,
+   "speed": 1.163888888888889,
+   "segments": [
+    {
+     "fromNode": 127524275,
+     "ID": 121625181,
+     "toNode": 127524274,
+     "isForward": false
+    },
+    {
+     "fromNode": 127524274,
+     "ID": 458484829,
+     "toNode": 127524273,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 1305121110,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "ROAD_CLOSED_EVENT",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.170412,
+     "y": 51.528728
+    },
+    {
+     "x": -0.170004,
+     "y": 51.528357
+    }
+   ],
+   "level": 5,
+   "street": "Oak Tree Rd",
+   "city": "St. Johns Wood",
+   "blockUpdate": 1740517608666,
+   "updateMillis": 1794040956807,
+   "endNode": "Lodge Rd",
+   "length": 50,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 173482626,
+     "ID": 182099315,
+     "toNode": 173482543,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92605210,
+   "line": [
+    {
+     "x": -0.073554,
+     "y": 51.546254
+    },
+    {
+     "x": -0.072646,
+     "y": 51.546255
+    },
+    {
+     "x": -0.072119,
+     "y": 51.546261
+    },
+    {
+     "x": -0.071754,
+     "y": 51.546257
+    },
+    {
+     "x": -0.071445,
+     "y": 51.546248
+    },
+    {
+     "x": -0.070608,
+     "y": 51.546221
+    },
+    {
+     "x": -0.070246,
+     "y": 51.546219
+    },
+    {
+     "x": -0.070082,
+     "y": 51.546248
+    },
+    {
+     "x": -0.069806,
+     "y": 51.546378
+    }
+   ],
+   "level": 3,
+   "street": "A104 - Dalston Ln",
+   "city": "Dalston",
+   "updateMillis": 1794040956263,
+   "endNode": "",
+   "length": 265,
+   "speed": 1.8444444444444446,
+   "segments": [
+    {
+     "fromNode": 127578796,
+     "ID": 121695375,
+     "toNode": 127577533,
+     "isForward": false
+    },
+    {
+     "fromNode": 127577533,
+     "ID": 121694256,
+     "toNode": 127578793,
+     "isForward": true
+    },
+    {
+     "fromNode": 127578793,
+     "ID": 121695376,
+     "toNode": 127577535,
+     "isForward": false
+    },
+    {
+     "fromNode": 127577535,
+     "ID": 275561811,
+     "toNode": 155190958,
+     "isForward": true
+    },
+    {
+     "fromNode": 155190958,
+     "ID": 467424198,
+     "toNode": 229371172,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 105238746,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "Closed until Dec 30 for utility works works. Ref #231246"
+   },
+   "line": [
+    {
+     "x": -0.132393,
+     "y": 51.528808
+    },
+    {
+     "x": -0.131927,
+     "y": 51.528374
+    }
+   ],
+   "level": 5,
+   "street": "A4200 - Eversholt St",
+   "city": "Euston",
+   "blockUpdate": 1789319406097,
+   "updateMillis": 1794040959731,
+   "endNode": "Lancing St",
+   "length": 58,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127596942,
+     "ID": 287233042,
+     "toNode": 236701198,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 14977860,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.158207,
+     "y": 51.467048
+    },
+    {
+     "x": -0.158284,
+     "y": 51.467489
+    }
+   ],
+   "level": 5,
+   "street": "Grayshott Rd",
+   "city": "Battersea",
+   "blockUpdate": 1793534413878,
+   "updateMillis": 1794040959243,
+   "endNode": "Sabine Rd",
+   "length": 49,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 151547897,
+     "ID": 121630235,
+     "toNode": 151547881,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92651044,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -0.105321,
+     "y": 51.518549
+    },
+    {
+     "x": -0.102974,
+     "y": 51.519309
+    }
+   ],
+   "level": 5,
+   "street": "Charterhouse St",
+   "city": "City of London",
+   "blockUpdate": 1794040760922,
+   "updateMillis": 1794040959109,
+   "endNode": "E Poultry Ave",
+   "length": 183,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127582725,
+     "ID": 142785103,
+     "toNode": 148225675,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 1294848140,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.199853,
+     "y": 51.482042
+    },
+    {
+     "x": -0.19995,
+     "y": 51.482159
+    }
+   ],
+   "level": 5,
+   "street": "B317 - North End Rd",
+   "city": "Fulham",
+   "blockUpdate": 1793572335553,
+   "updateMillis": 1794040967506,
+   "endNode": "Epirus Rd",
+   "length": 15,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127529046,
+     "ID": 121631371,
+     "toNode": 127529045,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 763376674,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.166211,
+     "y": 51.481296
+    },
+    {
+     "x": -0.167333,
+     "y": 51.48353
+    }
+   ],
+   "level": 5,
+   "street": "A3031 - Albert Bridge",
+   "city": "Battersea",
+   "blockUpdate": 1793280321201,
+   "updateMillis": 1794040957617,
+   "endNode": "A3212 - Chelsea Embankment",
+   "length": 261,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127524658,
+     "ID": 160341759,
+     "toNode": 162143345,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92067802,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -0.124611,
+     "y": 51.514539
+    },
+    {
+     "x": -0.124242,
+     "y": 51.514295
+    }
+   ],
+   "level": 5,
+   "street": "Endell St",
+   "city": "Seven Dials",
+   "blockUpdate": 1794040069605,
+   "updateMillis": 1794040956380,
+   "endNode": "Shelton St",
+   "length": 37,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127580178,
+     "ID": 121697446,
+     "toNode": 127581684,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 1299221206,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.158284,
+     "y": 51.467489
+    },
+    {
+     "x": -0.158207,
+     "y": 51.467048
+    }
+   ],
+   "level": 5,
+   "street": "Grayshott Rd",
+   "city": "Battersea",
+   "blockUpdate": 1793534416198,
+   "updateMillis": 1794040959238,
+   "endNode": "Elsley Rd",
+   "length": 49,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 151547881,
+     "ID": 121630235,
+     "toNode": 151547897,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1294848138,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.200215,
+     "y": 51.482488
+    },
+    {
+     "x": -0.19995,
+     "y": 51.482159
+    }
+   ],
+   "level": 5,
+   "street": "B317 - North End Rd",
+   "city": "Fulham",
+   "blockUpdate": 1793572335271,
+   "updateMillis": 1794040967503,
+   "endNode": "Eustace Rd",
+   "length": 41,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127529047,
+     "ID": 121631372,
+     "toNode": 127529045,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 604668834,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.095381,
+     "y": 51.521396
+    },
+    {
+     "x": -0.094295,
+     "y": 51.521475
+    }
+   ],
+   "level": 5,
+   "street": "Brackley St",
+   "city": "City of London",
+   "blockUpdate": 1791490971210,
+   "updateMillis": 1794040956400,
+   "endNode": "Golden Ln",
+   "length": 76,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127580356,
+     "ID": 121696179,
+     "toNode": 127580357,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 777200122,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.072365,
+     "y": 51.510166
+    },
+    {
+     "x": -0.071545,
+     "y": 51.510274
+    },
+    {
+     "x": -0.07116,
+     "y": 51.510331
+    }
+   ],
+   "level": 5,
+   "street": "A1202 - Royal Mint St",
+   "city": "Wapping",
+   "blockUpdate": 1788459181108,
+   "updateMillis": 1794040958238,
+   "endNode": "Cartwright St",
+   "length": 86,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 171606850,
+     "ID": 177493971,
+     "toNode": 127581286,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1294848132,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.200315,
+     "y": 51.482612
+    },
+    {
+     "x": -0.200554,
+     "y": 51.482909
+    }
+   ],
+   "level": 5,
+   "street": "B317 - North End Rd",
+   "city": "Fulham",
+   "blockUpdate": 1793572335432,
+   "updateMillis": 1794040967486,
+   "endNode": "Haldane Rd",
+   "length": 37,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127529040,
+     "ID": 121631378,
+     "toNode": 127529044,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 91609820,
+   "line": [
+    {
+     "x": -0.188671,
+     "y": 51.465852
+    },
+    {
+     "x": -0.189466,
+     "y": 51.466714
+    },
+    {
+     "x": -0.190117,
+     "y": 51.467548
+    },
+    {
+     "x": -0.190503,
+     "y": 51.46824
+    },
+    {
+     "x": -0.190608,
+     "y": 51.468471
+    },
+    {
+     "x": -0.19075,
+     "y": 51.468922
+    },
+    {
+     "x": -0.19082,
+     "y": 51.46917
+    },
+    {
+     "x": -0.190962,
+     "y": 51.469707
+    },
+    {
+     "x": -0.191066,
+     "y": 51.470197
+    },
+    {
+     "x": -0.191083,
+     "y": 51.470272
+    },
+    {
+     "x": -0.191205,
+     "y": 51.470818
+    },
+    {
+     "x": -0.191334,
+     "y": 51.471407
+    },
+    {
+     "x": -0.191459,
+     "y": 51.471985
+    },
+    {
+     "x": -0.191572,
+     "y": 51.472507
+    },
+    {
+     "x": -0.191662,
+     "y": 51.472822
+    },
+    {
+     "x": -0.191704,
+     "y": 51.47297
+    }
+   ],
+   "level": 3,
+   "street": "A217 - Wandsworth Bridge Rd",
+   "city": "Fulham",
+   "updateMillis": 1794040968478,
+   "endNode": "A308 - New Kings Rd",
+   "length": 831,
+   "speed": 3.0972222222222223,
+   "segments": [
+    {
+     "fromNode": 127532357,
+     "ID": 121635617,
+     "toNode": 151858002,
+     "isForward": true
+    },
+    {
+     "fromNode": 151858002,
+     "ID": 121635619,
+     "toNode": 127531354,
+     "isForward": false
+    },
+    {
+     "fromNode": 127531354,
+     "ID": 121638251,
+     "toNode": 127534454,
+     "isForward": true
+    },
+    {
+     "fromNode": 127534454,
+     "ID": 121638207,
+     "toNode": 127530273,
+     "isForward": false
+    },
+    {
+     "fromNode": 127530273,
+     "ID": 121632821,
+     "toNode": 127530226,
+     "isForward": false
+    },
+    {
+     "fromNode": 127530226,
+     "ID": 121632766,
+     "toNode": 127530235,
+     "isForward": false
+    },
+    {
+     "fromNode": 127530235,
+     "ID": 121632765,
+     "toNode": 127530233,
+     "isForward": false
+    },
+    {
+     "fromNode": 127530233,
+     "ID": 121632763,
+     "toNode": 127530232,
+     "isForward": false
+    },
+    {
+     "fromNode": 127530232,
+     "ID": 121632764,
+     "toNode": 127530234,
+     "isForward": false
+    },
+    {
+     "fromNode": 127530234,
+     "ID": 121632767,
+     "toNode": 127530236,
+     "isForward": false
+    },
+    {
+     "fromNode": 127530236,
+     "ID": 121642850,
+     "toNode": 127537058,
+     "isForward": true
+    },
+    {
+     "fromNode": 127537058,
+     "ID": 121642802,
+     "toNode": 127530266,
+     "isForward": false
+    },
+    {
+     "fromNode": 127530266,
+     "ID": 423415503,
+     "toNode": 325148587,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92674092,
+   "line": [
+    {
+     "x": -0.138742,
+     "y": 51.505943
+    },
+    {
+     "x": -0.138862,
+     "y": 51.506068
+    },
+    {
+     "x": -0.13909,
+     "y": 51.506313
+    },
+    {
+     "x": -0.139257,
+     "y": 51.506492
+    },
+    {
+     "x": -0.139383,
+     "y": 51.506612
+    },
+    {
+     "x": -0.139954,
+     "y": 51.507203
+    },
+    {
+     "x": -0.140037,
+     "y": 51.507294
+    },
+    {
+     "x": -0.140566,
+     "y": 51.507798
+    }
+   ],
+   "level": 3,
+   "street": "A4 - St. James's St",
+   "city": "St. James's",
+   "updateMillis": 1794040958132,
+   "endNode": "A4 - Piccadilly",
+   "length": 243,
+   "speed": 1.8777777777777778,
+   "segments": [
+    {
+     "fromNode": 127595459,
+     "ID": 121717483,
+     "toNode": 127595466,
+     "isForward": false
+    },
+    {
+     "fromNode": 127595466,
+     "ID": 295313071,
+     "toNode": 242681838,
+     "isForward": false
+    },
+    {
+     "fromNode": 242681838,
+     "ID": 295313070,
+     "toNode": 127594814,
+     "isForward": false
+    },
+    {
+     "fromNode": 127594814,
+     "ID": 121717481,
+     "toNode": 127594823,
+     "isForward": false
+    },
+    {
+     "fromNode": 127594823,
+     "ID": 121717480,
+     "toNode": 127594706,
+     "isForward": false
+    },
+    {
+     "fromNode": 127594706,
+     "ID": 121718162,
+     "toNode": 127596025,
+     "isForward": false
+    },
+    {
+     "fromNode": 127596025,
+     "ID": 145809993,
+     "toNode": 127595319,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1294848134,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.200315,
+     "y": 51.482612
+    },
+    {
+     "x": -0.200215,
+     "y": 51.482488
+    }
+   ],
+   "level": 5,
+   "street": "B317 - North End Rd",
+   "city": "Fulham",
+   "blockUpdate": 1793572335395,
+   "updateMillis": 1794040967486,
+   "endNode": "Armadale Rd",
+   "length": 15,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127529040,
+     "ID": 121631379,
+     "toNode": 127529047,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1294848128,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.200554,
+     "y": 51.482909
+    },
+    {
+     "x": -0.200315,
+     "y": 51.482612
+    }
+   ],
+   "level": 5,
+   "street": "B317 - North End Rd",
+   "city": "Fulham",
+   "blockUpdate": 1793572335493,
+   "updateMillis": 1794040967486,
+   "endNode": "Armadale Rd",
+   "length": 37,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127529044,
+     "ID": 121631378,
+     "toNode": 127529040,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 92265168,
+   "line": [
+    {
+     "x": -0.069204,
+     "y": 51.508618
+    },
+    {
+     "x": -0.069117,
+     "y": 51.508425
+    },
+    {
+     "x": -0.068963,
+     "y": 51.508204
+    },
+    {
+     "x": -0.068857,
+     "y": 51.508098
+    },
+    {
+     "x": -0.068571,
+     "y": 51.507922
+    },
+    {
+     "x": -0.068392,
+     "y": 51.507774
+    },
+    {
+     "x": -0.068327,
+     "y": 51.507672
+    },
+    {
+     "x": -0.068286,
+     "y": 51.507434
+    }
+   ],
+   "level": 3,
+   "street": "Thomas More St",
+   "city": "Wapping",
+   "updateMillis": 1794040957091,
+   "endNode": "Nesham St",
+   "length": 150,
+   "speed": 1.238888888888889,
+   "segments": [
+    {
+     "fromNode": 127581455,
+     "ID": 153394257,
+     "toNode": 127581458,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1294848130,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.200554,
+     "y": 51.482909
+    },
+    {
+     "x": -0.200599,
+     "y": 51.482964
+    }
+   ],
+   "level": 5,
+   "street": "B317 - North End Rd",
+   "city": "Fulham",
+   "blockUpdate": 1793572335588,
+   "updateMillis": 1794040967486,
+   "endNode": "Haldane Rd",
+   "length": 7,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127529044,
+     "ID": 121631370,
+     "toNode": 127529043,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 140637136,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "Closed until Sun night for roadworks. Ref #153082653"
+   },
+   "line": [
+    {
+     "x": -0.05999,
+     "y": 51.492347
+    },
+    {
+     "x": -0.060235,
+     "y": 51.492263
+    },
+    {
+     "x": -0.060463,
+     "y": 51.492141
+    },
+    {
+     "x": -0.060557,
+     "y": 51.492122
+    }
+   ],
+   "level": 5,
+   "street": "A2206 - Southwark Park Rd",
+   "city": "Bermondsey",
+   "blockUpdate": 1793944356439,
+   "updateMillis": 1794040957120,
+   "length": 47,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127510076,
+     "ID": 324279562,
+     "toNode": 261312107,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 92432694,
+   "line": [
+    {
+     "x": -0.156291,
+     "y": 51.546953
+    },
+    {
+     "x": -0.156127,
+     "y": 51.547001
+    },
+    {
+     "x": -0.156071,
+     "y": 51.547063
+    },
+    {
+     "x": -0.155873,
+     "y": 51.547402
+    },
+    {
+     "x": -0.155668,
+     "y": 51.547831
+    },
+    {
+     "x": -0.155444,
+     "y": 51.548486
+    },
+    {
+     "x": -0.155524,
+     "y": 51.548693
+    },
+    {
+     "x": -0.155605,
+     "y": 51.548818
+    },
+    {
+     "x": -0.155549,
+     "y": 51.548859
+    },
+    {
+     "x": -0.155432,
+     "y": 51.54887
+    },
+    {
+     "x": -0.155355,
+     "y": 51.548832
+    },
+    {
+     "x": -0.15528,
+     "y": 51.548778
+    },
+    {
+     "x": -0.155248,
+     "y": 51.548685
+    },
+    {
+     "x": -0.155306,
+     "y": 51.548591
+    },
+    {
+     "x": -0.155444,
+     "y": 51.548486
+    },
+    {
+     "x": -0.155668,
+     "y": 51.547831
+    },
+    {
+     "x": -0.155873,
+     "y": 51.547402
+    },
+    {
+     "x": -0.156071,
+     "y": 51.547063
+    },
+    {
+     "x": -0.156127,
+     "y": 51.547001
+    },
+    {
+     "x": -0.156291,
+     "y": 51.546953
+    }
+   ],
+   "level": 3,
+   "street": "Maitland Park Rd",
+   "city": "Hampstead",
+   "updateMillis": 1794040958620,
+   "endNode": "Maitland Park Villas",
+   "length": 475,
+   "speed": 1.4277777777777778,
+   "segments": [
+    {
+     "fromNode": 127596432,
+     "ID": 244901874,
+     "toNode": 127596500,
+     "isForward": false
+    },
+    {
+     "fromNode": 127596500,
+     "ID": 284823237,
+     "toNode": 235168297,
+     "isForward": false
+    },
+    {
+     "fromNode": 235168297,
+     "ID": 284823236,
+     "toNode": 208917034,
+     "isForward": false
+    },
+    {
+     "fromNode": 208917034,
+     "ID": 283970869,
+     "toNode": 127596500,
+     "isForward": true
+    },
+    {
+     "fromNode": 127596500,
+     "ID": 244901874,
+     "toNode": 127596432,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 92631856,
+   "line": [
+    {
+     "x": -0.139274,
+     "y": 51.496966
+    },
+    {
+     "x": -0.140178,
+     "y": 51.496829
+    },
+    {
+     "x": -0.140498,
+     "y": 51.49678
+    },
+    {
+     "x": -0.141138,
+     "y": 51.496686
+    },
+    {
+     "x": -0.141698,
+     "y": 51.496602
+    }
+   ],
+   "level": 3,
+   "street": "A302 - Victoria St",
+   "city": "Victoria",
+   "updateMillis": 1794040957166,
+   "endNode": "A202 - Bressenden Pl",
+   "length": 173,
+   "speed": 1.2166666666666666,
+   "segments": [
+    {
+     "fromNode": 127523790,
+     "ID": 375148285,
+     "toNode": 127523794,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1093020060,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "Closed until Aug 2027 for roadworks. Ref #147867815"
+   },
+   "line": [
+    {
+     "x": -0.188092,
+     "y": 51.460494
+    },
+    {
+     "x": -0.187812,
+     "y": 51.460745
+    },
+    {
+     "x": -0.187408,
+     "y": 51.461083
+    },
+    {
+     "x": -0.187255,
+     "y": 51.461286
+    }
+   ],
+   "level": 5,
+   "street": "Old York Rd",
+   "city": "Wandsworth",
+   "blockUpdate": 1788642412293,
+   "updateMillis": 1794040958771,
+   "length": 106,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127531719,
+     "ID": 121643900,
+     "toNode": 148557767,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 778610088,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.073544,
+     "y": 51.488988
+    },
+    {
+     "x": -0.074303,
+     "y": 51.489201
+    },
+    {
+     "x": -0.074466,
+     "y": 51.489221
+    },
+    {
+     "x": -0.074695,
+     "y": 51.489221
+    }
+   ],
+   "level": 5,
+   "street": "B204 - Rolls Rd",
+   "city": "Bermondsey",
+   "blockUpdate": 1793285912026,
+   "updateMillis": 1794040957183,
+   "endNode": "",
+   "length": 85,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127509984,
+     "ID": 121605825,
+     "toNode": 332364022,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 81152788,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.135546,
+     "y": 51.526959
+    },
+    {
+     "x": -0.135989,
+     "y": 51.527408
+    }
+   ],
+   "level": 5,
+   "street": "Cobourg St",
+   "city": "Euston",
+   "blockUpdate": 1762694219414,
+   "updateMillis": 1794040958466,
+   "endNode": "Drummond St",
+   "length": 59,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127596152,
+     "ID": 121718517,
+     "toNode": 127596151,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 4641410,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.194046,
+     "y": 51.472302
+    },
+    {
+     "x": -0.194839,
+     "y": 51.471999
+    }
+   ],
+   "level": 5,
+   "street": "Studdridge St",
+   "city": "Fulham",
+   "blockUpdate": 1792055067887,
+   "updateMillis": 1794040957663,
+   "endNode": "Quarrendon St",
+   "length": 65,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127530242,
+     "ID": 121632781,
+     "toNode": 127530252,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 90142616,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -0.178653,
+     "y": 51.499752
+    },
+    {
+     "x": -0.1755,
+     "y": 51.499978
+    }
+   ],
+   "level": 5,
+   "street": "Prince Consort Rd",
+   "city": "South Kensington",
+   "blockUpdate": 1794037391595,
+   "updateMillis": 1794040958024,
+   "endNode": "Kensington Gore",
+   "length": 220,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 278481533,
+     "ID": 351824953,
+     "toNode": 127598285,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 777257884,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.087346,
+     "y": 51.511577
+    },
+    {
+     "x": -0.087099,
+     "y": 51.511294
+    }
+   ],
+   "level": 5,
+   "street": "King William St",
+   "city": "City of London",
+   "blockUpdate": 1789576088071,
+   "updateMillis": 1794040958791,
+   "endNode": "Clement's Ln",
+   "length": 36,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 336537307,
+     "ID": 440534260,
+     "toNode": 127582150,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 1219257444,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.093111,
+     "y": 51.515591
+    },
+    {
+     "x": -0.093204,
+     "y": 51.515377
+    }
+   ],
+   "level": 5,
+   "street": "Aldermanbury",
+   "city": "City of London",
+   "blockUpdate": 1780382318341,
+   "updateMillis": 1794040956909,
+   "endNode": "Gresham St",
+   "length": 25,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 182763553,
+     "ID": 201143868,
+     "toNode": 127582790,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1759869486,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.155776,
+     "y": 51.523113
+    },
+    {
+     "x": -0.155492,
+     "y": 51.52254
+    }
+   ],
+   "level": 5,
+   "street": "Allsop Pl",
+   "city": "Regent's Park",
+   "blockUpdate": 1789655259440,
+   "updateMillis": 1794040958778,
+   "endNode": "A501 (E) - Marylebone Rd",
+   "length": 67,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127595746,
+     "ID": 334967737,
+     "toNode": 127596736,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 92437838,
+   "line": [
+    {
+     "x": -0.162601,
+     "y": 51.534028
+    },
+    {
+     "x": -0.162443,
+     "y": 51.534121
+    },
+    {
+     "x": -0.162132,
+     "y": 51.534242
+    },
+    {
+     "x": -0.159319,
+     "y": 51.534965
+    },
+    {
+     "x": -0.156835,
+     "y": 51.535569
+    }
+   ],
+   "level": 2,
+   "street": "Outer Circle",
+   "city": "Regent's Park",
+   "updateMillis": 1794040851832,
+   "length": 437,
+   "speed": 3.4472222222222224,
+   "segments": [
+    {
+     "fromNode": 127596395,
+     "ID": 396901944,
+     "toNode": 212733603,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 92609110,
+   "line": [
+    {
+     "x": -0.081681,
+     "y": 51.5135
+    },
+    {
+     "x": -0.083379,
+     "y": 51.513441
+    },
+    {
+     "x": -0.084044,
+     "y": 51.513416
+    }
+   ],
+   "level": 3,
+   "street": "Leadenhall St",
+   "city": "City of London",
+   "updateMillis": 1794040957857,
+   "endNode": "A10 - Bishopsgate",
+   "length": 164,
+   "speed": 1.2222222222222223,
+   "segments": [
+    {
+     "fromNode": 127581555,
+     "ID": 283442621,
+     "toNode": 234331486,
+     "isForward": true
+    },
+    {
+     "fromNode": 234331486,
+     "ID": 377490669,
+     "toNode": 127582656,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 194821192,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.148532,
+     "y": 51.513047
+    },
+    {
+     "x": -0.147479,
+     "y": 51.513259
+    }
+   ],
+   "level": 5,
+   "street": "Davies Mews",
+   "city": "Mayfair",
+   "blockUpdate": 1724238544968,
+   "updateMillis": 1794040957955,
+   "endNode": "South Molton Ln",
+   "length": 77,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127594696,
+     "ID": 121716869,
+     "toNode": 127594697,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 754226466,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "[Causeway one.network] ."
+   },
+   "line": [
+    {
+     "x": -0.090254,
+     "y": 51.506291
+    },
+    {
+     "x": -0.090172,
+     "y": 51.50635
+    },
+    {
+     "x": -0.090021,
+     "y": 51.506542
+    },
+    {
+     "x": -0.089954,
+     "y": 51.506655
+    },
+    {
+     "x": -0.0899,
+     "y": 51.506695
+    }
+   ],
+   "level": 5,
+   "street": "Montague Cl",
+   "city": "Southwark",
+   "blockUpdate": 1790440184264,
+   "updateMillis": 1794040959286,
+   "length": 52,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127580448,
+     "ID": 167453730,
+     "toNode": 165017698,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 89875084,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -0.161813,
+     "y": 51.460855
+    },
+    {
+     "x": -0.161792,
+     "y": 51.460967
+    },
+    {
+     "x": -0.161744,
+     "y": 51.461071
+    },
+    {
+     "x": -0.16167,
+     "y": 51.461107
+    }
+   ],
+   "level": 5,
+   "street": "A3(E) > Central London",
+   "city": "Clapham",
+   "updateMillis": 1794040853229,
+   "startNode": "Clapham",
+   "endNode": "Clapham",
+   "length": 31,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 153809163,
+     "ID": 270725393,
+     "toNode": 151547810,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 92521310,
+   "line": [
+    {
+     "x": -0.176198,
+     "y": 51.537293
+    },
+    {
+     "x": -0.17625,
+     "y": 51.537001
+    },
+    {
+     "x": -0.176265,
+     "y": 51.536588
+    },
+    {
+     "x": -0.176231,
+     "y": 51.536367
+    },
+    {
+     "x": -0.176101,
+     "y": 51.536042
+    },
+    {
+     "x": -0.175658,
+     "y": 51.535544
+    },
+    {
+     "x": -0.175501,
+     "y": 51.535395
+    },
+    {
+     "x": -0.175273,
+     "y": 51.535216
+    },
+    {
+     "x": -0.174998,
+     "y": 51.534998
+    },
+    {
+     "x": -0.17477,
+     "y": 51.534806
+    },
+    {
+     "x": -0.174249,
+     "y": 51.534376
+    }
+   ],
+   "level": 3,
+   "street": "A41 - Finchley Rd",
+   "city": "St. Johns Wood",
+   "updateMillis": 1794040956504,
+   "endNode": "A41 - Wellington Rd",
+   "length": 367,
+   "speed": 2.2527777777777778,
+   "segments": [
+    {
+     "fromNode": 248065804,
+     "ID": 303635232,
+     "toNode": 127605278,
+     "isForward": false
+    },
+    {
+     "fromNode": 127605278,
+     "ID": 147078773,
+     "toNode": 154251025,
+     "isForward": true
+    },
+    {
+     "fromNode": 154251025,
+     "ID": 147078792,
+     "toNode": 127606629,
+     "isForward": true
+    },
+    {
+     "fromNode": 127606629,
+     "ID": 121732627,
+     "toNode": 127606628,
+     "isForward": true
+    },
+    {
+     "fromNode": 127606628,
+     "ID": 287731732,
+     "toNode": 237016042,
+     "isForward": true
+    },
+    {
+     "fromNode": 237016042,
+     "ID": 287731735,
+     "toNode": 127606625,
+     "isForward": true
+    },
+    {
+     "fromNode": 127606625,
+     "ID": 287731740,
+     "toNode": 237016045,
+     "isForward": false
+    },
+    {
+     "fromNode": 237016045,
+     "ID": 287731739,
+     "toNode": 127606619,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 1754074704,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.134374,
+     "y": 51.482879
+    },
+    {
+     "x": -0.134323,
+     "y": 51.482804
+    }
+   ],
+   "level": 5,
+   "street": "",
+   "city": "Nine Elms",
+   "blockUpdate": 1762188926519,
+   "updateMillis": 1794040957228,
+   "endNode": "A3205 - Nine Elms Ln (W)",
+   "length": 9,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 306976124,
+     "ID": 395717228,
+     "toNode": 179114075,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 30346028,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.173133,
+     "y": 51.541632
+    },
+    {
+     "x": -0.173222,
+     "y": 51.541734
+    }
+   ],
+   "level": 5,
+   "street": "B525 - Avenue Rd",
+   "city": "Primrose Hill",
+   "blockUpdate": 1793998626688,
+   "updateMillis": 1794040956229,
+   "length": 13,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127597660,
+     "ID": 467883896,
+     "toNode": 353660348,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 130120994,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.143303,
+     "y": 51.508227
+    },
+    {
+     "x": -0.144093,
+     "y": 51.508866
+    },
+    {
+     "x": -0.144153,
+     "y": 51.508915
+    }
+   ],
+   "level": 5,
+   "street": "Berkeley St",
+   "city": "Mayfair",
+   "blockUpdate": 1793388645675,
+   "updateMillis": 1794040958757,
+   "endNode": "Berkeley Sq",
+   "length": 97,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127595354,
+     "ID": 249721312,
+     "toNode": 127595322,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 723961792,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.08524,
+     "y": 51.520303
+    },
+    {
+     "x": -0.085401,
+     "y": 51.519984
+    },
+    {
+     "x": -0.085663,
+     "y": 51.519544
+    },
+    {
+     "x": -0.086172,
+     "y": 51.518815
+    }
+   ],
+   "level": 5,
+   "street": "Wilson St",
+   "city": "City of London",
+   "blockUpdate": 1791327615158,
+   "updateMillis": 1794040957183,
+   "endNode": "Eldon St",
+   "length": 178,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127582105,
+     "ID": 208403136,
+     "toNode": 127582123,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 772471020,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "ROAD_CLOSED_EVENT",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.132302,
+     "y": 51.498057
+    },
+    {
+     "x": -0.132217,
+     "y": 51.498058
+    },
+    {
+     "x": -0.131486,
+     "y": 51.498321
+    },
+    {
+     "x": -0.131393,
+     "y": 51.498333
+    },
+    {
+     "x": -0.130692,
+     "y": 51.498374
+    }
+   ],
+   "level": 5,
+   "street": "Abbey Orchard St",
+   "city": "Westminster",
+   "blockUpdate": 1745224573306,
+   "updateMillis": 1794040957244,
+   "endNode": "B326 - Great Smith St",
+   "length": 120,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127523734,
+     "ID": 121625610,
+     "toNode": 127523444,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1668946578,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.088074,
+     "y": 51.512442
+    },
+    {
+     "x": -0.087835,
+     "y": 51.512152
+    }
+   ],
+   "level": 5,
+   "street": "King William St",
+   "city": "City of London",
+   "blockUpdate": 1789576087659,
+   "updateMillis": 1794040957295,
+   "endNode": "Abchurch Ln",
+   "length": 36,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 223302427,
+     "ID": 267469592,
+     "toNode": 127580430,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 34082272,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.173461,
+     "y": 51.54199
+    },
+    {
+     "x": -0.173324,
+     "y": 51.541851
+    }
+   ],
+   "level": 5,
+   "street": "A41 - Avenue Rd",
+   "city": "South Hampstead",
+   "blockUpdate": 1793998694769,
+   "updateMillis": 1794040958371,
+   "endNode": "A41 - Adelaide Rd",
+   "length": 18,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 182481599,
+     "ID": 200508912,
+     "toNode": 127598086,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 90599830,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -0.093904,
+     "y": 51.516939
+    },
+    {
+     "x": -0.093675,
+     "y": 51.517334
+    },
+    {
+     "x": -0.093611,
+     "y": 51.517479
+    }
+   ],
+   "level": 5,
+   "street": "Wood St",
+   "city": "City of London",
+   "blockUpdate": 1794038035763,
+   "updateMillis": 1794040956302,
+   "endNode": "A1211 (W) - London Wall",
+   "length": 63,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127582058,
+     "ID": 121699652,
+     "toNode": 357453045,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 1296174002,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "Closed to 9 Nov ref #151588809. #236755"
+   },
+   "line": [
+    {
+     "x": -0.125799,
+     "y": 51.481568
+    },
+    {
+     "x": -0.124662,
+     "y": 51.481612
+    },
+    {
+     "x": -0.124539,
+     "y": 51.481597
+    }
+   ],
+   "level": 5,
+   "street": "Wyvil Rd",
+   "city": "South Lambeth",
+   "blockUpdate": 1793383569134,
+   "updateMillis": 1794040958340,
+   "endNode": "A203 - South Lambeth Rd",
+   "length": 88,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 338464865,
+     "ID": 443510989,
+     "toNode": 127509514,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 92201096,
+   "line": [
+    {
+     "x": -0.065803,
+     "y": 51.48486
+    },
+    {
+     "x": -0.065589,
+     "y": 51.484794
+    },
+    {
+     "x": -0.065441,
+     "y": 51.484769
+    },
+    {
+     "x": -0.065117,
+     "y": 51.484911
+    },
+    {
+     "x": -0.0637,
+     "y": 51.485532
+    },
+    {
+     "x": -0.063475,
+     "y": 51.485596
+    },
+    {
+     "x": -0.063208,
+     "y": 51.485647
+    },
+    {
+     "x": -0.062632,
+     "y": 51.485708
+    }
+   ],
+   "level": 3,
+   "street": "Verney Rd",
+   "city": "Bermondsey",
+   "updateMillis": 1794040957978,
+   "endNode": "Verney Way",
+   "length": 252,
+   "speed": 1.225,
+   "segments": [
+    {
+     "fromNode": 155308885,
+     "ID": 163291183,
+     "toNode": 163322662,
+     "isForward": true
+    },
+    {
+     "fromNode": 163322662,
+     "ID": 163291184,
+     "toNode": 127509161,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 91521666,
+   "line": [
+    {
+     "x": -0.171481,
+     "y": 51.479997
+    },
+    {
+     "x": -0.173395,
+     "y": 51.482142
+    }
+   ],
+   "level": 4,
+   "street": "A3220 - Battersea Bridge",
+   "city": "Battersea",
+   "updateMillis": 1794040957726,
+   "endNode": "A3220 - Cheyne Walk",
+   "length": 273,
+   "speed": 1.136111111111111,
+   "segments": [
+    {
+     "fromNode": 331954124,
+     "ID": 433555656,
+     "toNode": 151753324,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 37559242,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.13043,
+     "y": 51.536803
+    },
+    {
+     "x": -0.131095,
+     "y": 51.537474
+    },
+    {
+     "x": -0.131133,
+     "y": 51.537493
+    },
+    {
+     "x": -0.131175,
+     "y": 51.537497
+    },
+    {
+     "x": -0.131222,
+     "y": 51.537491
+    },
+    {
+     "x": -0.132553,
+     "y": 51.536972
+    },
+    {
+     "x": -0.132737,
+     "y": 51.536936
+    }
+   ],
+   "level": 5,
+   "street": "Granary St",
+   "city": "Camden Town",
+   "blockUpdate": 1793999969081,
+   "updateMillis": 1794040956853,
+   "endNode": "A5202 - St. Pancras Way",
+   "length": 220,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 355641592,
+     "ID": 471226928,
+     "toNode": 127596340,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 1337323084,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "[Causeway one.network] ."
+   },
+   "line": [
+    {
+     "x": -0.08197,
+     "y": 51.520576
+    },
+    {
+     "x": -0.081826,
+     "y": 51.520701
+    },
+    {
+     "x": -0.081592,
+     "y": 51.520961
+    }
+   ],
+   "level": 5,
+   "street": "Appold St",
+   "city": "City of London",
+   "blockUpdate": 1792399859970,
+   "updateMillis": 1794040957076,
+   "endNode": "Primrose St",
+   "length": 50,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127582121,
+     "ID": 121697915,
+     "toNode": 127580406,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92395896,
+   "line": [
+    {
+     "x": -0.077687,
+     "y": 51.51327
+    },
+    {
+     "x": -0.077736,
+     "y": 51.513202
+    },
+    {
+     "x": -0.077919,
+     "y": 51.51309
+    },
+    {
+     "x": -0.078704,
+     "y": 51.512681
+    },
+    {
+     "x": -0.079262,
+     "y": 51.512399
+    },
+    {
+     "x": -0.07932,
+     "y": 51.512377
+    },
+    {
+     "x": -0.079526,
+     "y": 51.512309
+    },
+    {
+     "x": -0.08037,
+     "y": 51.512042
+    }
+   ],
+   "level": 4,
+   "street": "Fenchurch St",
+   "city": "City of London",
+   "updateMillis": 1794040850941,
+   "endNode": "Mark Ln",
+   "length": 234,
+   "speed": 1.2694444444444444,
+   "segments": [
+    {
+     "fromNode": 223850971,
+     "ID": 185375683,
+     "toNode": 127581583,
+     "isForward": true
+    },
+    {
+     "fromNode": 127581583,
+     "ID": 121697318,
+     "toNode": 127581584,
+     "isForward": true
+    },
+    {
+     "fromNode": 127581584,
+     "ID": 121697329,
+     "toNode": 127581595,
+     "isForward": true
+    },
+    {
+     "fromNode": 127581595,
+     "ID": 246997638,
+     "toNode": 127581594,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1617284252,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.135878,
+     "y": 51.509414
+    },
+    {
+     "x": -0.136196,
+     "y": 51.509883
+    }
+   ],
+   "level": 5,
+   "street": "Air St",
+   "city": "Mayfair",
+   "blockUpdate": 1775244572754,
+   "updateMillis": 1794040956381,
+   "endNode": "A4201 - Regent St",
+   "length": 57,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127596330,
+     "ID": 160133851,
+     "toNode": 162054635,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 91077014,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -0.077766,
+     "y": 51.510796
+    },
+    {
+     "x": -0.077636,
+     "y": 51.510157
+    }
+   ],
+   "level": 5,
+   "street": "Savage Gdns",
+   "city": "City of London",
+   "blockUpdate": 1794038701988,
+   "updateMillis": 1794040956411,
+   "endNode": "Trinity Sq",
+   "length": 72,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127580086,
+     "ID": 121696027,
+     "toNode": 127580087,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 92517752,
+   "line": [
+    {
+     "x": -0.142362,
+     "y": 51.536791
+    },
+    {
+     "x": -0.143302,
+     "y": 51.53649
+    },
+    {
+     "x": -0.143525,
+     "y": 51.536463
+    },
+    {
+     "x": -0.143734,
+     "y": 51.536429
+    },
+    {
+     "x": -0.143794,
+     "y": 51.536419
+    },
+    {
+     "x": -0.144358,
+     "y": 51.536386
+    },
+    {
+     "x": -0.144911,
+     "y": 51.536385
+    },
+    {
+     "x": -0.145324,
+     "y": 51.536407
+    },
+    {
+     "x": -0.145638,
+     "y": 51.536465
+    },
+    {
+     "x": -0.146287,
+     "y": 51.536754
+    }
+   ],
+   "level": 3,
+   "street": "A503 - Delancey St",
+   "city": "Camden Town",
+   "updateMillis": 1794040958315,
+   "endNode": "A4201 - Parkway",
+   "length": 293,
+   "speed": 1.8527777777777779,
+   "segments": [
+    {
+     "fromNode": 127594965,
+     "ID": 121717789,
+     "toNode": 127595756,
+     "isForward": false
+    },
+    {
+     "fromNode": 127595756,
+     "ID": 445451231,
+     "toNode": 339688800,
+     "isForward": true
+    },
+    {
+     "fromNode": 339688800,
+     "ID": 445451232,
+     "toNode": 153168676,
+     "isForward": true
+    },
+    {
+     "fromNode": 153168676,
+     "ID": 121718487,
+     "toNode": 153168675,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 92120710,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -0.134349,
+     "y": 51.4631
+    },
+    {
+     "x": -0.134909,
+     "y": 51.463905
+    }
+   ],
+   "level": 5,
+   "street": "Clapham Manor St",
+   "city": "Clapham",
+   "blockUpdate": 1794040168139,
+   "updateMillis": 1794040957859,
+   "endNode": "Cresset St",
+   "length": 98,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 127525895,
+     "ID": 440085538,
+     "toNode": 336250618,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1102236492,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -0.135626,
+     "y": 51.526928
+    },
+    {
+     "x": -0.135546,
+     "y": 51.526959
+    }
+   ],
+   "level": 5,
+   "street": "Euston St",
+   "city": "Euston",
+   "blockUpdate": 1762694219252,
+   "updateMillis": 1794040957965,
+   "endNode": "Cobourg St",
+   "length": 7,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 291435695,
+     "ID": 371822086,
+     "toNode": 127596152,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 542070192,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": "Closed until Dec 30 for utility works works. Ref #231246"
+   },
+   "line": [
+    {
+     "x": -0.134659,
+     "y": 51.530873
+    },
+    {
+     "x": -0.133781,
+     "y": 51.530065
+    }
+   ],
+   "level": 5,
+   "street": "A4200 - Eversholt St",
+   "city": "Euston",
+   "blockUpdate": 1789319405972,
+   "updateMillis": 1794040959156,
+   "endNode": "Phoenix Rd",
+   "length": 109,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 156497655,
+     "ID": 152266141,
+     "toNode": 127596156,
+     "isForward": true
+    }
+   ]
+  }
+ ],
+ "users": []
+}

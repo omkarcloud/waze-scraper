@@ -1,0 +1,4941 @@
+{
+ "alerts": [
+  {
+   "id": "alert-1818090833/bb3c9134-bbd7-47a5-902e-48ec10e4a21a",
+   "location": {
+    "x": -73.976516,
+    "y": 40.754974
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Vanderbilt Ave",
+   "reportDescription": "",
+   "pubMillis": 1784898170000,
+   "nThumbsUp": 8
+  },
+  {
+   "id": "alert-1818090834/0a87eb7f-9580-4051-8838-3af09b1aac46",
+   "location": {
+    "x": -73.976058,
+    "y": 40.7556
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Vanderbilt Ave",
+   "reportDescription": "",
+   "pubMillis": 1784898170000,
+   "nThumbsUp": 120
+  },
+  {
+   "id": "alert-1693577183/afaffbbd-8025-46fd-b275-65f7d10f6c2a",
+   "location": {
+    "x": -73.959274,
+    "y": 40.75928
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "E 60th St",
+   "reportDescription": "",
+   "pubMillis": 1776090093000,
+   "nThumbsUp": 57
+  },
+  {
+   "id": "alert-9557080/70d283b6-ce70-4f86-a873-e1b555000ce7",
+   "location": {
+    "x": -73.940565,
+    "y": 40.793188
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "E 110th St",
+   "pubMillis": 1794037513000
+  },
+  {
+   "id": "alert-1693598134/e6da48df-941f-4861-9d9c-c22f37a98c0c",
+   "location": {
+    "x": -74.024828,
+    "y": 40.743405
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Sinatra Dr",
+   "provider": "City of Hoboken",
+   "providerId": "",
+   "reportDescription": "",
+   "pubMillis": 1776090134000,
+   "reportBy": "City of Hoboken",
+   "nThumbsUp": 1
+  },
+  {
+   "id": "alert-1693601723/733429bc-7a84-43ea-9089-af8b7a8c7758",
+   "location": {
+    "x": -74.026095,
+    "y": 40.749466
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Sinatra Dr",
+   "provider": "City of Hoboken",
+   "providerId": "",
+   "reportDescription": "",
+   "pubMillis": 1776090159000,
+   "reportBy": "City of Hoboken",
+   "nThumbsUp": 69
+  },
+  {
+   "id": "alert-1801606164/06ab8d1a-7f66-4705-921b-ff38ef78c5d6",
+   "location": {
+    "x": -74.026104,
+    "y": 40.753249
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "14th St",
+   "provider": "City of Hoboken",
+   "providerId": "",
+   "reportDescription": "",
+   "pubMillis": 1784505611000,
+   "reportBy": "City of Hoboken",
+   "nThumbsUp": 70
+  },
+  {
+   "id": "alert-1801605895/20f979d3-039b-4dcf-a465-64432873e758",
+   "location": {
+    "x": -74.026904,
+    "y": 40.753389
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "14th St",
+   "provider": "City of Hoboken",
+   "providerId": "",
+   "reportDescription": "",
+   "pubMillis": 1784505611000,
+   "reportBy": "City of Hoboken",
+   "nThumbsUp": 63
+  },
+  {
+   "id": "alert-1693595752/fb4e5975-566c-465c-b817-395040e001cd",
+   "location": {
+    "x": -74.024584,
+    "y": 40.74828
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Sinatra Dr",
+   "provider": "City of Hoboken",
+   "providerId": "",
+   "reportDescription": "",
+   "pubMillis": 1776090118000,
+   "reportBy": "City of Hoboken"
+  },
+  {
+   "id": "alert-1693598849/a11dffec-ec5e-4cc0-9f93-eec4902c5d2e",
+   "location": {
+    "x": -74.025881,
+    "y": 40.742671
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Sinatra Dr",
+   "provider": "City of Hoboken",
+   "providerId": "",
+   "reportDescription": "",
+   "pubMillis": 1776090139000,
+   "reportBy": "City of Hoboken",
+   "nThumbsUp": 5
+  },
+  {
+   "id": "alert-266798328/40561b05-1a41-4ced-aa77-33ab286b0313",
+   "location": {
+    "x": -73.982216,
+    "y": 40.745784
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "to 46th St / Park Ave Tun",
+   "reportDescription": "",
+   "pubMillis": 1793731564000,
+   "nThumbsUp": 1
+  },
+  {
+   "id": "alert-1693578465/ee96e791-fa67-43c5-bb9e-ca70c3389ec4",
+   "location": {
+    "x": -74.002472,
+    "y": 40.755116
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "W 33rd St",
+   "reportDescription": "",
+   "pubMillis": 1776090102000,
+   "nThumbsUp": 46
+  },
+  {
+   "id": "alert-266794214/c964d3bb-2077-44fa-b3a3-586624aabcf7",
+   "location": {
+    "x": -73.981801,
+    "y": 40.746431
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "to 46th St / Park Ave Tun",
+   "reportDescription": "",
+   "pubMillis": 1793731564000
+  },
+  {
+   "id": "alert-6968796/9435f73b-7a30-4384-9a22-858804f2885f",
+   "location": {
+    "x": -73.974223,
+    "y": 40.75974
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "E 53rd St",
+   "provider": "New York City",
+   "providerId": "",
+   "reportDescription": "",
+   "pubMillis": 1793977242000,
+   "reportBy": "New York City"
+  },
+  {
+   "id": "alert-1693599288/b3f047ec-91ab-47d6-945a-aabddad9d365",
+   "location": {
+    "x": -73.984701,
+    "y": 40.78561
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "to NY-9A S / Henry Hudson Pkwy",
+   "reportDescription": "",
+   "pubMillis": 1776090142000,
+   "nThumbsUp": 56
+  },
+  {
+   "id": "alert-1824750198/339a89a9-2e48-4d96-be3a-2db5521502e4",
+   "location": {
+    "x": -73.984244,
+    "y": 40.785641
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "reportDescription": "",
+   "pubMillis": 1779037507000,
+   "nThumbsUp": 85
+  },
+  {
+   "id": "alert-266780846/63d18053-f10f-44bd-a200-d23e945c4eab",
+   "location": {
+    "x": -73.981449,
+    "y": 40.746943
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Park Ave Tun",
+   "reportDescription": "",
+   "pubMillis": 1793731564000,
+   "nThumbsUp": 2
+  },
+  {
+   "id": "alert-6836886/e96853ee-2bec-4967-aa1d-3cd2512280ba",
+   "location": {
+    "x": -73.996143,
+    "y": 40.758225
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "W 40th St",
+   "reportDescription": "",
+   "pubMillis": 1793973644000
+  },
+  {
+   "id": "alert-1693597068/4f840fad-5e83-48ed-a396-c9ddff02f979",
+   "location": {
+    "x": -73.987677,
+    "y": 40.751428
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "Broadway",
+   "reportDescription": "",
+   "pubMillis": 1776090127000,
+   "nThumbsUp": 59
+  },
+  {
+   "id": "alert-6836914/765fae16-c4fd-40a3-880c-a03d4b15b32e",
+   "location": {
+    "x": -73.996453,
+    "y": 40.758353
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "W 40th St",
+   "reportDescription": "",
+   "pubMillis": 1793973645000
+  },
+  {
+   "id": "alert-6836924/0937d88c-7a96-4d65-93a5-c1185ef5c6de",
+   "location": {
+    "x": -73.994932,
+    "y": 40.757707
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "W 40th St",
+   "reportDescription": "",
+   "pubMillis": 1793973645000
+  },
+  {
+   "id": "alert-6836882/46c444fe-86e4-4120-8941-cf50e55e5cfe",
+   "location": {
+    "x": -73.971411,
+    "y": 40.763588
+   },
+   "type": "ROAD_CLOSED",
+   "subtype": "",
+   "street": "E 59th St",
+   "reportDescription": "",
+   "pubMillis": 1793973644000
+  }
+ ],
+ "jams": [
+  {
+   "id": 84586248,
+   "line": [
+    {
+     "x": -73.988613,
+     "y": 40.731323
+    },
+    {
+     "x": -73.990212,
+     "y": 40.731995
+    }
+   ],
+   "level": 4,
+   "street": "E 11th St",
+   "city": "Manhattan, NY",
+   "updateMillis": 1794040923445,
+   "endNode": "4th Ave",
+   "length": 154,
+   "speed": 0.9111111111111111,
+   "segments": [
+    {
+     "fromNode": 28572634,
+     "ID": 34789646,
+     "toNode": 28572586,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84752392,
+   "line": [
+    {
+     "x": -74.00333,
+     "y": 40.716529
+    },
+    {
+     "x": -74.004026,
+     "y": 40.716871
+    },
+    {
+     "x": -74.004789,
+     "y": 40.717222
+    },
+    {
+     "x": -74.005777,
+     "y": 40.717676
+    }
+   ],
+   "level": 2,
+   "street": "Leonard St",
+   "city": "Manhattan, NY",
+   "updateMillis": 1794040922819,
+   "endNode": "Church St",
+   "length": 243,
+   "speed": 1.4305555555555556,
+   "segments": [
+    {
+     "fromNode": 28571934,
+     "ID": 34788863,
+     "toNode": 28570177,
+     "isForward": false
+    },
+    {
+     "fromNode": 28570177,
+     "ID": 522654014,
+     "toNode": 512278703,
+     "isForward": false
+    },
+    {
+     "fromNode": 512278703,
+     "ID": 522654013,
+     "toNode": 28573148,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 1197597798,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -74.010692,
+     "y": 40.704175
+    },
+    {
+     "x": -74.010366,
+     "y": 40.70431
+    },
+    {
+     "x": -74.01007,
+     "y": 40.704545
+    },
+    {
+     "x": -74.009746,
+     "y": 40.704775
+    }
+   ],
+   "level": 5,
+   "street": "Stone St",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1789125115437,
+   "updateMillis": 1794040923401,
+   "endNode": "William St",
+   "length": 105,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 28571730,
+     "ID": 510651135,
+     "toNode": 28571733,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 48660716,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -74.030144,
+     "y": 40.736039
+    },
+    {
+     "x": -74.030257,
+     "y": 40.73566
+    },
+    {
+     "x": -74.030319,
+     "y": 40.735493
+    },
+    {
+     "x": -74.030385,
+     "y": 40.735428
+    }
+   ],
+   "level": 5,
+   "street": "Hudson St",
+   "city": "Hoboken, NJ",
+   "blockUpdate": 1792360842133,
+   "updateMillis": 1794040923271,
+   "endNode": "Observer Hwy",
+   "length": 72,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 26324448,
+     "ID": 31978767,
+     "toNode": 26324447,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84716802,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -74.101265,
+     "y": 40.734648
+    },
+    {
+     "x": -74.102204,
+     "y": 40.734624
+    },
+    {
+     "x": -74.104998,
+     "y": 40.734577
+    },
+    {
+     "x": -74.105619,
+     "y": 40.734575
+    },
+    {
+     "x": -74.10623,
+     "y": 40.734592
+    },
+    {
+     "x": -74.106895,
+     "y": 40.734619
+    },
+    {
+     "x": -74.109799,
+     "y": 40.734729
+    },
+    {
+     "x": -74.117519,
+     "y": 40.735025
+    }
+   ],
+   "level": 5,
+   "street": "US-1-9 S \u2022 Pulaski Skwy",
+   "city": "Kearny, NJ",
+   "blockUpdate": 1794039135302,
+   "updateMillis": 1794040923352,
+   "endNode": "US-1-9 S \u2022 Pulaski Skwy",
+   "length": 1374,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 52981856,
+     "ID": 78348077,
+     "toNode": 26462316,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84770050,
+   "line": [
+    {
+     "x": -73.928683,
+     "y": 40.835895
+    },
+    {
+     "x": -73.92938,
+     "y": 40.834669
+    },
+    {
+     "x": -73.930213,
+     "y": 40.833186
+    },
+    {
+     "x": -73.930934,
+     "y": 40.831914
+    }
+   ],
+   "level": 2,
+   "street": "Summit Ave",
+   "city": "Bronx, NY",
+   "updateMillis": 1794040922752,
+   "endNode": "W 162nd St",
+   "length": 481,
+   "speed": 1.3583333333333334,
+   "segments": [
+    {
+     "fromNode": 28405134,
+     "ID": 34583269,
+     "toNode": 28400891,
+     "isForward": false
+    },
+    {
+     "fromNode": 28400891,
+     "ID": 34579193,
+     "toNode": 28400890,
+     "isForward": false
+    },
+    {
+     "fromNode": 28400890,
+     "ID": 34579194,
+     "toNode": 28403385,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84770076,
+   "line": [
+    {
+     "x": -73.983159,
+     "y": 40.756154
+    },
+    {
+     "x": -73.979936,
+     "y": 40.754783
+    }
+   ],
+   "level": 2,
+   "street": "W 44th St",
+   "city": "Manhattan, NY",
+   "updateMillis": 1794040923491,
+   "endNode": "5th Ave",
+   "length": 312,
+   "speed": 1.625,
+   "segments": [
+    {
+     "fromNode": 28571857,
+     "ID": 34792234,
+     "toNode": 28570074,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 2141490,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.984701,
+     "y": 40.78561
+    },
+    {
+     "x": -73.98467,
+     "y": 40.785275
+    },
+    {
+     "x": -73.984778,
+     "y": 40.784868
+    },
+    {
+     "x": -73.984924,
+     "y": 40.784506
+    },
+    {
+     "x": -73.985446,
+     "y": 40.783592
+    }
+   ],
+   "level": 5,
+   "street": "to NY-9A S / Henry Hudson Pkwy",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1776090142535,
+   "updateMillis": 1794040924505,
+   "endNode": "Henry Hudson Pkwy S",
+   "length": 236,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 61854750,
+     "ID": 62954530,
+     "toNode": 50464307,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84774170,
+   "line": [
+    {
+     "x": -73.938649,
+     "y": 40.791557
+    },
+    {
+     "x": -73.941035,
+     "y": 40.792546
+    }
+   ],
+   "level": 4,
+   "street": "E 109th St",
+   "city": "Manhattan, NY",
+   "updateMillis": 1794040922712,
+   "endNode": "2nd Ave",
+   "length": 229,
+   "speed": 0.3277777777777778,
+   "segments": [
+    {
+     "fromNode": 28574588,
+     "ID": 34793082,
+     "toNode": 28572615,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 1844620010,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -74.040672,
+     "y": 40.734477
+    },
+    {
+     "x": -74.040553,
+     "y": 40.735314
+    }
+   ],
+   "level": 5,
+   "street": "Grove St",
+   "city": "Jersey City, NJ",
+   "blockUpdate": 1793754032024,
+   "updateMillis": 1794040922750,
+   "endNode": "Grove St",
+   "length": 94,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 26328675,
+     "ID": 31981873,
+     "toNode": 55718677,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1703266972,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -74.026095,
+     "y": 40.749466
+    },
+    {
+     "x": -74.026003,
+     "y": 40.749398
+    },
+    {
+     "x": -74.025871,
+     "y": 40.74921
+    },
+    {
+     "x": -74.02497,
+     "y": 40.748625
+    },
+    {
+     "x": -74.024803,
+     "y": 40.748502
+    },
+    {
+     "x": -74.024584,
+     "y": 40.74828
+    }
+   ],
+   "level": 5,
+   "street": "Sinatra Dr",
+   "city": "Hoboken, NJ",
+   "blockUpdate": 1776090159478,
+   "updateMillis": 1794040923460,
+   "endNode": "Sinatra Dr N",
+   "length": 185,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 26324143,
+     "ID": 68335663,
+     "toNode": 52852696,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84636432,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.996143,
+     "y": 40.758225
+    },
+    {
+     "x": -73.994932,
+     "y": 40.757707
+    }
+   ],
+   "level": 5,
+   "street": "W 40th St",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1793973644699,
+   "updateMillis": 1794040923361,
+   "endNode": "Dyer Ave",
+   "length": 117,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 61847682,
+     "ID": 522103906,
+     "toNode": 511965001,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84770064,
+   "line": [
+    {
+     "x": -73.922413,
+     "y": 40.830053
+    },
+    {
+     "x": -73.923976,
+     "y": 40.827397
+    }
+   ],
+   "level": 2,
+   "street": "Walton Ave",
+   "city": "Bronx, NY",
+   "updateMillis": 1794040922911,
+   "endNode": "E 161st St",
+   "length": 323,
+   "speed": 1.4694444444444446,
+   "segments": [
+    {
+     "fromNode": 28405115,
+     "ID": 63074664,
+     "toNode": 53557716,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84774188,
+   "line": [
+    {
+     "x": -73.94013,
+     "y": 40.836958
+    },
+    {
+     "x": -73.939994,
+     "y": 40.837714
+    },
+    {
+     "x": -73.939862,
+     "y": 40.838528
+    },
+    {
+     "x": -73.939843,
+     "y": 40.838696
+    },
+    {
+     "x": -73.939862,
+     "y": 40.838906
+    },
+    {
+     "x": -73.93989,
+     "y": 40.839438
+    },
+    {
+     "x": -73.939876,
+     "y": 40.839565
+    },
+    {
+     "x": -73.939821,
+     "y": 40.839663
+    },
+    {
+     "x": -73.939658,
+     "y": 40.840244
+    },
+    {
+     "x": -73.939466,
+     "y": 40.840962
+    }
+   ],
+   "level": 2,
+   "street": "Saint Nicholas Ave",
+   "city": "Manhattan, NY",
+   "updateMillis": 1794040922833,
+   "endNode": "Broadway",
+   "length": 450,
+   "speed": 3.1083333333333334,
+   "segments": [
+    {
+     "fromNode": 28571980,
+     "ID": 34786296,
+     "toNode": 28571977,
+     "isForward": true
+    },
+    {
+     "fromNode": 28571977,
+     "ID": 34791198,
+     "toNode": 28571978,
+     "isForward": true
+    },
+    {
+     "fromNode": 28571978,
+     "ID": 532874703,
+     "toNode": 518311778,
+     "isForward": true
+    },
+    {
+     "fromNode": 518311778,
+     "ID": 532874704,
+     "toNode": 55048441,
+     "isForward": true
+    },
+    {
+     "fromNode": 55048441,
+     "ID": 67369686,
+     "toNode": 28573983,
+     "isForward": true
+    },
+    {
+     "fromNode": 28573983,
+     "ID": 34786568,
+     "toNode": 28572023,
+     "isForward": true
+    },
+    {
+     "fromNode": 28572023,
+     "ID": 34788304,
+     "toNode": 28570245,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1137685998,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.987677,
+     "y": 40.751428
+    },
+    {
+     "x": -73.987836,
+     "y": 40.750684
+    }
+   ],
+   "level": 5,
+   "street": "Broadway",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1776090127443,
+   "updateMillis": 1794040923414,
+   "endNode": "W 35th St",
+   "length": 84,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 28571305,
+     "ID": 34790786,
+     "toNode": 28573685,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 1659423436,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -74.030385,
+     "y": 40.735428
+    },
+    {
+     "x": -74.030319,
+     "y": 40.735493
+    },
+    {
+     "x": -74.030257,
+     "y": 40.73566
+    },
+    {
+     "x": -74.030144,
+     "y": 40.736039
+    }
+   ],
+   "level": 5,
+   "street": "Hudson St",
+   "city": "Hoboken, NJ",
+   "blockUpdate": 1792360843766,
+   "updateMillis": 1794040923273,
+   "endNode": "Hudson Pl",
+   "length": 72,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 26324447,
+     "ID": 31978767,
+     "toNode": 26324448,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84776744,
+   "line": [
+    {
+     "x": -73.935622,
+     "y": 40.846727
+    },
+    {
+     "x": -73.936857,
+     "y": 40.847249
+    },
+    {
+     "x": -73.937975,
+     "y": 40.847711
+    }
+   ],
+   "level": 2,
+   "street": "W 177th St",
+   "city": "Manhattan, NY",
+   "updateMillis": 1794040923410,
+   "endNode": "Broadway",
+   "length": 226,
+   "speed": 1.4944444444444445,
+   "segments": [
+    {
+     "fromNode": 28573182,
+     "ID": 34787039,
+     "toNode": 28571958,
+     "isForward": true
+    },
+    {
+     "fromNode": 28571958,
+     "ID": 34787620,
+     "toNode": 28571953,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84763432,
+   "line": [
+    {
+     "x": -73.910885,
+     "y": 40.767579
+    },
+    {
+     "x": -73.910088,
+     "y": 40.767204
+    },
+    {
+     "x": -73.90929,
+     "y": 40.766828
+    },
+    {
+     "x": -73.9085,
+     "y": 40.766457
+    },
+    {
+     "x": -73.907709,
+     "y": 40.766083
+    },
+    {
+     "x": -73.907709,
+     "y": 40.766082
+    },
+    {
+     "x": -73.906911,
+     "y": 40.76571
+    },
+    {
+     "x": -73.906911,
+     "y": 40.765711
+    },
+    {
+     "x": -73.906112,
+     "y": 40.765336
+    }
+   ],
+   "level": 2,
+   "street": "25th Ave",
+   "city": "Queens, NY",
+   "updateMillis": 1794040922868,
+   "endNode": "48th St",
+   "length": 473,
+   "speed": 3.0944444444444446,
+   "segments": [
+    {
+     "fromNode": 28306646,
+     "ID": 34470113,
+     "toNode": 28316898,
+     "isForward": true
+    },
+    {
+     "fromNode": 28316898,
+     "ID": 34470405,
+     "toNode": 28311788,
+     "isForward": true
+    },
+    {
+     "fromNode": 28311788,
+     "ID": 34455110,
+     "toNode": 28311789,
+     "isForward": true
+    },
+    {
+     "fromNode": 28311789,
+     "ID": 34455117,
+     "toNode": 28307200,
+     "isForward": true
+    },
+    {
+     "fromNode": 28307200,
+     "ID": 34451371,
+     "toNode": 28300418,
+     "isForward": true
+    },
+    {
+     "fromNode": 28300418,
+     "ID": 64680704,
+     "toNode": 28311883,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84774186,
+   "line": [
+    {
+     "x": -74.03145,
+     "y": 40.735597
+    },
+    {
+     "x": -74.031056,
+     "y": 40.736908
+    },
+    {
+     "x": -74.030883,
+     "y": 40.737457
+    },
+    {
+     "x": -74.030499,
+     "y": 40.738729
+    },
+    {
+     "x": -74.030128,
+     "y": 40.739994
+    },
+    {
+     "x": -74.029724,
+     "y": 40.741273
+    },
+    {
+     "x": -74.029457,
+     "y": 40.742207
+    }
+   ],
+   "level": 2,
+   "street": "Washington St",
+   "city": "Hoboken, NJ",
+   "updateMillis": 1794040922831,
+   "endNode": "5th St",
+   "length": 753,
+   "speed": 3.5972222222222223,
+   "segments": [
+    {
+     "fromNode": 58564300,
+     "ID": 31981704,
+     "toNode": 58564299,
+     "isForward": true
+    },
+    {
+     "fromNode": 58564299,
+     "ID": 31983374,
+     "toNode": 58564298,
+     "isForward": true
+    },
+    {
+     "fromNode": 58564298,
+     "ID": 525489374,
+     "toNode": 58564297,
+     "isForward": true
+    },
+    {
+     "fromNode": 58564297,
+     "ID": 31981703,
+     "toNode": 58564296,
+     "isForward": true
+    },
+    {
+     "fromNode": 58564296,
+     "ID": 31977736,
+     "toNode": 58564295,
+     "isForward": true
+    },
+    {
+     "fromNode": 58564295,
+     "ID": 31984977,
+     "toNode": 58564294,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 48647886,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.984244,
+     "y": 40.785641
+    },
+    {
+     "x": -73.984224,
+     "y": 40.785675
+    },
+    {
+     "x": -73.984211,
+     "y": 40.785711
+    },
+    {
+     "x": -73.984207,
+     "y": 40.785748
+    },
+    {
+     "x": -73.984211,
+     "y": 40.785785
+    },
+    {
+     "x": -73.984224,
+     "y": 40.78582
+    },
+    {
+     "x": -73.984244,
+     "y": 40.785854
+    },
+    {
+     "x": -73.984273,
+     "y": 40.785884
+    },
+    {
+     "x": -73.984307,
+     "y": 40.78591
+    },
+    {
+     "x": -73.984347,
+     "y": 40.785932
+    },
+    {
+     "x": -73.984392,
+     "y": 40.785947
+    },
+    {
+     "x": -73.984439,
+     "y": 40.785957
+    },
+    {
+     "x": -73.984483,
+     "y": 40.78596
+    }
+   ],
+   "level": 5,
+   "street": "",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1779037507670,
+   "updateMillis": 1794040922777,
+   "endNode": "to W 79th St",
+   "length": 49,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 61854751,
+     "ID": 82564260,
+     "toNode": 61854749,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84759844,
+   "line": [
+    {
+     "x": -73.99545,
+     "y": 40.698133
+    },
+    {
+     "x": -73.996412,
+     "y": 40.696131
+    }
+   ],
+   "level": 2,
+   "street": "Willow St",
+   "city": "Brooklyn, NY",
+   "updateMillis": 1794040923425,
+   "endNode": "Pierrepont St",
+   "length": 237,
+   "speed": 1.4777777777777779,
+   "segments": [
+    {
+     "fromNode": 27581934,
+     "ID": 33545789,
+     "toNode": 27581932,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 229683354,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -74.077926,
+     "y": 40.737876
+    },
+    {
+     "x": -74.077874,
+     "y": 40.737766
+    },
+    {
+     "x": -74.077845,
+     "y": 40.737676
+    },
+    {
+     "x": -74.077884,
+     "y": 40.737614
+    }
+   ],
+   "level": 5,
+   "street": "",
+   "city": "Jersey City, NJ",
+   "blockUpdate": 1793728239535,
+   "updateMillis": 1794040922839,
+   "endNode": "US-1-9 TRUCK S",
+   "length": 31,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 54924763,
+     "ID": 66973821,
+     "toNode": 56079868,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84761894,
+   "line": [
+    {
+     "x": -73.954726,
+     "y": 40.733031
+    },
+    {
+     "x": -73.958058,
+     "y": 40.732716
+    }
+   ],
+   "level": 3,
+   "street": "Huron St",
+   "city": "Brooklyn, NY",
+   "updateMillis": 1794040923432,
+   "endNode": "Franklin St",
+   "length": 284,
+   "speed": 1.4833333333333334,
+   "segments": [
+    {
+     "fromNode": 27582768,
+     "ID": 33548014,
+     "toNode": 27582764,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 1720967870,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.922336,
+     "y": 40.709005
+    },
+    {
+     "x": -73.922483,
+     "y": 40.709333
+    }
+   ],
+   "level": 5,
+   "street": "Scott Ave",
+   "city": "Brooklyn, NY",
+   "blockUpdate": 1776090126638,
+   "updateMillis": 1794040922808,
+   "endNode": "Johnson Ave",
+   "length": 38,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 27586186,
+     "ID": 33549470,
+     "toNode": 27586181,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84763426,
+   "line": [
+    {
+     "x": -73.887709,
+     "y": 40.747245
+    },
+    {
+     "x": -73.888667,
+     "y": 40.747144
+    },
+    {
+     "x": -73.88956,
+     "y": 40.74705
+    },
+    {
+     "x": -73.8905,
+     "y": 40.74695
+    }
+   ],
+   "level": 1,
+   "street": "Roosevelt Ave",
+   "city": "Queens, NY",
+   "updateMillis": 1794040922713,
+   "endNode": "Broadway",
+   "length": 238,
+   "speed": 1.575,
+   "segments": [
+    {
+     "fromNode": 28305215,
+     "ID": 67844338,
+     "toNode": 28297587,
+     "isForward": true
+    },
+    {
+     "fromNode": 28297587,
+     "ID": 34461423,
+     "toNode": 28297584,
+     "isForward": false
+    },
+    {
+     "fromNode": 28297584,
+     "ID": 34449959,
+     "toNode": 28305217,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84756280,
+   "line": [
+    {
+     "x": -73.92034,
+     "y": 40.822095
+    },
+    {
+     "x": -73.920128,
+     "y": 40.821986
+    },
+    {
+     "x": -73.919992,
+     "y": 40.821931
+    },
+    {
+     "x": -73.917417,
+     "y": 40.821277
+    }
+   ],
+   "level": 2,
+   "street": "E 156th St",
+   "city": "Bronx, NY",
+   "updateMillis": 1794040922788,
+   "endNode": "Courtlandt Ave",
+   "length": 264,
+   "speed": 1.4194444444444445,
+   "segments": [
+    {
+     "fromNode": 28401254,
+     "ID": 34587162,
+     "toNode": 28401260,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 230504584,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.981449,
+     "y": 40.746943
+    },
+    {
+     "x": -73.978999,
+     "y": 40.750315
+    },
+    {
+     "x": -73.978664,
+     "y": 40.750741
+    },
+    {
+     "x": -73.9786,
+     "y": 40.750859
+    }
+   ],
+   "level": 5,
+   "street": "Park Ave Tun",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1793731564578,
+   "updateMillis": 1794040922886,
+   "endNode": "Park Ave",
+   "length": 497,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 55531071,
+     "ID": 68855524,
+     "toNode": 28573757,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84654142,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -74.06497,
+     "y": 40.739334
+    },
+    {
+     "x": -74.064223,
+     "y": 40.739254
+    }
+   ],
+   "level": 5,
+   "street": "",
+   "city": "Jersey City, NJ",
+   "blockUpdate": 1794038114529,
+   "updateMillis": 1794040923332,
+   "endNode": "to SR-139 E \u00bb Hoboken / Holland Tun",
+   "length": 64,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 59258976,
+     "ID": 61558507,
+     "toNode": 52930067,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 2115868,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.922483,
+     "y": 40.709333
+    },
+    {
+     "x": -73.922336,
+     "y": 40.709005
+    }
+   ],
+   "level": 5,
+   "street": "Scott Ave",
+   "city": "Brooklyn, NY",
+   "blockUpdate": 1776090092864,
+   "updateMillis": 1794040922809,
+   "endNode": "Flushing Ave",
+   "length": 38,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 27586181,
+     "ID": 33549470,
+     "toNode": 27586186,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84763440,
+   "line": [
+    {
+     "x": -73.94081,
+     "y": 40.759762
+    },
+    {
+     "x": -73.939985,
+     "y": 40.759466
+    },
+    {
+     "x": -73.939178,
+     "y": 40.759175
+    }
+   ],
+   "level": 3,
+   "street": "37th Ave",
+   "city": "Queens, NY",
+   "updateMillis": 1794040924025,
+   "endNode": "13th St",
+   "length": 153,
+   "speed": 1.2444444444444445,
+   "segments": [
+    {
+     "fromNode": 28306475,
+     "ID": 34473876,
+     "toNode": 28299406,
+     "isForward": true
+    },
+    {
+     "fromNode": 28299406,
+     "ID": 34466118,
+     "toNode": 28299411,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1197609052,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.9672,
+     "y": 40.715743
+    },
+    {
+     "x": -73.96731,
+     "y": 40.715626
+    },
+    {
+     "x": -73.967617,
+     "y": 40.714963
+    }
+   ],
+   "level": 5,
+   "street": "Domino Park Rd",
+   "city": "Brooklyn, NY",
+   "blockUpdate": 1790728140387,
+   "updateMillis": 1794040922724,
+   "endNode": "S 2nd St",
+   "length": 94,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 514802174,
+     "ID": 538572341,
+     "toNode": 521676048,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84653128,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.996453,
+     "y": 40.758353
+    },
+    {
+     "x": -73.996143,
+     "y": 40.758225
+    }
+   ],
+   "level": 5,
+   "street": "W 40th St",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1793973645518,
+   "updateMillis": 1794040923430,
+   "length": 30,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 28573310,
+     "ID": 82551119,
+     "toNode": 61847682,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 81562520,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.994932,
+     "y": 40.757707
+    },
+    {
+     "x": -73.994843,
+     "y": 40.757669
+    }
+   ],
+   "level": 5,
+   "street": "W 40th St",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1793973645893,
+   "updateMillis": 1794040923214,
+   "endNode": "Dyer Ave",
+   "length": 9,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 511965001,
+     "ID": 522103908,
+     "toNode": 52966944,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1154674836,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -74.026104,
+     "y": 40.753249
+    },
+    {
+     "x": -74.026904,
+     "y": 40.753389
+    }
+   ],
+   "level": 5,
+   "street": "14th St",
+   "city": "Hoboken, NJ",
+   "blockUpdate": 1784505611954,
+   "updateMillis": 1794040923247,
+   "endNode": "Bloomfield St",
+   "length": 69,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 26325592,
+     "ID": 31984439,
+     "toNode": 26327735,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84750686,
+   "line": [
+    {
+     "x": -73.91248,
+     "y": 40.744167
+    },
+    {
+     "x": -73.912131,
+     "y": 40.745886
+    }
+   ],
+   "level": 3,
+   "street": "52nd St",
+   "city": "Queens, NY",
+   "updateMillis": 1794040922714,
+   "endNode": "Skillman Ave",
+   "length": 193,
+   "speed": 0.6472222222222223,
+   "segments": [
+    {
+     "fromNode": 28311995,
+     "ID": 34466784,
+     "toNode": 28315141,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84711258,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -74.013288,
+     "y": 40.705893
+    },
+    {
+     "x": -74.014174,
+     "y": 40.706181
+    },
+    {
+     "x": -74.014324,
+     "y": 40.706303
+    }
+   ],
+   "level": 5,
+   "street": "Morris St",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1794039279764,
+   "updateMillis": 1794040923308,
+   "endNode": "Greenwich St",
+   "length": 100,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 28569869,
+     "ID": 34786479,
+     "toNode": 28571701,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1703271890,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -74.025881,
+     "y": 40.742671
+    },
+    {
+     "x": -74.026085,
+     "y": 40.742393
+    }
+   ],
+   "level": 5,
+   "street": "Sinatra Dr",
+   "city": "Hoboken, NJ",
+   "blockUpdate": 1776090139531,
+   "updateMillis": 1794040923288,
+   "endNode": "5th St",
+   "length": 35,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 505323168,
+     "ID": 509831977,
+     "toNode": 53791006,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84596054,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -73.940564,
+     "y": 40.793188
+    },
+    {
+     "x": -73.938197,
+     "y": 40.792182
+    }
+   ],
+   "level": 5,
+   "street": "E 110th St",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1794037513377,
+   "updateMillis": 1794040923481,
+   "endNode": "1st Ave",
+   "length": 229,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 28573644,
+     "ID": 34793081,
+     "toNode": 28573645,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84770896,
+   "line": [
+    {
+     "x": -73.901523,
+     "y": 40.699161
+    },
+    {
+     "x": -73.902238,
+     "y": 40.699582
+    },
+    {
+     "x": -73.902953,
+     "y": 40.700005
+    },
+    {
+     "x": -73.903675,
+     "y": 40.700409
+    }
+   ],
+   "level": 3,
+   "street": "Seneca Ave",
+   "city": "Queens, NY",
+   "updateMillis": 1794040922760,
+   "endNode": "Myrtle Ave",
+   "length": 228,
+   "speed": 1.2916666666666667,
+   "segments": [
+    {
+     "fromNode": 28306050,
+     "ID": 34476521,
+     "toNode": 28306049,
+     "isForward": false
+    },
+    {
+     "fromNode": 28306049,
+     "ID": 34443445,
+     "toNode": 28298832,
+     "isForward": false
+    },
+    {
+     "fromNode": 28298832,
+     "ID": 34443333,
+     "toNode": 28298226,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84769618,
+   "line": [
+    {
+     "x": -73.95701,
+     "y": 40.777545
+    },
+    {
+     "x": -73.958532,
+     "y": 40.778184
+    },
+    {
+     "x": -73.958738,
+     "y": 40.778274
+    },
+    {
+     "x": -73.960237,
+     "y": 40.778905
+    },
+    {
+     "x": -73.960237,
+     "y": 40.778904
+    },
+    {
+     "x": -73.961839,
+     "y": 40.779584
+    }
+   ],
+   "level": 3,
+   "street": "E 83rd St",
+   "city": "Manhattan, NY",
+   "updateMillis": 1794040922880,
+   "endNode": "5th Ave",
+   "length": 467,
+   "speed": 1.9194444444444445,
+   "segments": [
+    {
+     "fromNode": 28572431,
+     "ID": 34792796,
+     "toNode": 28570895,
+     "isForward": false
+    },
+    {
+     "fromNode": 28570895,
+     "ID": 509187391,
+     "toNode": 504990353,
+     "isForward": false
+    },
+    {
+     "fromNode": 504990353,
+     "ID": 509187389,
+     "toNode": 28570789,
+     "isForward": false
+    },
+    {
+     "fromNode": 28570789,
+     "ID": 34792709,
+     "toNode": 28570788,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 13275818,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -74.024584,
+     "y": 40.74828
+    },
+    {
+     "x": -74.023443,
+     "y": 40.746573
+    },
+    {
+     "x": -74.022924,
+     "y": 40.745797
+    },
+    {
+     "x": -74.022812,
+     "y": 40.745581
+    },
+    {
+     "x": -74.022775,
+     "y": 40.745378
+    },
+    {
+     "x": -74.023104,
+     "y": 40.744454
+    },
+    {
+     "x": -74.023258,
+     "y": 40.744265
+    },
+    {
+     "x": -74.023404,
+     "y": 40.744156
+    },
+    {
+     "x": -74.024828,
+     "y": 40.743405
+    }
+   ],
+   "level": 5,
+   "street": "Sinatra Dr",
+   "city": "Hoboken, NJ",
+   "blockUpdate": 1776090118055,
+   "updateMillis": 1794040922794,
+   "endNode": "4th St",
+   "length": 652,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 52852696,
+     "ID": 538635350,
+     "toNode": 505323165,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 2125888,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -74.024828,
+     "y": 40.743405
+    },
+    {
+     "x": -74.025354,
+     "y": 40.743128
+    },
+    {
+     "x": -74.025508,
+     "y": 40.743029
+    },
+    {
+     "x": -74.025822,
+     "y": 40.74275
+    },
+    {
+     "x": -74.025881,
+     "y": 40.742671
+    }
+   ],
+   "level": 5,
+   "street": "Sinatra Dr",
+   "city": "Hoboken, NJ",
+   "blockUpdate": 1776090134761,
+   "updateMillis": 1794040923390,
+   "endNode": "5th St",
+   "length": 122,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 505323165,
+     "ID": 509831978,
+     "toNode": 505323168,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84766318,
+   "line": [
+    {
+     "x": -74.004154,
+     "y": 40.71774
+    },
+    {
+     "x": -74.003532,
+     "y": 40.717448
+    },
+    {
+     "x": -74.002918,
+     "y": 40.717148
+    },
+    {
+     "x": -74.002835,
+     "y": 40.717107
+    },
+    {
+     "x": -74.002078,
+     "y": 40.71673
+    }
+   ],
+   "level": 3,
+   "street": "Franklin St",
+   "city": "Manhattan, NY",
+   "updateMillis": 1794040923361,
+   "endNode": "Lafayette St",
+   "length": 208,
+   "speed": 1.3888888888888888,
+   "segments": [
+    {
+     "fromNode": 28570175,
+     "ID": 67822350,
+     "toNode": 28570174,
+     "isForward": true
+    },
+    {
+     "fromNode": 28570174,
+     "ID": 34792326,
+     "toNode": 28573155,
+     "isForward": false
+    },
+    {
+     "fromNode": 28573155,
+     "ID": 86094406,
+     "toNode": 63994189,
+     "isForward": false
+    },
+    {
+     "fromNode": 63994189,
+     "ID": 86094405,
+     "toNode": 28574409,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 1197592068,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -74.002472,
+     "y": 40.755116
+    },
+    {
+     "x": -74.005256,
+     "y": 40.756299
+    }
+   ],
+   "level": 5,
+   "street": "W 33rd St",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1776090102287,
+   "updateMillis": 1794040923344,
+   "endNode": "12th Ave",
+   "length": 269,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 28572849,
+     "ID": 34786828,
+     "toNode": 50189405,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1659440780,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -74.03145,
+     "y": 40.735597
+    },
+    {
+     "x": -74.030385,
+     "y": 40.735428
+    }
+   ],
+   "level": 5,
+   "street": "Observer Hwy",
+   "city": "Hoboken, NJ",
+   "blockUpdate": 1792360841785,
+   "updateMillis": 1794040922909,
+   "endNode": "Hudson St",
+   "length": 92,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 58564300,
+     "ID": 76473554,
+     "toNode": 26324447,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84714858,
+   "line": [
+    {
+     "x": -73.927303,
+     "y": 40.712289
+    },
+    {
+     "x": -73.926997,
+     "y": 40.711613
+    },
+    {
+     "x": -73.926701,
+     "y": 40.710938
+    }
+   ],
+   "level": 4,
+   "street": "Stewart Ave",
+   "city": "Brooklyn, NY",
+   "updateMillis": 1794040922780,
+   "endNode": "Meserole St",
+   "length": 159,
+   "speed": 0.85,
+   "segments": [
+    {
+     "fromNode": 27586064,
+     "ID": 33550316,
+     "toNode": 27586063,
+     "isForward": false
+    },
+    {
+     "fromNode": 27586063,
+     "ID": 33546165,
+     "toNode": 27586069,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84770916,
+   "line": [
+    {
+     "x": -73.920273,
+     "y": 40.772954
+    },
+    {
+     "x": -73.918455,
+     "y": 40.774449
+    }
+   ],
+   "level": 2,
+   "street": "26th St",
+   "city": "Queens, NY",
+   "updateMillis": 1794040923379,
+   "endNode": "24th Ave",
+   "length": 226,
+   "speed": 1.6222222222222222,
+   "segments": [
+    {
+     "fromNode": 28306469,
+     "ID": 34473871,
+     "toNode": 28311417,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84754532,
+   "line": [
+    {
+     "x": -74.066943,
+     "y": 40.720028
+    },
+    {
+     "x": -74.067459,
+     "y": 40.720258
+    },
+    {
+     "x": -74.070075,
+     "y": 40.721408
+    }
+   ],
+   "level": 2,
+   "street": "Jewett Ave",
+   "city": "Jersey City, NJ",
+   "updateMillis": 1794040923301,
+   "endNode": "Monticello Ave",
+   "length": 306,
+   "speed": 1.7861111111111112,
+   "segments": [
+    {
+     "fromNode": 26325214,
+     "ID": 522578344,
+     "toNode": 26327350,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 254602822,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -74.040475,
+     "y": 40.736639
+    },
+    {
+     "x": -74.04039,
+     "y": 40.736291
+    },
+    {
+     "x": -74.04045,
+     "y": 40.735815
+    },
+    {
+     "x": -74.040553,
+     "y": 40.735314
+    }
+   ],
+   "level": 5,
+   "street": "Grove St",
+   "city": "Hoboken, NJ",
+   "blockUpdate": 1793754033478,
+   "updateMillis": 1794040923406,
+   "endNode": "Grove St",
+   "length": 149,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 26325669,
+     "ID": 62711921,
+     "toNode": 55718677,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84740454,
+   "line": [
+    {
+     "x": -73.999193,
+     "y": 40.759494
+    },
+    {
+     "x": -73.999047,
+     "y": 40.759428
+    },
+    {
+     "x": -73.998911,
+     "y": 40.759403
+    },
+    {
+     "x": -73.997574,
+     "y": 40.758844
+    }
+   ],
+   "level": 4,
+   "street": "",
+   "city": "Manhattan, NY",
+   "updateMillis": 1794040922704,
+   "endNode": "W 40th St",
+   "length": 155,
+   "speed": 0.625,
+   "segments": [
+    {
+     "fromNode": 56893698,
+     "ID": 72563990,
+     "toNode": 28574380,
+     "isForward": true
+    },
+    {
+     "fromNode": 28574380,
+     "ID": 34787745,
+     "toNode": 28574481,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 2125902,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.976058,
+     "y": 40.7556
+    },
+    {
+     "x": -73.976516,
+     "y": 40.754974
+    }
+   ],
+   "level": 5,
+   "street": "Vanderbilt Ave",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1784898170654,
+   "updateMillis": 1794040923415,
+   "endNode": "E 46th St",
+   "length": 80,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 28572384,
+     "ID": 34791464,
+     "toNode": 28570647,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 181659836,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -74.058233,
+     "y": 40.730369
+    },
+    {
+     "x": -74.058928,
+     "y": 40.729869
+    },
+    {
+     "x": -74.059379,
+     "y": 40.729622
+    },
+    {
+     "x": -74.059825,
+     "y": 40.729365
+    },
+    {
+     "x": -74.059983,
+     "y": 40.729236
+    },
+    {
+     "x": -74.060635,
+     "y": 40.72841
+    }
+   ],
+   "level": 5,
+   "street": "Baldwin Ave",
+   "city": "Jersey City, NJ",
+   "blockUpdate": 1793541874816,
+   "updateMillis": 1794040922905,
+   "endNode": "High St",
+   "length": 302,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 58158238,
+     "ID": 62865770,
+     "toNode": 58158247,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84755836,
+   "line": [
+    {
+     "x": -73.922897,
+     "y": 40.81332
+    },
+    {
+     "x": -73.924237,
+     "y": 40.815057
+    }
+   ],
+   "level": 2,
+   "street": "E 143rd St",
+   "city": "Bronx, NY",
+   "updateMillis": 1794040923210,
+   "endNode": "Morris Ave",
+   "length": 224,
+   "speed": 1.7527777777777778,
+   "segments": [
+    {
+     "fromNode": 28405358,
+     "ID": 34586525,
+     "toNode": 28405345,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84716158,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -73.871792,
+     "y": 40.753326
+    },
+    {
+     "x": -73.872616,
+     "y": 40.753148
+    }
+   ],
+   "level": 5,
+   "street": "35th Ave",
+   "city": "Queens, NY",
+   "blockUpdate": 1794039648040,
+   "updateMillis": 1794040923491,
+   "endNode": "95th St",
+   "length": 72,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 28310444,
+     "ID": 34473042,
+     "toNode": 28316546,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 1807603406,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.959274,
+     "y": 40.75928
+    },
+    {
+     "x": -73.959159,
+     "y": 40.759268
+    },
+    {
+     "x": -73.959079,
+     "y": 40.759261
+    },
+    {
+     "x": -73.958594,
+     "y": 40.759064
+    }
+   ],
+   "level": 5,
+   "street": "E 60th St",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1776090093571,
+   "updateMillis": 1794040923410,
+   "endNode": "FDR Dr Service Rd W",
+   "length": 63,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 28572275,
+     "ID": 515402928,
+     "toNode": 504613064,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 27901914,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.968726,
+     "y": 40.699121
+    },
+    {
+     "x": -73.967889,
+     "y": 40.699089
+    }
+   ],
+   "level": 5,
+   "street": "Paulding St (Navy Yard)",
+   "city": "Brooklyn, NY",
+   "blockUpdate": 1776090150517,
+   "updateMillis": 1794040922866,
+   "length": 71,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 59074045,
+     "ID": 77482853,
+     "toNode": 502880316,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84740478,
+   "line": [
+    {
+     "x": -74.036337,
+     "y": 40.761692
+    },
+    {
+     "x": -74.037606,
+     "y": 40.762221
+    },
+    {
+     "x": -74.038918,
+     "y": 40.762751
+    }
+   ],
+   "level": 2,
+   "street": "15th St",
+   "city": "Union City, NJ",
+   "updateMillis": 1794040923310,
+   "endNode": "Central Ave",
+   "length": 247,
+   "speed": 1.8277777777777777,
+   "segments": [
+    {
+     "fromNode": 26326800,
+     "ID": 31978702,
+     "toNode": 26326791,
+     "isForward": true
+    },
+    {
+     "fromNode": 26326791,
+     "ID": 31977932,
+     "toNode": 26324247,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84760182,
+   "line": [
+    {
+     "x": -73.867145,
+     "y": 40.750465
+    },
+    {
+     "x": -73.868188,
+     "y": 40.752265
+    }
+   ],
+   "level": 3,
+   "street": "99th St",
+   "city": "Queens, NY",
+   "updateMillis": 1794040923206,
+   "endNode": "37th Ave",
+   "length": 218,
+   "speed": 1.0305555555555554,
+   "segments": [
+    {
+     "fromNode": 28302240,
+     "ID": 34465288,
+     "toNode": 28310554,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84780662,
+   "line": [
+    {
+     "x": -73.914445,
+     "y": 40.778774
+    },
+    {
+     "x": -73.913755,
+     "y": 40.778289
+    },
+    {
+     "x": -73.913072,
+     "y": 40.777803
+    }
+   ],
+   "level": 4,
+   "street": "Ditmars Blvd",
+   "city": "Queens, NY",
+   "updateMillis": 1794040922739,
+   "endNode": "27th St",
+   "length": 158,
+   "speed": 1.2916666666666667,
+   "segments": [
+    {
+     "fromNode": 28299660,
+     "ID": 34466257,
+     "toNode": 28314857,
+     "isForward": true
+    },
+    {
+     "fromNode": 28314857,
+     "ID": 34458686,
+     "toNode": 28299664,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84760176,
+   "line": [
+    {
+     "x": -73.928988,
+     "y": 40.77339
+    },
+    {
+     "x": -73.929028,
+     "y": 40.773311
+    },
+    {
+     "x": -73.929005,
+     "y": 40.772243
+    },
+    {
+     "x": -73.928936,
+     "y": 40.772157
+    },
+    {
+     "x": -73.929002,
+     "y": 40.771988
+    },
+    {
+     "x": -73.929095,
+     "y": 40.771858
+    },
+    {
+     "x": -73.929395,
+     "y": 40.771488
+    },
+    {
+     "x": -73.929919,
+     "y": 40.770868
+    },
+    {
+     "x": -73.930582,
+     "y": 40.770051
+    },
+    {
+     "x": -73.93133,
+     "y": 40.769128
+    },
+    {
+     "x": -73.932036,
+     "y": 40.768264
+    }
+   ],
+   "level": 2,
+   "street": "14th St",
+   "city": "Queens, NY",
+   "updateMillis": 1794040922790,
+   "endNode": "31st Ave",
+   "length": 645,
+   "speed": 2.238888888888889,
+   "segments": [
+    {
+     "fromNode": 28299384,
+     "ID": 34447113,
+     "toNode": 28299668,
+     "isForward": true
+    },
+    {
+     "fromNode": 28299668,
+     "ID": 34454863,
+     "toNode": 28299670,
+     "isForward": true
+    },
+    {
+     "fromNode": 28299670,
+     "ID": 34458690,
+     "toNode": 28299390,
+     "isForward": true
+    },
+    {
+     "fromNode": 28299390,
+     "ID": 34446981,
+     "toNode": 28299391,
+     "isForward": true
+    },
+    {
+     "fromNode": 28299391,
+     "ID": 34473872,
+     "toNode": 28311418,
+     "isForward": true
+    },
+    {
+     "fromNode": 28311418,
+     "ID": 34469998,
+     "toNode": 28311419,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 247199174,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.981801,
+     "y": 40.746431
+    },
+    {
+     "x": -73.98178,
+     "y": 40.746506
+    },
+    {
+     "x": -73.981619,
+     "y": 40.746728
+    },
+    {
+     "x": -73.981449,
+     "y": 40.746943
+    }
+   ],
+   "level": 5,
+   "street": "to 46th St / Park Ave Tun",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1793731564450,
+   "updateMillis": 1794040923434,
+   "endNode": "Park Ave Tun",
+   "length": 65,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 506641309,
+     "ID": 512182335,
+     "toNode": 55531071,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 254203480,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -74.00937,
+     "y": 40.708635
+    },
+    {
+     "x": -74.008901,
+     "y": 40.709068
+    }
+   ],
+   "level": 5,
+   "street": "Nassau St",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1793799824566,
+   "updateMillis": 1794040923411,
+   "endNode": "Maiden Ln",
+   "length": 62,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 28571722,
+     "ID": 34791015,
+     "toNode": 28571723,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84780658,
+   "line": [
+    {
+     "x": -73.983066,
+     "y": 40.769322
+    },
+    {
+     "x": -73.984327,
+     "y": 40.769852
+    },
+    {
+     "x": -73.987146,
+     "y": 40.771053
+    }
+   ],
+   "level": 2,
+   "street": "W 60th St",
+   "city": "Manhattan, NY",
+   "updateMillis": 1794040922695,
+   "endNode": "Amsterdam Ave",
+   "length": 395,
+   "speed": 1.913888888888889,
+   "segments": [
+    {
+     "fromNode": 509892396,
+     "ID": 518298890,
+     "toNode": 28573905,
+     "isForward": true
+    },
+    {
+     "fromNode": 28573905,
+     "ID": 34792122,
+     "toNode": 28573902,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84719756,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -73.88394,
+     "y": 40.728273
+    },
+    {
+     "x": -73.880952,
+     "y": 40.728506
+    }
+   ],
+   "level": 5,
+   "street": "",
+   "city": "Queens, NY",
+   "blockUpdate": 1794037823796,
+   "updateMillis": 1794040922734,
+   "endNode": "to I-495 E \u00bb Eastern Long Island / Riverhead",
+   "length": 254,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 50184223,
+     "ID": 34472697,
+     "toNode": 50474993,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84749964,
+   "line": [
+    {
+     "x": -73.902705,
+     "y": 40.851874
+    },
+    {
+     "x": -73.901696,
+     "y": 40.853133
+    }
+   ],
+   "level": 2,
+   "street": "Anthony Ave",
+   "city": "Bronx, NY",
+   "updateMillis": 1794040922884,
+   "endNode": "E 180th St",
+   "length": 164,
+   "speed": 1.288888888888889,
+   "segments": [
+    {
+     "fromNode": 53126896,
+     "ID": 61820599,
+     "toNode": 28405511,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84780684,
+   "line": [
+    {
+     "x": -73.88065,
+     "y": 40.725397
+    },
+    {
+     "x": -73.881825,
+     "y": 40.726864
+    }
+   ],
+   "level": 4,
+   "street": "79th St",
+   "city": "Queens, NY",
+   "updateMillis": 1794040923466,
+   "endNode": "58th Ave",
+   "length": 191,
+   "speed": 1.0027777777777778,
+   "segments": [
+    {
+     "fromNode": 28310988,
+     "ID": 34469551,
+     "toNode": 28314535,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84773262,
+   "line": [
+    {
+     "x": -73.942075,
+     "y": 40.68869
+    },
+    {
+     "x": -73.944913,
+     "y": 40.688365
+    }
+   ],
+   "level": 2,
+   "street": "Lexington Ave",
+   "city": "Brooklyn, NY",
+   "updateMillis": 1794040923184,
+   "endNode": "Tompkins Ave",
+   "length": 243,
+   "speed": 1.2472222222222222,
+   "segments": [
+    {
+     "fromNode": 27589639,
+     "ID": 33559698,
+     "toNode": 27589638,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84780680,
+   "line": [
+    {
+     "x": -73.968491,
+     "y": 40.791573
+    },
+    {
+     "x": -73.965632,
+     "y": 40.790365
+    }
+   ],
+   "level": 4,
+   "street": "W 94th St",
+   "city": "Manhattan, NY",
+   "updateMillis": 1794040923474,
+   "endNode": "Central Park W",
+   "length": 276,
+   "speed": 0.28055555555555556,
+   "segments": [
+    {
+     "fromNode": 28572239,
+     "ID": 34788995,
+     "toNode": 28570661,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84780682,
+   "line": [
+    {
+     "x": -73.932897,
+     "y": 40.76019
+    },
+    {
+     "x": -73.935386,
+     "y": 40.761354
+    }
+   ],
+   "level": 1,
+   "street": "35th Ave",
+   "city": "Queens, NY",
+   "updateMillis": 1794040923468,
+   "endNode": "21st St",
+   "length": 247,
+   "speed": 1.6916666666666667,
+   "segments": [
+    {
+     "fromNode": 28311439,
+     "ID": 34454709,
+     "toNode": 28306478,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84714884,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -74.065447,
+     "y": 40.739751
+    },
+    {
+     "x": -74.0656,
+     "y": 40.739759
+    },
+    {
+     "x": -74.06595,
+     "y": 40.739762
+    },
+    {
+     "x": -74.066191,
+     "y": 40.739755
+    },
+    {
+     "x": -74.066478,
+     "y": 40.739743
+    },
+    {
+     "x": -74.066718,
+     "y": 40.739709
+    },
+    {
+     "x": -74.066974,
+     "y": 40.739631
+    },
+    {
+     "x": -74.067097,
+     "y": 40.739571
+    }
+   ],
+   "level": 5,
+   "street": "to US-1-9 S \u2022 Pulaski Skwy \u00bb Newark",
+   "city": "Jersey City, NJ",
+   "blockUpdate": 1794039417176,
+   "updateMillis": 1794040923315,
+   "length": 143,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 56140737,
+     "ID": 529632213,
+     "toNode": 516305854,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84773254,
+   "line": [
+    {
+     "x": -74.005315,
+     "y": 40.740035
+    },
+    {
+     "x": -74.003963,
+     "y": 40.739447
+    },
+    {
+     "x": -74.003769,
+     "y": 40.739372
+    },
+    {
+     "x": -74.003145,
+     "y": 40.739101
+    }
+   ],
+   "level": 3,
+   "street": "W 13th St",
+   "city": "Manhattan, NY",
+   "updateMillis": 1794040922760,
+   "endNode": "",
+   "length": 210,
+   "speed": 1.7277777777777779,
+   "segments": [
+    {
+     "fromNode": 28570014,
+     "ID": 82654229,
+     "toNode": 61904424,
+     "isForward": true
+    },
+    {
+     "fromNode": 61904424,
+     "ID": 82654230,
+     "toNode": 28571568,
+     "isForward": true
+    },
+    {
+     "fromNode": 28571568,
+     "ID": 504967986,
+     "toNode": 502746122,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84605574,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -73.998492,
+     "y": 40.758775
+    },
+    {
+     "x": -73.999209,
+     "y": 40.758865
+    }
+   ],
+   "level": 5,
+   "street": "to Lincoln Tun / NJ",
+   "city": "Manhattan, NY",
+   "updateMillis": 1794040923370,
+   "endNode": "Lincoln Tunnel W",
+   "length": 61,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 28573040,
+     "ID": 77539219,
+     "toNode": 56990034,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84765312,
+   "line": [
+    {
+     "x": -73.91854,
+     "y": 40.739202
+    },
+    {
+     "x": -73.918176,
+     "y": 40.741057
+    },
+    {
+     "x": -73.917873,
+     "y": 40.742511
+    },
+    {
+     "x": -73.917799,
+     "y": 40.742898
+    },
+    {
+     "x": -73.917732,
+     "y": 40.74322
+    }
+   ],
+   "level": 4,
+   "street": "47th St",
+   "city": "Queens, NY",
+   "updateMillis": 1794040922775,
+   "endNode": "Queens Blvd",
+   "length": 451,
+   "speed": 1.5027777777777778,
+   "segments": [
+    {
+     "fromNode": 28307333,
+     "ID": 34466768,
+     "toNode": 28315131,
+     "isForward": false
+    },
+    {
+     "fromNode": 28315131,
+     "ID": 34474528,
+     "toNode": 28307328,
+     "isForward": false
+    },
+    {
+     "fromNode": 28307328,
+     "ID": 34462997,
+     "toNode": 52947577,
+     "isForward": true
+    },
+    {
+     "fromNode": 52947577,
+     "ID": 61583088,
+     "toNode": 52947576,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84760988,
+   "line": [
+    {
+     "x": -73.908462,
+     "y": 40.844783
+    },
+    {
+     "x": -73.908566,
+     "y": 40.843733
+    },
+    {
+     "x": -73.90862,
+     "y": 40.843014
+    }
+   ],
+   "level": 3,
+   "street": "Eastburn Ave",
+   "city": "Bronx, NY",
+   "updateMillis": 1794040923239,
+   "endNode": "Mt Eden Pkwy",
+   "length": 197,
+   "speed": 1.238888888888889,
+   "segments": [
+    {
+     "fromNode": 28406298,
+     "ID": 34578354,
+     "toNode": 28405207,
+     "isForward": false
+    },
+    {
+     "fromNode": 28405207,
+     "ID": 61568823,
+     "toNode": 52937183,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 83481960,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -74.012238,
+     "y": 40.702716
+    },
+    {
+     "x": -74.012333,
+     "y": 40.702766
+    },
+    {
+     "x": -74.012579,
+     "y": 40.703226
+    }
+   ],
+   "level": 5,
+   "street": "Moore St",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1793289632821,
+   "updateMillis": 1794040922724,
+   "endNode": "Pearl St",
+   "length": 65,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 54790034,
+     "ID": 34791220,
+     "toNode": 28573206,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 191116792,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -74.10044,
+     "y": 40.739049
+    },
+    {
+     "x": -74.094746,
+     "y": 40.738922
+    },
+    {
+     "x": -74.094421,
+     "y": 40.738933
+    },
+    {
+     "x": -74.094259,
+     "y": 40.738936
+    },
+    {
+     "x": -74.094083,
+     "y": 40.738964
+    }
+   ],
+   "level": 5,
+   "street": "Pennsylvania Ave",
+   "city": "Kearny, NJ",
+   "blockUpdate": 1780583931657,
+   "updateMillis": 1794040922889,
+   "endNode": "Fish House Rd",
+   "length": 537,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 54305012,
+     "ID": 72561673,
+     "toNode": 26326082,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84631702,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -73.991123,
+     "y": 40.73322
+    },
+    {
+     "x": -73.990027,
+     "y": 40.732755
+    }
+   ],
+   "level": 5,
+   "street": "E 12th St",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1794037937785,
+   "updateMillis": 1794040928030,
+   "endNode": "4th Ave",
+   "length": 106,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 28572584,
+     "ID": 34788560,
+     "toNode": 28572587,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84774546,
+   "line": [
+    {
+     "x": -74.035185,
+     "y": 40.742232
+    },
+    {
+     "x": -74.035605,
+     "y": 40.740959
+    },
+    {
+     "x": -74.035979,
+     "y": 40.739679
+    },
+    {
+     "x": -74.0364,
+     "y": 40.738425
+    },
+    {
+     "x": -74.036491,
+     "y": 40.738113
+    },
+    {
+     "x": -74.036642,
+     "y": 40.737618
+    },
+    {
+     "x": -74.036717,
+     "y": 40.737373
+    },
+    {
+     "x": -74.036726,
+     "y": 40.73731
+    },
+    {
+     "x": -74.036716,
+     "y": 40.737246
+    }
+   ],
+   "level": 2,
+   "street": "Grand St",
+   "city": "Hoboken, NJ",
+   "updateMillis": 1794040922824,
+   "endNode": "Newark St",
+   "length": 570,
+   "speed": 2.7777777777777777,
+   "segments": [
+    {
+     "fromNode": 58421980,
+     "ID": 31979854,
+     "toNode": 58421981,
+     "isForward": false
+    },
+    {
+     "fromNode": 58421981,
+     "ID": 31984676,
+     "toNode": 58421982,
+     "isForward": false
+    },
+    {
+     "fromNode": 58421982,
+     "ID": 31984673,
+     "toNode": 58421983,
+     "isForward": false
+    },
+    {
+     "fromNode": 58421983,
+     "ID": 501107751,
+     "toNode": 500609663,
+     "isForward": false
+    },
+    {
+     "fromNode": 500609663,
+     "ID": 501107750,
+     "toNode": 500144564,
+     "isForward": false
+    },
+    {
+     "fromNode": 500144564,
+     "ID": 500257769,
+     "toNode": 500144538,
+     "isForward": false
+    },
+    {
+     "fromNode": 500144538,
+     "ID": 500257726,
+     "toNode": 58421984,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84771244,
+   "line": [
+    {
+     "x": -73.972852,
+     "y": 40.761614
+    },
+    {
+     "x": -73.972411,
+     "y": 40.761432
+    },
+    {
+     "x": -73.97135,
+     "y": 40.760994
+    },
+    {
+     "x": -73.971154,
+     "y": 40.760913
+    },
+    {
+     "x": -73.969625,
+     "y": 40.760251
+    },
+    {
+     "x": -73.969625,
+     "y": 40.76025
+    },
+    {
+     "x": -73.968074,
+     "y": 40.759595
+    }
+   ],
+   "level": 3,
+   "street": "E 56th St",
+   "city": "Manhattan, NY",
+   "updateMillis": 1794040923315,
+   "endNode": "3rd Ave (far side)",
+   "length": 462,
+   "speed": 1.775,
+   "segments": [
+    {
+     "fromNode": 28570806,
+     "ID": 515277012,
+     "toNode": 508275720,
+     "isForward": true
+    },
+    {
+     "fromNode": 508275720,
+     "ID": 515277013,
+     "toNode": 28570829,
+     "isForward": true
+    },
+    {
+     "fromNode": 28570829,
+     "ID": 509177835,
+     "toNode": 504984669,
+     "isForward": true
+    },
+    {
+     "fromNode": 504984669,
+     "ID": 509177836,
+     "toNode": 28570830,
+     "isForward": true
+    },
+    {
+     "fromNode": 28570830,
+     "ID": 34790070,
+     "toNode": 28574154,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 48656962,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -74.040553,
+     "y": 40.735314
+    },
+    {
+     "x": -74.04045,
+     "y": 40.735815
+    },
+    {
+     "x": -74.04039,
+     "y": 40.736291
+    },
+    {
+     "x": -74.040475,
+     "y": 40.736639
+    }
+   ],
+   "level": 5,
+   "street": "Grove St",
+   "city": "Jersey City, NJ",
+   "blockUpdate": 1793754031783,
+   "updateMillis": 1794040923290,
+   "endNode": "Newark St",
+   "length": 149,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 55718677,
+     "ID": 62711921,
+     "toNode": 26325669,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84771236,
+   "line": [
+    {
+     "x": -73.959859,
+     "y": 40.688148
+    },
+    {
+     "x": -73.962694,
+     "y": 40.687819
+    }
+   ],
+   "level": 1,
+   "street": "Clifton Pl",
+   "city": "Brooklyn, NY",
+   "updateMillis": 1794040922802,
+   "endNode": "Grand Ave",
+   "length": 242,
+   "speed": 1.5277777777777777,
+   "segments": [
+    {
+     "fromNode": 27586110,
+     "ID": 33544338,
+     "toNode": 27586109,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84763046,
+   "line": [
+    {
+     "x": -73.953659,
+     "y": 40.82545
+    },
+    {
+     "x": -73.953723,
+     "y": 40.825316
+    },
+    {
+     "x": -73.953556,
+     "y": 40.825246
+    },
+    {
+     "x": -73.951952,
+     "y": 40.824554
+    }
+   ],
+   "level": 3,
+   "street": "W 142nd St",
+   "city": "Manhattan, NY",
+   "updateMillis": 1794040924626,
+   "endNode": "Broadway",
+   "length": 188,
+   "speed": 1.5361111111111112,
+   "segments": [
+    {
+     "fromNode": 28572047,
+     "ID": 537669466,
+     "toNode": 521146241,
+     "isForward": false
+    },
+    {
+     "fromNode": 521146241,
+     "ID": 537669465,
+     "toNode": 28570302,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84763040,
+   "line": [
+    {
+     "x": -73.906571,
+     "y": 40.829452
+    },
+    {
+     "x": -73.907722,
+     "y": 40.829823
+    },
+    {
+     "x": -73.90896,
+     "y": 40.830225
+    }
+   ],
+   "level": 3,
+   "street": "E 167th St",
+   "city": "Bronx, NY",
+   "updateMillis": 1794040923200,
+   "endNode": "Park Ave",
+   "length": 219,
+   "speed": 0.7361111111111112,
+   "segments": [
+    {
+     "fromNode": 28406444,
+     "ID": 34579438,
+     "toNode": 28407030,
+     "isForward": false
+    },
+    {
+     "fromNode": 28407030,
+     "ID": 34580193,
+     "toNode": 28401230,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 48650582,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.967889,
+     "y": 40.699089
+    },
+    {
+     "x": -73.968726,
+     "y": 40.699121
+    }
+   ],
+   "level": 5,
+   "street": "Paulding St (Navy Yard)",
+   "city": "Brooklyn, NY",
+   "blockUpdate": 1776090109249,
+   "updateMillis": 1794040922907,
+   "endNode": "Navy Yard Dr",
+   "length": 71,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 502880316,
+     "ID": 77482853,
+     "toNode": 59074045,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1197590224,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.967116,
+     "y": 40.81072
+    },
+    {
+     "x": -73.967046,
+     "y": 40.810754
+    },
+    {
+     "x": -73.966721,
+     "y": 40.811148
+    },
+    {
+     "x": -73.964773,
+     "y": 40.813428
+    },
+    {
+     "x": -73.964216,
+     "y": 40.814122
+    },
+    {
+     "x": -73.963397,
+     "y": 40.815352
+    },
+    {
+     "x": -73.962929,
+     "y": 40.81598
+    },
+    {
+     "x": -73.962423,
+     "y": 40.816554
+    },
+    {
+     "x": -73.961924,
+     "y": 40.817038
+    },
+    {
+     "x": -73.961557,
+     "y": 40.817308
+    },
+    {
+     "x": -73.961034,
+     "y": 40.817656
+    }
+   ],
+   "level": 5,
+   "street": "to 125th St",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1783540747075,
+   "updateMillis": 1794040923436,
+   "endNode": "12th Ave",
+   "length": 931,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 28571813,
+     "ID": 34785784,
+     "toNode": 28573211,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84641976,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.971411,
+     "y": 40.763588
+    },
+    {
+     "x": -73.9699,
+     "y": 40.762956
+    }
+   ],
+   "level": 5,
+   "street": "E 59th St",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1793973644603,
+   "updateMillis": 1794040923400,
+   "endNode": "Park Ave",
+   "length": 146,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 28572392,
+     "ID": 34792742,
+     "toNode": 28570824,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 263549186,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.982216,
+     "y": 40.745784
+    },
+    {
+     "x": -73.982212,
+     "y": 40.745855
+    },
+    {
+     "x": -73.981801,
+     "y": 40.746431
+    }
+   ],
+   "level": 5,
+   "street": "to 46th St / Park Ave Tun",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1793731564527,
+   "updateMillis": 1794040922896,
+   "length": 81,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 504955515,
+     "ID": 512182334,
+     "toNode": 506641309,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84744370,
+   "line": [
+    {
+     "x": -73.924923,
+     "y": 40.83835
+    },
+    {
+     "x": -73.926113,
+     "y": 40.836614
+    }
+   ],
+   "level": 2,
+   "street": "Nelson Ave",
+   "city": "Bronx, NY",
+   "updateMillis": 1794040922781,
+   "endNode": "W 167th St",
+   "length": 217,
+   "speed": 1.6083333333333334,
+   "segments": [
+    {
+     "fromNode": 28400886,
+     "ID": 34583268,
+     "toNode": 28406239,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 94700130,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -74.01414,
+     "y": 40.808701
+    },
+    {
+     "x": -74.014683,
+     "y": 40.808957
+    }
+   ],
+   "level": 5,
+   "street": "84th St",
+   "city": "North Bergen, NJ",
+   "blockUpdate": 1792611402776,
+   "updateMillis": 1794040923284,
+   "endNode": "US-1-9 \u2022 Tonnele Ave",
+   "length": 54,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 26324304,
+     "ID": 31979554,
+     "toNode": 26324305,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84766660,
+   "line": [
+    {
+     "x": -73.88428,
+     "y": 40.765171
+    },
+    {
+     "x": -73.885998,
+     "y": 40.76501
+    },
+    {
+     "x": -73.886173,
+     "y": 40.764934
+    }
+   ],
+   "level": 3,
+   "street": "24th Ave",
+   "city": "Queens, NY",
+   "updateMillis": 1794040922848,
+   "endNode": "Astoria Blvd",
+   "length": 163,
+   "speed": 1.1027777777777779,
+   "segments": [
+    {
+     "fromNode": 28307535,
+     "ID": 84113145,
+     "toNode": 54987860,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84752068,
+   "line": [
+    {
+     "x": -73.92063,
+     "y": 40.772682
+    },
+    {
+     "x": -73.920596,
+     "y": 40.772636
+    },
+    {
+     "x": -73.919339,
+     "y": 40.771739
+    },
+    {
+     "x": -73.919012,
+     "y": 40.771473
+    },
+    {
+     "x": -73.918768,
+     "y": 40.771204
+    },
+    {
+     "x": -73.918744,
+     "y": 40.771146
+    },
+    {
+     "x": -73.918748,
+     "y": 40.771087
+    }
+   ],
+   "level": 4,
+   "street": "to Astoria Blvd",
+   "city": "Queens, NY",
+   "updateMillis": 1794040925116,
+   "endNode": "Hoyt Ave S",
+   "length": 241,
+   "speed": 1.4277777777777778,
+   "segments": [
+    {
+     "fromNode": 50471177,
+     "ID": 57795726,
+     "toNode": 28299915,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 27892068,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.988298,
+     "y": 40.703814
+    },
+    {
+     "x": -73.987966,
+     "y": 40.703237
+    },
+    {
+     "x": -73.987622,
+     "y": 40.702637
+    }
+   ],
+   "level": 5,
+   "street": "Anchorage Pl",
+   "city": "Brooklyn, NY",
+   "blockUpdate": 1776090118836,
+   "updateMillis": 1794040923391,
+   "endNode": "Pearl St",
+   "length": 143,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 27586483,
+     "ID": 64488832,
+     "toNode": 54127579,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84704476,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -73.940174,
+     "y": 40.849039
+    },
+    {
+     "x": -73.937798,
+     "y": 40.848576
+    },
+    {
+     "x": -73.937433,
+     "y": 40.848495
+    },
+    {
+     "x": -73.937154,
+     "y": 40.848405
+    },
+    {
+     "x": -73.933699,
+     "y": 40.846946
+    }
+   ],
+   "level": 5,
+   "street": "I-95 N / Lower Level",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1794038217644,
+   "updateMillis": 1794040923230,
+   "endNode": "to I-95 N \u00bb Exit 3: I-87 \u2022 Major Deegan Expwy",
+   "length": 598,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 52886720,
+     "ID": 61502409,
+     "toNode": 50542824,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 254598908,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -74.040553,
+     "y": 40.735314
+    },
+    {
+     "x": -74.040672,
+     "y": 40.734477
+    }
+   ],
+   "level": 5,
+   "street": "Grove St",
+   "city": "Jersey City, NJ",
+   "blockUpdate": 1793754033542,
+   "updateMillis": 1794040923341,
+   "endNode": "18th St",
+   "length": 94,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 55718677,
+     "ID": 31981873,
+     "toNode": 26328675,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84772830,
+   "line": [
+    {
+     "x": -73.93158,
+     "y": 40.761706
+    },
+    {
+     "x": -73.932897,
+     "y": 40.760189
+    },
+    {
+     "x": -73.934249,
+     "y": 40.758694
+    },
+    {
+     "x": -73.935235,
+     "y": 40.757605
+    },
+    {
+     "x": -73.935465,
+     "y": 40.757393
+    },
+    {
+     "x": -73.935561,
+     "y": 40.757322
+    },
+    {
+     "x": -73.93658,
+     "y": 40.756211
+    },
+    {
+     "x": -73.93658,
+     "y": 40.756212
+    },
+    {
+     "x": -73.937548,
+     "y": 40.75516
+    },
+    {
+     "x": -73.93871,
+     "y": 40.753898
+    }
+   ],
+   "level": 2,
+   "street": "24th St",
+   "city": "Queens, NY",
+   "updateMillis": 1794040922802,
+   "endNode": "Queens Plz N",
+   "length": 1057,
+   "speed": 3.1083333333333334,
+   "segments": [
+    {
+     "fromNode": 28314787,
+     "ID": 69371780,
+     "toNode": 28311439,
+     "isForward": false
+    },
+    {
+     "fromNode": 28311439,
+     "ID": 69371811,
+     "toNode": 28299420,
+     "isForward": true
+    },
+    {
+     "fromNode": 28299420,
+     "ID": 34470024,
+     "toNode": 28314791,
+     "isForward": true
+    },
+    {
+     "fromNode": 28314791,
+     "ID": 34462368,
+     "toNode": 28316874,
+     "isForward": true
+    },
+    {
+     "fromNode": 28316874,
+     "ID": 34466122,
+     "toNode": 28311436,
+     "isForward": true
+    },
+    {
+     "fromNode": 28311436,
+     "ID": 34470010,
+     "toNode": 28311449,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 82390076,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.983837,
+     "y": 40.710781
+    },
+    {
+     "x": -73.984701,
+     "y": 40.710711
+    }
+   ],
+   "level": 5,
+   "street": "FDR Dr (Service Rd)",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1794019410660,
+   "updateMillis": 1794040923428,
+   "endNode": "Montgomery St",
+   "length": 73,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 28573780,
+     "ID": 34789884,
+     "toNode": 28571492,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84644062,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -74.065838,
+     "y": 40.739347
+    },
+    {
+     "x": -74.06497,
+     "y": 40.739334
+    }
+   ],
+   "level": 5,
+   "street": "",
+   "city": "Jersey City, NJ",
+   "blockUpdate": 1794038155114,
+   "updateMillis": 1794040923299,
+   "endNode": "to US-1-9 N \u00bb Secaucus / Lincoln Tun",
+   "length": 73,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 58073640,
+     "ID": 77436916,
+     "toNode": 59258976,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84743892,
+   "line": [
+    {
+     "x": -73.912978,
+     "y": 40.848432
+    },
+    {
+     "x": -73.912072,
+     "y": 40.849675
+    },
+    {
+     "x": -73.911617,
+     "y": 40.850132
+    }
+   ],
+   "level": 1,
+   "street": "Davidson Ave",
+   "city": "Bronx, NY",
+   "updateMillis": 1794040922796,
+   "endNode": "W 177th St",
+   "length": 221,
+   "speed": 1.5305555555555554,
+   "segments": [
+    {
+     "fromNode": 28401225,
+     "ID": 34580189,
+     "toNode": 28401226,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1703275870,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.976516,
+     "y": 40.754974
+    },
+    {
+     "x": -73.976058,
+     "y": 40.7556
+    }
+   ],
+   "level": 5,
+   "street": "Vanderbilt Ave",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1784898170655,
+   "updateMillis": 1794040923368,
+   "endNode": "E 47th St",
+   "length": 80,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 28570647,
+     "ID": 34791464,
+     "toNode": 28572384,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 2136006,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -74.026904,
+     "y": 40.753389
+    },
+    {
+     "x": -74.026104,
+     "y": 40.753249
+    }
+   ],
+   "level": 5,
+   "street": "14th St",
+   "city": "Hoboken, NJ",
+   "blockUpdate": 1784505611335,
+   "updateMillis": 1794040923313,
+   "endNode": "Washington St",
+   "length": 69,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 26327735,
+     "ID": 31984439,
+     "toNode": 26325592,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84750308,
+   "line": [
+    {
+     "x": -73.910834,
+     "y": 40.779635
+    },
+    {
+     "x": -73.913072,
+     "y": 40.777803
+    }
+   ],
+   "level": 2,
+   "street": "27th St",
+   "city": "Queens, NY",
+   "updateMillis": 1794040922771,
+   "endNode": "Ditmars Blvd",
+   "length": 278,
+   "speed": 1.9944444444444445,
+   "segments": [
+    {
+     "fromNode": 28299663,
+     "ID": 34447110,
+     "toNode": 28299664,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84757222,
+   "line": [
+    {
+     "x": -73.907773,
+     "y": 40.847855
+    },
+    {
+     "x": -73.908241,
+     "y": 40.847458
+    },
+    {
+     "x": -73.90867,
+     "y": 40.847158
+    },
+    {
+     "x": -73.908995,
+     "y": 40.846918
+    },
+    {
+     "x": -73.909726,
+     "y": 40.846367
+    },
+    {
+     "x": -73.910428,
+     "y": 40.845876
+    },
+    {
+     "x": -73.910628,
+     "y": 40.845721
+    },
+    {
+     "x": -73.910772,
+     "y": 40.845596
+    }
+   ],
+   "level": 3,
+   "street": "Grand Concourse (Service Rd)",
+   "city": "Bronx, NY",
+   "updateMillis": 1794040922892,
+   "length": 356,
+   "speed": 1.9777777777777779,
+   "segments": [
+    {
+     "fromNode": 52937558,
+     "ID": 61569340,
+     "toNode": 52937556,
+     "isForward": true
+    },
+    {
+     "fromNode": 52937556,
+     "ID": 61569338,
+     "toNode": 52937550,
+     "isForward": true
+    },
+    {
+     "fromNode": 52937550,
+     "ID": 542202969,
+     "toNode": 523821195,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84750310,
+   "line": [
+    {
+     "x": -73.892116,
+     "y": 40.751014
+    },
+    {
+     "x": -73.892466,
+     "y": 40.75292
+    },
+    {
+     "x": -73.892481,
+     "y": 40.752996
+    },
+    {
+     "x": -73.892803,
+     "y": 40.754777
+    }
+   ],
+   "level": 2,
+   "street": "74th St",
+   "city": "Queens, NY",
+   "updateMillis": 1794040922757,
+   "endNode": "Northern Blvd",
+   "length": 423,
+   "speed": 2.3833333333333333,
+   "segments": [
+    {
+     "fromNode": 28296720,
+     "ID": 523422166,
+     "toNode": 512765263,
+     "isForward": false
+    },
+    {
+     "fromNode": 512765263,
+     "ID": 523422165,
+     "toNode": 28296718,
+     "isForward": false
+    },
+    {
+     "fromNode": 28296718,
+     "ID": 34459204,
+     "toNode": 28312134,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84781030,
+   "line": [
+    {
+     "x": -73.950821,
+     "y": 40.709226
+    },
+    {
+     "x": -73.950873,
+     "y": 40.709522
+    },
+    {
+     "x": -73.950955,
+     "y": 40.70999
+    },
+    {
+     "x": -73.950994,
+     "y": 40.710221
+    },
+    {
+     "x": -73.951116,
+     "y": 40.710957
+    },
+    {
+     "x": -73.951211,
+     "y": 40.711539
+    }
+   ],
+   "level": 3,
+   "street": "Union Ave",
+   "city": "Brooklyn, NY",
+   "updateMillis": 1794040922695,
+   "endNode": "Powers St",
+   "length": 259,
+   "speed": 2.025,
+   "segments": [
+    {
+     "fromNode": 27583599,
+     "ID": 33551766,
+     "toNode": 27589564,
+     "isForward": true
+    },
+    {
+     "fromNode": 27589564,
+     "ID": 33559427,
+     "toNode": 27587979,
+     "isForward": true
+    },
+    {
+     "fromNode": 27587979,
+     "ID": 33545817,
+     "toNode": 27585503,
+     "isForward": true
+    },
+    {
+     "fromNode": 27585503,
+     "ID": 33550150,
+     "toNode": 27587975,
+     "isForward": true
+    },
+    {
+     "fromNode": 27587975,
+     "ID": 508064466,
+     "toNode": 504394959,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 1659437062,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -74.030385,
+     "y": 40.735428
+    },
+    {
+     "x": -74.03145,
+     "y": 40.735597
+    }
+   ],
+   "level": 5,
+   "street": "Observer Hwy",
+   "city": "Hoboken, NJ",
+   "blockUpdate": 1792360841851,
+   "updateMillis": 1794040923248,
+   "endNode": "Washington St",
+   "length": 92,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 26324447,
+     "ID": 76473554,
+     "toNode": 58564300,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84777212,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -74.055252,
+     "y": 40.729933
+    },
+    {
+     "x": -74.054893,
+     "y": 40.728932
+    }
+   ],
+   "level": 5,
+   "street": "Newark Ave",
+   "city": "Jersey City, NJ",
+   "blockUpdate": 1794039006842,
+   "updateMillis": 1794040923353,
+   "endNode": "Pavonia Ave",
+   "length": 115,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 26327637,
+     "ID": 31978257,
+     "toNode": 26331468,
+     "isForward": true
+    }
+   ]
+  },
+  {
+   "id": 84759032,
+   "line": [
+    {
+     "x": -73.889322,
+     "y": 40.766865
+    },
+    {
+     "x": -73.889697,
+     "y": 40.768943
+    },
+    {
+     "x": -73.890035,
+     "y": 40.770821
+    },
+    {
+     "x": -73.890095,
+     "y": 40.771245
+    },
+    {
+     "x": -73.890176,
+     "y": 40.77168
+    },
+    {
+     "x": -73.890338,
+     "y": 40.772066
+    },
+    {
+     "x": -73.890661,
+     "y": 40.772338
+    }
+   ],
+   "level": 2,
+   "street": "80th St",
+   "city": "Queens, NY",
+   "updateMillis": 1794040922834,
+   "endNode": "19th Ave",
+   "length": 625,
+   "speed": 2.2805555555555554,
+   "segments": [
+    {
+     "fromNode": 28300697,
+     "ID": 34447653,
+     "toNode": 28300696,
+     "isForward": false
+    },
+    {
+     "fromNode": 28300696,
+     "ID": 34470662,
+     "toNode": 28300694,
+     "isForward": false
+    },
+    {
+     "fromNode": 28300694,
+     "ID": 34451519,
+     "toNode": 28307395,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84762362,
+   "line": [
+    {
+     "x": -73.968065,
+     "y": 40.755503
+    },
+    {
+     "x": -73.970312,
+     "y": 40.756449
+    }
+   ],
+   "level": 1,
+   "street": "E 51st St",
+   "city": "Manhattan, NY",
+   "updateMillis": 1794040923416,
+   "endNode": "3rd Ave",
+   "length": 217,
+   "speed": 1.0277777777777777,
+   "segments": [
+    {
+     "fromNode": 28572485,
+     "ID": 34791492,
+     "toNode": 28574540,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 94700124,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": ""
+   },
+   "line": [
+    {
+     "x": -74.014683,
+     "y": 40.808957
+    },
+    {
+     "x": -74.01414,
+     "y": 40.808701
+    }
+   ],
+   "level": 5,
+   "street": "84th St",
+   "city": "North Bergen, NJ",
+   "blockUpdate": 1792611402809,
+   "updateMillis": 1794040923284,
+   "endNode": "Liberty Ave",
+   "length": 54,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 26324305,
+     "ID": 31979554,
+     "toNode": 26324304,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84537840,
+   "causeAlert": {
+    "type": "ROAD_CLOSED",
+    "subtype": "",
+    "reportDescription": ""
+   },
+   "line": [
+    {
+     "x": -73.974223,
+     "y": 40.75974
+    },
+    {
+     "x": -73.975833,
+     "y": 40.760411
+    }
+   ],
+   "level": 5,
+   "street": "E 53rd St",
+   "city": "Manhattan, NY",
+   "blockUpdate": 1793977242489,
+   "updateMillis": 1794040923443,
+   "endNode": "5th Ave",
+   "length": 155,
+   "speed": 0,
+   "segments": [
+    {
+     "fromNode": 28572395,
+     "ID": 34788468,
+     "toNode": 28572375,
+     "isForward": false
+    }
+   ]
+  },
+  {
+   "id": 84781040,
+   "line": [
+    {
+     "x": -73.918626,
+     "y": 40.829108
+    },
+    {
+     "x": -73.919336,
+     "y": 40.827825
+    }
+   ],
+   "level": 3,
+   "street": "Sherman Ave",
+   "city": "Bronx, NY",
+   "updateMillis": 1794040922817,
+   "endNode": "E 163rd St",
+   "length": 155,
+   "speed": 0.9666666666666667,
+   "segments": [
+    {
+     "fromNode": 28401094,
+     "ID": 34582644,
+     "toNode": 28403633,
+     "isForward": false
+    }
+   ]
+  }
+ ],
+ "users": []
+}

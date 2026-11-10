@@ -1,0 +1,11 @@
+services:
+  waze-scraper:
+    build: .
+    restart: unless-stopped
+    shm_size: 800m
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — Waze limits each reCAPTCHA token, not your IP, so leave this unset.
+      # - WAZE_PROXY=http://user:pass@host:port
