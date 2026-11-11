@@ -8,12 +8,13 @@ A box that hits Waze's 200-per-type ceiling is tiled into four and the
 tiles merged by id, WAZE_TILE_DEPTH levels deep.
 """
 import math
+from concurrent.futures import ThreadPoolExecutor
 
-from cache import cached_call
+from cache import DontCache, cached_call
 from waze import cache_config as ttl
 from waze import parsers, refs
-from waze.fetch import (WazeBadRequest, fetch_autocomplete, fetch_georss, fetch_google_place, fetch_reverse_geocode,
-                        fetch_routes, fetch_timezone, fetch_venue)
+from waze.fetch import (WazeBadRequest, WazeServerError, fetch_autocomplete, fetch_georss, fetch_google_place,
+                        fetch_reverse_geocode, fetch_routes, fetch_timezone, fetch_venue)
 import config
 
 KM_PER_DEG_LAT = 111.32
@@ -169,6 +170,21 @@ def routes_search(**data):
 
 # ---- places/search -----------------------------------------------------------------------
 
+# Without `near` a query is asked on every region at once (each one only
+# knows its own part of the world) and parsers.merge_region_hits puts the
+# region that fits it best first.
+SEARCH_REGIONS = ("na", "row", "il")
+_search_pool = ThreadPoolExecutor(max_workers=len(SEARCH_REGIONS) * 2, thread_name_prefix="waze-search")
+
+
+def _world_search(query, language):
+    """A bare query -> (best region or None, hits from every region)."""
+    futures = {env: _search_pool.submit(fetch_autocomplete, query, env=env, language=language)
+               for env in SEARCH_REGIONS}
+    hits = {env: parsers.parse_place_hits(future.result()) for env, future in futures.items()}
+    return parsers.merge_region_hits(query, hits, SEARCH_REGIONS)
+
+
 def _places_search(query, near, language, limit):
     env, point, viewport = None, None, None
     if near:
@@ -180,7 +196,10 @@ def _places_search(query, near, language, limit):
             point = (lat, lng)
             viewport = (max(lat - 0.5, -90.0), max(lng - 0.5, -180.0), min(lat + 0.5, 90.0), min(lng + 0.5, 180.0))
         env = refs.geo_env(lat, lng)
-    hits = parsers.parse_place_hits(fetch_autocomplete(query, env=env, near=point, viewport=viewport, language=language))
+        hits = parsers.parse_place_hits(fetch_autocomplete(query, env=env, near=point, viewport=viewport,
+                                                           language=language))
+    else:
+        env, hits = _world_search(query, language)
     return {
         "query": query,
         "near": {"lat": lat, "lng": lng} if near else None,
@@ -225,15 +244,24 @@ def _reverse(location):
     else:
         lat, lng = location["lat"], location["lng"]
     env = refs.geo_env(lat, lng)
-    address = parsers.parse_reverse_geocode(fetch_reverse_geocode(lat, lng, env))
+    try:
+        address, street_failed = parsers.parse_reverse_geocode(fetch_reverse_geocode(lat, lng, env)), False
+    except WazeServerError as e:
+        # Waze answers 500 for some points every time, at any radius, while
+        # their neighbours work (51.5308,-0.1238 at King's Cross, London;
+        # 2026-11-10): give the time zone without a street, uncached.
+        if e.status != 500:
+            raise
+        address, street_failed = None, True
     tz = parsers.parse_timezone(fetch_timezone(lat, lng))
-    return {
+    result = {
         "location": {"lat": lat, "lng": lng},
         "region": env,
         "address": address,
         "timezone": tz,
         "link": refs.point_link(lat, lng),
     }
+    return DontCache(result) if street_failed else result
 
 
 def geocode_reverse(**data):

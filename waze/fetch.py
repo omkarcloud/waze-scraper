@@ -78,6 +78,14 @@ class WazeBlocked(WazeUpstreamError, Blocked):
     """Every token tried was refused (403) or spent (429) — retryable."""
 
 
+class WazeServerError(WazeUpstreamError):
+    """Waze answered 5xx — retryable; `status` is the HTTP status."""
+
+    def __init__(self, message, status):
+        super().__init__(message)
+        self.status = status
+
+
 class WazeBadRequest(BadRequest):
     """Upstream 400 or a route request Waze could not serve — never retried."""
 
@@ -175,7 +183,7 @@ def _classify(resp, label):
     if status == 400:
         raise WazeBadRequest(_message(resp) or f"{label}: HTTP 400")
     if status >= 500:
-        raise WazeUpstreamError(f"{label}: HTTP {status} {resp.text[:120]!r}")
+        raise WazeServerError(f"{label}: HTTP {status} {resp.text[:120]!r}", status)
     if status not in (200, 201):
         raise WazeUpstreamError(f"{label}: HTTP {status}")
     try:

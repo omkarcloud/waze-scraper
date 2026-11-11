@@ -67,6 +67,10 @@ def test_resolve_location_invalid(value):
     ("https://www.waze.com/live-map/directions?from=ll.40.785,-73.968", {"lat": 40.785, "lng": -73.968}),
     ("https://ul.waze.com/ul?place=ChIJmQJIxlVYwokRLgeuocVOGVU&ll=40.75,-73.98",
      {"google_place_id": "ChIJmQJIxlVYwokRLgeuocVOGVU"}),
+    # newer venues: the middle part wraps negative (Westminster Abbey, London)
+    ("235864579.-1936518114.1663094", {"venue_id": "235864579.-1936518114.1663094"}),
+    ("https://www.waze.com/live-map/directions?to=place.w.235864579.-1936518114.1663094",
+     {"venue_id": "235864579.-1936518114.1663094"}),
 ])
 def test_resolve_point(value, expected):
     assert refs.resolve_point(value) == expected
@@ -85,6 +89,10 @@ def test_resolve_point_invalid(value):
     ("https://www.waze.com/live-map/directions/millennium-times-square/187433368.1874464748.1166515",
      {"venue_id": "187433368.1874464748.1166515"}),
     ("https://www.waze.com/ul?place=ChIJmQJIxlVYwokRLgeuocVOGVU", {"google_place_id": "ChIJmQJIxlVYwokRLgeuocVOGVU"}),
+    ("venues.235864579.-1936518114.1663094", {"venue_id": "235864579.-1936518114.1663094"}),
+    ("235864579.-1936518114.1663094", {"venue_id": "235864579.-1936518114.1663094"}),
+    ("https://www.waze.com/live-map/directions/westminster-abbey/235864579.-1936518114.1663094",
+     {"venue_id": "235864579.-1936518114.1663094"}),
 ])
 def test_resolve_place(value, expected):
     assert refs.resolve_place(value) == expected
@@ -222,6 +230,16 @@ def test_toll_route():
     assert "UNNATURAL" in routes[2]["attributes"]
 
 
+def test_toll_prices_round_and_need_a_pass():
+    # Toronto's 407 ETR with a transponder (float noise), Israel's Highway 6 (no pass, 0.0), 2026-11-10
+    toronto = P.parse_toll({"tollPrice": 36.74, "tollPriceCurrencyCode": "CAD", "passBasedMissingPassName": "407ETR",
+                            "passBasedPriceChangeToPrice": 31.439999999999994, "passBasedUserPassName": ""})
+    assert toronto["price"] == 36.74 and toronto["pass_name"] == "407ETR" and toronto["price_with_pass"] == 31.44
+    israel = P.parse_toll({"tollPrice": 61.3, "tollPriceCurrencyCode": "ILS", "passBasedMissingPassName": "",
+                           "passBasedPriceChangeToPrice": 0.0, "passBasedUserPassName": "", "tollRoadName": ""})
+    assert israel["price"] == 61.3 and israel["pass_name"] is None and israel["price_with_pass"] is None
+
+
 def test_london_route_restricted_area_and_jams():
     routes = P.parse_routes(fixture("user_drive_london.json"), {"lat": 51.47, "lng": -0.4543})
     r = routes[0]
@@ -271,6 +289,55 @@ def test_place_hits():
     assert {h["kind"] for h in pizza} == {"waze_venue", "google_place"}
     world = P.parse_place_hits(fixture("autocomplete_eiffel_world.json"))    # no `near`: the world viewport
     assert world[0]["name"] == "Eiffel Tower" and world[0]["address"] == "Avenue Gustave Eiffel, Paris, France"
+
+
+def _world_hits(slug):
+    record = fixture(f"autocomplete_world_{slug}.json")
+    return record["query"], {env: P.parse_place_hits(record[env]) for env in api.SEARCH_REGIONS}
+
+
+@pytest.mark.parametrize("slug,region,first", [
+    ("london", "row", ("London", "UK")),                       # na: London, ON
+    ("paris", "row", ("Paris", "France")),                     # na: Paris, TX
+    ("times_square", "na", ("Times Square", "Manhattan, NY, USA")),     # row: Berjaya Times Square, Kuala Lumpur
+    ("jfk_airport", "na", ("John F. Kennedy International Airport (JFK)", "Queens")),
+    ("tel_aviv", "il", ("Tel Aviv", "Israel")),               # na: a grill in Encino
+    ("westminster_abbey_london", "row", ("Westminster Abbey", "Dean's Yard, London, UK")),   # na: London, ON
+])
+def test_world_search_puts_the_right_region_first(slug, region, first):
+    query, hits = _world_hits(slug)
+    best, merged = P.merge_region_hits(query, hits, api.SEARCH_REGIONS)
+    assert best == region
+    assert (merged[0]["name"], merged[0]["address"]) == first
+    assert merged[:len(hits[region])] == hits[region]             # the best region's hits stay in Waze's order
+    ids = [(h["kind"], h["id"]) for h in merged if h["id"]]
+    assert len(ids) == len(set(ids))                              # a place two regions know is listed once
+
+
+def test_region_confidence_parts():
+    query, hits = _world_hits("london")
+    assert P.region_confidence(query, hits["row"]) == 3.0         # every word, same name, three London landmarks
+    assert P.region_confidence(query, hits["na"]) == 2.0          # every word, same name, scattered Londons
+    assert P.region_confidence(query, []) is None
+    assert P.merge_region_hits("x", {"na": [], "row": [], "il": []}, api.SEARCH_REGIONS) == (None, [])
+
+
+def test_places_search_without_near_asks_every_region(monkeypatch):
+    query, _ = _world_hits("london")
+    record = fixture("autocomplete_world_london.json")
+    calls = []
+
+    def fake_autocomplete(q, env=None, near=None, viewport=None, language=None):
+        calls.append((env, near))
+        return record[env]
+    monkeypatch.setattr(api, "fetch_autocomplete", fake_autocomplete)
+    out = api._places_search(query, None, None, 5)
+    assert sorted(calls) == [("il", None), ("na", None), ("row", None)]
+    assert out["region"] == "row" and out["near"] is None
+    assert [r["name"] for r in out["results"][:2]] == ["London", "London Bridge"] and len(out["results"]) == 5
+    calls.clear()
+    out = api._places_search(query, {"lat": 51.5308, "lng": -0.1238}, None, 5)
+    assert calls == [("row", (51.5308, -0.1238))] and out["region"] == "row"     # `near` keeps one region
 
 
 def test_google_place_live_fixture():
@@ -358,6 +425,29 @@ def test_bbox_for_point_and_box():
     area = api._area_out(box)
     assert area["center"] == {"lat": 40.758, "lng": -73.985} and area["region"] == "na"
     assert api._bbox_key(box).count(",") == 3
+
+
+def test_reverse_keeps_the_time_zone_when_waze_fails_the_street(monkeypatch):
+    """Waze answers 500 for some points every time: the time zone still comes back, uncached."""
+    from cache import DontCache
+    from waze import fetch
+
+    def failing_street(lat, lng, env, radius=0.0005):
+        raise fetch.WazeServerError("reverse-geocoding: HTTP 500", 500)
+    monkeypatch.setattr(api, "fetch_reverse_geocode", failing_street)
+    monkeypatch.setattr(api, "fetch_timezone", lambda lat, lng, timestamp=None: fixture("timezone.json"))
+    out = api._reverse({"lat": 51.5308, "lng": -0.1238})
+    assert isinstance(out, DontCache)
+    assert out.data["address"] is None and out.data["region"] == "row"
+    assert out.data["timezone"]["id"] == "America/New_York"          # the fixture's zone, passed through
+
+    def bad_gateway(lat, lng, env, radius=0.0005):
+        raise fetch.WazeServerError("reverse-geocoding: HTTP 502", 502)
+    monkeypatch.setattr(api, "fetch_reverse_geocode", bad_gateway)
+    with pytest.raises(fetch.WazeServerError):
+        api._reverse({"lat": 51.5308, "lng": -0.1238})
+    monkeypatch.setattr(api, "fetch_reverse_geocode", lambda lat, lng, env, radius=0.0005: fixture("reverse_geocoding.json"))
+    assert api._reverse({"lat": 40.7484, "lng": -73.9857})["address"]["street"]       # a normal answer stays plain
 
 
 def test_feed_tiling_merges_by_id(monkeypatch):

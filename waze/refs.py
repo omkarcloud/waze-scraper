@@ -39,11 +39,13 @@ from urllib.parse import parse_qs, urlparse
 SITE = "https://www.waze.com"
 LIVE_MAP = SITE + "/live-map"
 
-VENUE_ID_RE = re.compile(r"^\d+\.\d+\.\d+$")
+# The middle part is an int32 that wraps negative on newer venues
+# (235864579.-1936518114.1663094 is Westminster Abbey, London; 2026-11-10).
+VENUE_ID_RE = re.compile(r"^\d+\.-?\d+\.\d+$")
 GOOGLE_PLACE_ID_RE = re.compile(r"^[A-Za-z0-9_-]{16,}$")
 _LATLNG_RE = re.compile(r"^\s*(-?\d+(?:\.\d+)?)\s*,\s*(-?\d+(?:\.\d+)?)\s*$")
 _BBOX_RE = re.compile(r"^\s*(-?\d+(?:\.\d+)?)\s*,\s*(-?\d+(?:\.\d+)?)\s*,\s*(-?\d+(?:\.\d+)?)\s*,\s*(-?\d+(?:\.\d+)?)\s*$")
-_VENUE_IN_PATH_RE = re.compile(r"(\d+\.\d+\.\d+)(?:\.html)?/?$")
+_VENUE_IN_PATH_RE = re.compile(r"(\d+\.-?\d+\.\d+)(?:\.html)?/?$")
 
 MAX_BBOX_SPAN_DEG = 3.0     # georss serves ~metro-sized boxes; larger ones only hit the 200-item cap harder
 

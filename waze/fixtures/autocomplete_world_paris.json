@@ -1,0 +1,309 @@
+{
+ "query": "Paris",
+ "na": [
+  {
+   "name": "Paris",
+   "cleanName": "Paris",
+   "address": "TX, USA",
+   "venueId": "googlePlaces.ChIJmysnFgZYSoYRSfPTL2YJuck",
+   "latLng": {
+    "lat": 33.6609389,
+    "lng": -95.55551299999999
+   }
+  },
+  {
+   "name": "Paris",
+   "cleanName": "Paris",
+   "address": "Brant, ON, Canada",
+   "venueId": "googlePlaces.ChIJsamfQbVtLIgR-X18G75Hyi0",
+   "latLng": {
+    "lat": 43.1940203,
+    "lng": -80.3844996
+   }
+  },
+  {
+   "name": "Paris",
+   "cleanName": "Paris",
+   "address": "TN, USA",
+   "venueId": "googlePlaces.ChIJ4zHP-Sije4gRBDEsVxunOWg",
+   "latLng": {
+    "lat": 36.3020023,
+    "lng": -88.32671069999999
+   }
+  },
+  {
+   "name": "Paris",
+   "cleanName": "Paris",
+   "address": "KY, USA",
+   "venueId": "googlePlaces.ChIJsU7_xMfKQ4gReI89RJn0-RQ",
+   "latLng": {
+    "lat": 38.2097987,
+    "lng": -84.2529869
+   }
+  },
+  {
+   "name": "Paris",
+   "cleanName": "Paris",
+   "address": "IL, USA",
+   "venueId": "googlePlaces.ChIJO5XGnIyXcogRT-7Ymxr9xgo",
+   "latLng": {
+    "lat": 39.611146,
+    "lng": -87.6961374
+   }
+  },
+  {
+   "name": "Paris",
+   "cleanName": "Paris",
+   "address": "AR, USA",
+   "venueId": "googlePlaces.ChIJFRt9mkF5zIcRdsZ3XM8ZyHE",
+   "latLng": {
+    "lat": 35.29212,
+    "lng": -93.7299209
+   }
+  },
+  {
+   "name": "Paris Las Vegas",
+   "cleanName": "Paris Las Vegas",
+   "address": "South Las Vegas Boulevard, Las Vegas, NV, USA",
+   "venueId": "googlePlaces.ChIJAQAAAGzDyIARAVwe_ga0REU",
+   "latLng": {
+    "lat": 36.112462,
+    "lng": -115.17070749999999
+   }
+  },
+  {
+   "name": "Paris",
+   "cleanName": "Paris",
+   "address": "MO, USA",
+   "venueId": "googlePlaces.ChIJBYf7Zg0Q3YcR6nyr6YpdfXg",
+   "latLng": {
+    "lat": 39.4808721,
+    "lng": -92.0012811
+   }
+  },
+  {
+   "name": "Parish",
+   "cleanName": "Parish",
+   "address": "NY, USA",
+   "venueId": "googlePlaces.ChIJabifWuq32YkRcl_RscoXsXs",
+   "latLng": {
+    "lat": 43.4061806,
+    "lng": -76.1257576
+   }
+  },
+  {
+   "name": "Paris",
+   "cleanName": "Paris",
+   "address": "OH, USA",
+   "venueId": "googlePlaces.ChIJ830-FB7INogRwSvrYcuvpgk",
+   "latLng": {
+    "lat": 40.7975589,
+    "lng": -81.1648244
+   }
+  }
+ ],
+ "row": [
+  {
+   "name": "Paris",
+   "cleanName": "Paris",
+   "address": "France",
+   "venueId": "googlePlaces.ChIJD7fiBh9u5kcRYJSMaMOCCwQ",
+   "latLng": {
+    "lat": 48.857547499999995,
+    "lng": 2.3513764999999998
+   }
+  },
+  {
+   "name": "Paris Expo Porte de Versailles",
+   "cleanName": "Paris Expo Porte de Versailles",
+   "address": "Place de la Porte de Versailles, Paris, France",
+   "venueId": "googlePlaces.ChIJBzXcJ3Jw5kcRIaKWeyEWXrk",
+   "latLng": {
+    "lat": 48.8328637,
+    "lng": 2.2869132
+   }
+  },
+  {
+   "name": "Paris 13",
+   "cleanName": "Paris 13",
+   "address": "Paris, France",
+   "venueId": "googlePlaces.ChIJgwVOTCdy5kcREBuUaMOCCwU",
+   "latLng": {
+    "lat": 48.8261675,
+    "lng": 2.3598969
+   }
+  },
+  {
+   "name": "Paris 15",
+   "cleanName": "Paris 15",
+   "address": "Paris, France",
+   "venueId": "googlePlaces.ChIJ9WBuGRRw5kcRMBuUaMOCCwU",
+   "latLng": {
+    "lat": 48.8426159,
+    "lng": 2.2924371999999997
+   }
+  },
+  {
+   "name": "Paris-La Défense",
+   "cleanName": "Paris-La Défense",
+   "address": "France",
+   "venueId": "googlePlaces.ChIJ3dGtqgVl5kcRiXgs6GzIh_E",
+   "latLng": {
+    "lat": 48.8897359,
+    "lng": 2.2418428
+   }
+  },
+  {
+   "name": "Paris Orly Airport (ORY)",
+   "cleanName": "Paris Orly Airport (ORY)",
+   "address": "Orly, France",
+   "venueId": "googlePlaces.ChIJHTtq-rF15kcRIoTbQ9feeJ0",
+   "latLng": {
+    "lat": 48.7299182,
+    "lng": 2.3732303999999997
+   }
+  },
+  {
+   "name": "Tramway - Saint-Denis Porte de Paris",
+   "cleanName": "Tramway - Saint-Denis Porte de Paris",
+   "address": "Saint-Denis",
+   "venueId": "venues.1573353.15471389.2107072",
+   "latLng": {
+    "lat": 48.9298321,
+    "lng": 2.3573066
+   }
+  },
+  {
+   "name": "Paris Store",
+   "cleanName": "Paris Store",
+   "address": "Boulevard de Plombières, Marseille",
+   "venueId": "venues.3539377.35262700.3300268",
+   "latLng": {
+    "lat": 43.3151048,
+    "lng": 5.3845851
+   }
+  },
+  {
+   "name": "Aéroport Paris-Beauvais (BVA)",
+   "cleanName": "Aéroport Paris-Beauvais (BVA)",
+   "address": "Route de l'Aéroport, Tillé, France",
+   "venueId": "googlePlaces.ChIJLTyNDYxv5kcRbtc9TZBbD_o",
+   "latLng": {
+    "lat": 49.4553491,
+    "lng": 2.1112384
+   }
+  },
+  {
+   "name": "Paris Est",
+   "cleanName": "Paris Est",
+   "address": "Rue du 8 Mai 1945, Paris, France",
+   "venueId": "googlePlaces.ChIJbw_B63Ju5kcRLBQ1ICWTVa4",
+   "latLng": {
+    "lat": 48.876814599999996,
+    "lng": 2.3591978
+   }
+  }
+ ],
+ "il": [
+  {
+   "name": "Paris Texas Givatayim פריז טקסס גבעתיים",
+   "cleanName": "Paris Texas Givatayim פריז טקסס גבעתיים",
+   "address": "Katzenelson Street, Giv'atayim, Israel",
+   "venueId": "googlePlaces.ChIJyRPaH_VLHRURzAZlhvExolw",
+   "latLng": {
+    "lat": 32.0753963,
+    "lng": 34.807733999999996
+   }
+  },
+  {
+   "name": "Paris Bakikar",
+   "cleanName": "Paris Bakikar",
+   "address": "King George Street, Jerusalem, Israel",
+   "venueId": "googlePlaces.ChIJOy27GAApAxUR2NxzBHmubGc",
+   "latLng": {
+    "lat": 31.774951699999995,
+    "lng": 35.2173167
+   }
+  },
+  {
+   "name": "Paris Square",
+   "cleanName": "Paris Square",
+   "address": "Haifa, Israel",
+   "venueId": "googlePlaces.ChIJf5hg5zW6HRURyfeg7SpQOY8",
+   "latLng": {
+    "lat": 32.8175561,
+    "lng": 34.999711
+   }
+  },
+  {
+   "name": "Paris Square",
+   "cleanName": "Paris Square",
+   "address": "Jerusalem, Israel",
+   "venueId": "googlePlaces.ChIJhUxm2NQpAxURiIK1125Mqio",
+   "latLng": {
+    "lat": 31.774983700000003,
+    "lng": 35.217608299999995
+   }
+  },
+  {
+   "name": "Paris Square Falafel",
+   "cleanName": "Paris Square Falafel",
+   "address": "Natanzon Street, Haifa, Israel",
+   "venueId": "googlePlaces.ChIJmcTZ4zW6HRURzZbaRdNYHao",
+   "latLng": {
+    "lat": 32.8176501,
+    "lng": 34.999609299999996
+   }
+  },
+  {
+   "name": "Le Paris",
+   "cleanName": "Le Paris",
+   "address": "",
+   "venueId": "googlePlaces.ChIJJUvZZoAARDcRjI-LXip39ao",
+   "latLng": {
+    "lat": 27.122441,
+    "lng": 93.7018058
+   }
+  },
+  {
+   "name": "Parishing Gah",
+   "cleanName": "Parishing Gah",
+   "address": "",
+   "venueId": "googlePlaces.ChIJdZz3jkyZ5jgRZNqa6ElLRCs",
+   "latLng": {
+    "lat": 35.374395199999995,
+    "lng": 74.8742872
+   }
+  },
+  {
+   "name": "Pizza Paris",
+   "cleanName": "Pizza Paris",
+   "address": "Rehovot Ha-Bocharim Street, Jerusalem, Israel",
+   "venueId": "googlePlaces.ChIJyerw594pAxUR8WOWjgXcj2I",
+   "latLng": {
+    "lat": 31.791326499999997,
+    "lng": 35.220397399999996
+   }
+  },
+  {
+   "name": "מאפה פריז (מהדרין)",
+   "cleanName": "מאפה פריז (מהדרין)",
+   "address": "קק״ל, Sderot, Israel",
+   "venueId": "googlePlaces.ChIJz5oiYliBAhUR3udQJpRrbdk",
+   "latLng": {
+    "lat": 31.530797199999995,
+    "lng": 34.5834824
+   }
+  },
+  {
+   "name": "חנות מזוודות NABET - PARIS",
+   "cleanName": "חנות מזוודות NABET - PARIS",
+   "address": "A. Y. Shakhrai Street, Jerusalem, Israel",
+   "venueId": "googlePlaces.ChIJa4xckbvXAhURNwjZyyBI7_4",
+   "latLng": {
+    "lat": 31.770509999999994,
+    "lng": 35.185615
+   }
+  }
+ ]
+}

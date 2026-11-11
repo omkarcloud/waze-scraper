@@ -1,0 +1,309 @@
+{
+ "query": "London",
+ "na": [
+  {
+   "name": "London",
+   "cleanName": "London",
+   "address": "ON, Canada",
+   "venueId": "googlePlaces.ChIJC5uNqA7yLogRlWsFmmnXxyg",
+   "latLng": {
+    "lat": 42.9849233,
+    "lng": -81.2452768
+   }
+  },
+  {
+   "name": "London",
+   "cleanName": "London",
+   "address": "KY, USA",
+   "venueId": "googlePlaces.ChIJA8c2lxTNXIgRmMwHc-RRGWI",
+   "latLng": {
+    "lat": 37.1289771,
+    "lng": -84.08326459999999
+   }
+  },
+  {
+   "name": "London",
+   "cleanName": "London",
+   "address": "OH, USA",
+   "venueId": "googlePlaces.ChIJPxME6JelOIgROH-JN5Bcr9Y",
+   "latLng": {
+    "lat": 39.886449299999995,
+    "lng": -83.4482529
+   }
+  },
+  {
+   "name": "Londonderry",
+   "cleanName": "Londonderry",
+   "address": "NH, USA",
+   "venueId": "googlePlaces.ChIJKbIpiFpN4okRuamVIynT2_M",
+   "latLng": {
+    "lat": 42.8464852,
+    "lng": -71.3616057
+   }
+  },
+  {
+   "name": "Londonderry Mall",
+   "cleanName": "Londonderry Mall",
+   "address": "Londonderry Mall NW, Edmonton, AB, Canada",
+   "venueId": "googlePlaces.ChIJHx6MZEgjoFMRqDmoLOmdyAM",
+   "latLng": {
+    "lat": 53.602397499999995,
+    "lng": -113.4459579
+   }
+  },
+  {
+   "name": "London Mills",
+   "cleanName": "London Mills",
+   "address": "IL, USA",
+   "venueId": "googlePlaces.ChIJF8Em_ivK4YcRctDbgpAW2SQ",
+   "latLng": {
+    "lat": 40.7105947,
+    "lng": -90.2662354
+   }
+  },
+  {
+   "name": "Londonderry",
+   "cleanName": "Londonderry",
+   "address": "VT, USA",
+   "venueId": "googlePlaces.ChIJn1qQYudT4IkRgLYM7qWm274",
+   "latLng": {
+    "lat": 43.226464299999996,
+    "lng": -72.8064866
+   }
+  },
+  {
+   "name": "London",
+   "cleanName": "London",
+   "address": "TX, USA",
+   "venueId": "googlePlaces.ChIJKWSOW1iiWYYR5e8LfxEpvXU",
+   "latLng": {
+    "lat": 30.677791,
+    "lng": -99.576815
+   }
+  },
+  {
+   "name": "London House",
+   "cleanName": "London House",
+   "address": "Chicago, IL, USA",
+   "venueId": "googlePlaces.ChIJiblo4a4sDogRXR0G04FxZmQ",
+   "latLng": {
+    "lat": 41.8879102,
+    "lng": -87.6250853
+   }
+  },
+  {
+   "name": "London City Hall",
+   "cleanName": "London City Hall",
+   "address": "Dufferin Avenue, London, ON, Canada",
+   "venueId": "googlePlaces.ChIJmaXTcATyLogRTqndqCFyRwY",
+   "latLng": {
+    "lat": 42.9879902,
+    "lng": -81.246045
+   }
+  }
+ ],
+ "row": [
+  {
+   "name": "London",
+   "cleanName": "London",
+   "address": "UK",
+   "venueId": "googlePlaces.ChIJdd4hrwug2EcRmSrV3Vo6llI",
+   "latLng": {
+    "lat": 51.5072178,
+    "lng": -0.12758619999999998
+   }
+  },
+  {
+   "name": "London Bridge",
+   "cleanName": "London Bridge",
+   "address": "London, UK",
+   "venueId": "googlePlaces.ChIJxRO7WVEDdkgRrGM1fCYoHqY",
+   "latLng": {
+    "lat": 51.5078788,
+    "lng": -0.0877321
+   }
+  },
+  {
+   "name": "London Euston Station",
+   "cleanName": "London Euston Station",
+   "address": "Euston Road, London, UK",
+   "venueId": "googlePlaces.ChIJX3IGxcwbdkgRjh45tuTmuTs",
+   "latLng": {
+    "lat": 51.526916,
+    "lng": -0.1321669
+   }
+  },
+  {
+   "name": "London Bridge Station",
+   "cleanName": "London Bridge Station",
+   "address": "London, UK",
+   "venueId": "googlePlaces.ChIJETm7nVADdkgRg-HpCVnuTCE",
+   "latLng": {
+    "lat": 51.5055207,
+    "lng": -0.0864223
+   }
+  },
+  {
+   "name": "London Eye",
+   "cleanName": "London Eye",
+   "address": "Westminster Bridge Road, London, UK",
+   "venueId": "googlePlaces.ChIJc2nSALkEdkgRkuoJJBfzkUI",
+   "latLng": {
+    "lat": 51.5031864,
+    "lng": -0.11951919999999999
+   }
+  },
+  {
+   "name": "Londonderry",
+   "cleanName": "Londonderry",
+   "address": "UK",
+   "venueId": "googlePlaces.ChIJY5PQNOTdX0gRL_NVxyr6Ib0",
+   "latLng": {
+    "lat": 54.9964705,
+    "lng": -7.3101358
+   }
+  },
+  {
+   "name": "London Luton Airport (LTN)",
+   "cleanName": "London Luton Airport (LTN)",
+   "address": "Airport Way, Luton, UK",
+   "venueId": "googlePlaces.ChIJ1Qb35NA3dkgR0BrZSvPnBi4",
+   "latLng": {
+    "lat": 51.875462,
+    "lng": -0.372755
+   }
+  },
+  {
+   "name": "London Palladium",
+   "cleanName": "London Palladium",
+   "address": "Argyll Street, London, UK",
+   "venueId": "googlePlaces.ChIJY-9VVNUEdkgRiQBELktMFvw",
+   "latLng": {
+    "lat": 51.514570299999995,
+    "lng": -0.14045159999999998
+   }
+  },
+  {
+   "name": "London Gatwick Airport (LGW)",
+   "cleanName": "London Gatwick Airport (LGW)",
+   "address": "Horley, Gatwick, UK",
+   "venueId": "googlePlaces.ChIJGzkffd7vdUgR_3OJAb-k3Vk",
+   "latLng": {
+    "lat": 51.1536621,
+    "lng": -0.1820629
+   }
+  },
+  {
+   "name": "London Zoo",
+   "cleanName": "London Zoo",
+   "address": "Outer Circle, London, UK",
+   "venueId": "googlePlaces.ChIJV_iXMtcadkgRqBI84CY_crE",
+   "latLng": {
+    "lat": 51.535287499999995,
+    "lng": -0.1534303
+   }
+  }
+ ],
+ "il": [
+  {
+   "name": "London Ministores Tower",
+   "cleanName": "London Ministores Tower",
+   "address": "Shlomo Ibn Gabirol Street, Tel Aviv-Yafo, Israel",
+   "venueId": "googlePlaces.ChIJSUuXEVBLHRURAun3bufitVw",
+   "latLng": {
+    "lat": 32.0751408,
+    "lng": 34.7819283
+   }
+  },
+  {
+   "name": "London Garden",
+   "cleanName": "London Garden",
+   "address": "HaYarkon Street, Tel Aviv-Yafo, Israel",
+   "venueId": "googlePlaces.ChIJT0PJNXxMHRURBG2hL3IcibY",
+   "latLng": {
+    "lat": 32.0782056,
+    "lng": 34.7673223
+   }
+  },
+  {
+   "name": "London Pizza",
+   "cleanName": "London Pizza",
+   "address": "Kyrenia",
+   "venueId": "googlePlaces.ChIJT6pCoNNs3hQRMVPuBOm7mHY",
+   "latLng": {
+    "lat": 35.337258999999996,
+    "lng": 33.310862
+   }
+  },
+  {
+   "name": "LONDON BarbershopTLV",
+   "cleanName": "LONDON BarbershopTLV",
+   "address": "Jerusalem Boulevard, Tel Aviv-Yafo, Israel",
+   "venueId": "googlePlaces.ChIJfQ8e8UlNHRURrF1xJblzMD0",
+   "latLng": {
+    "lat": 32.047416999999996,
+    "lng": 34.7587626
+   }
+  },
+  {
+   "name": "London Ministore/Ibn Gabirol",
+   "cleanName": "London Ministore/Ibn Gabirol",
+   "address": "Tel Aviv-Yafo",
+   "venueId": "googlePlaces.ChIJRYsIo4NLHRURXhPbKo1uccc",
+   "latLng": {
+    "lat": 32.0745254,
+    "lng": 34.781880799999996
+   }
+  },
+  {
+   "name": "London Ministore/Sha'ul HaMelekh Blvd",
+   "cleanName": "London Ministore/Sha'ul HaMelekh Blvd",
+   "address": "Tel Aviv-Yafo",
+   "venueId": "googlePlaces.ChIJ9Sr1goRLHRURGHE-H9zhXAM",
+   "latLng": {
+    "lat": 32.075665,
+    "lng": 34.782894
+   }
+  },
+  {
+   "name": "London Photos - Photo booths",
+   "cleanName": "London Photos - Photo booths",
+   "address": "Ra'anana, Israel",
+   "venueId": "googlePlaces.ChIJbb-tIiMnqQoRBt78hsk3yVk",
+   "latLng": {
+    "lat": 32.1921621,
+    "lng": 34.874147799999996
+   }
+  },
+  {
+   "name": "London Hotel",
+   "cleanName": "London Hotel",
+   "address": "Akhad ha-Am Street, Rishon LeZion, Israel",
+   "venueId": "googlePlaces.ChIJR5-RBki0AhURLul2CZFnhQc",
+   "latLng": {
+    "lat": 31.963423600000002,
+    "lng": 34.8076468
+   }
+  },
+  {
+   "name": "London Hamada",
+   "cleanName": "London Hamada",
+   "address": "عولي تسيون 17، تل ابيب، يافا،، Israel",
+   "venueId": "googlePlaces.ChIJm4O1SzxNHRURZYgkcGGG68w",
+   "latLng": {
+    "lat": 32.0515318,
+    "lng": 34.7585331
+   }
+  },
+  {
+   "name": "LONDON VAPES",
+   "cleanName": "LONDON VAPES",
+   "address": "Ha-Gefen Street, Ramat Gan, Israel",
+   "venueId": "googlePlaces.ChIJ58gA5IBLHRUR_JFWw5FBa7I",
+   "latLng": {
+    "lat": 32.0884938,
+    "lng": 34.8107183
+   }
+  }
+ ]
+}

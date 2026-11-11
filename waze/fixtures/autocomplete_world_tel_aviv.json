@@ -1,0 +1,309 @@
+{
+ "query": "Tel Aviv",
+ "na": [
+  {
+   "name": "Tel Aviv Glatt Kosher Grill",
+   "cleanName": "Tel Aviv Glatt Kosher Grill",
+   "address": "Ventura Blvd, Encino",
+   "venueId": "venues.158269782.1582632280.6543576",
+   "latLng": {
+    "lat": 34.1607196,
+    "lng": -118.5074447
+   }
+  },
+  {
+   "name": "Tel Aviv Kosher Catering",
+   "cleanName": "Tel Aviv Kosher Catering",
+   "address": "Ventura Blvd, Tarzana",
+   "venueId": "venues.158269782.1582370137.4462040",
+   "latLng": {
+    "lat": 34.1721739,
+    "lng": -118.54778470000001
+   }
+  },
+  {
+   "name": "Tel Aviv Grill",
+   "cleanName": "Tel Aviv Grill",
+   "address": "Mulholland Dr, Woodland Hills",
+   "venueId": "venues.158204246.1581845848.6846138",
+   "latLng": {
+    "lat": 34.157736799999995,
+    "lng": -118.6346071
+   }
+  },
+  {
+   "name": "Tel-Aviv Kosher Bakery",
+   "cleanName": "Tel-Aviv Kosher Bakery",
+   "address": "W Devon Ave, Chicago",
+   "venueId": "venues.178454948.1784549480.3851937",
+   "latLng": {
+    "lat": 41.9976098,
+    "lng": -87.70395930000001
+   }
+  },
+  {
+   "name": "Tel Aviv Cafe",
+   "cleanName": "Tel Aviv Cafe",
+   "address": "Coney Island Ave, Brooklyn",
+   "venueId": "venues.187433366.1874595805.739653",
+   "latLng": {
+    "lat": 40.610811299999995,
+    "lng": -73.9623289
+   }
+  },
+  {
+   "name": "Tel-Aviv Slices Pizza",
+   "cleanName": "Tel-Aviv Slices Pizza",
+   "address": "West Devon Avenue, Chicago, IL, USA",
+   "venueId": "googlePlaces.ChIJP_vXSSDOD4gRJtZE1qUzd-M",
+   "latLng": {
+    "lat": 41.996761299999996,
+    "lng": -87.7171102
+   }
+  },
+  {
+   "name": "Tel Aviv Grill- Valley Village",
+   "cleanName": "Tel Aviv Grill- Valley Village",
+   "address": "Burbank Boulevard, Valley Village, CA, USA",
+   "venueId": "googlePlaces.ChIJ8-1FWW2WwoARn5600hsPRQk",
+   "latLng": {
+    "lat": 34.1717894,
+    "lng": -118.40492769999999
+   }
+  },
+  {
+   "name": "Tel Aviv Kebab House",
+   "cleanName": "Tel Aviv Kebab House",
+   "address": "Main St, Queens",
+   "venueId": "venues.187564439.1875513320.8202199",
+   "latLng": {
+    "lat": 40.723020299999995,
+    "lng": -73.81964920000001
+   }
+  },
+  {
+   "name": "Tel Aviv Waterfront",
+   "cleanName": "Tel Aviv Waterfront",
+   "address": "Bridge Street, Providence, RI, USA",
+   "venueId": "googlePlaces.ChIJh93xTG5F5IkRI3NskISQabU",
+   "latLng": {
+    "lat": 41.8174585,
+    "lng": -71.4019208
+   }
+  },
+  {
+   "name": "Manna Bakehouse (FKA Tel Aviv Bakery)",
+   "cleanName": "Manna Bakehouse (FKA Tel Aviv Bakery)",
+   "address": "West Devon Avenue, Chicago, IL, USA",
+   "venueId": "googlePlaces.ChIJr1NVRiLOD4gRDaMQdRF8Apw",
+   "latLng": {
+    "lat": 41.997687299999996,
+    "lng": -87.7039547
+   }
+  }
+ ],
+ "row": [
+  {
+   "name": "Tel Aviv Cafe",
+   "cleanName": "Tel Aviv Cafe",
+   "address": "Budapest, Kazinczy Street, Hungary",
+   "venueId": "googlePlaces.ChIJfT41N2jcQUcRiBeoviRnh8w",
+   "latLng": {
+    "lat": 47.49813460000001,
+    "lng": 19.062614399999998
+   }
+  },
+  {
+   "name": "TEL AVIV Store",
+   "cleanName": "TEL AVIV Store",
+   "address": "Av. Stim, Cuajimalpa de Morelos",
+   "venueId": "venues.170852546.1708787604.22266921",
+   "latLng": {
+    "lat": 19.395512999999998,
+    "lng": -99.259557
+   }
+  },
+  {
+   "name": "Tel-Aviv-Straße",
+   "cleanName": "Tel-Aviv-Straße",
+   "address": "Cologne, Germany",
+   "venueId": "googlePlaces.EiJUZWwtQXZpdi1TdHJhw59lLCBDb2xvZ25lLCBHZXJtYW55Ii4qLAoUChIJ82wSX00kv0cRi1GXfcWiyHcSFAoSCeUvq2mRJb9HEfB3Kkr8YCcE",
+   "latLng": {
+    "lat": 50.929829399999996,
+    "lng": 6.9552536
+   }
+  },
+  {
+   "name": "Tel Aviv",
+   "cleanName": "Tel Aviv",
+   "address": "Damlaan, Leidschendam",
+   "venueId": "venues.2884105.28841048.15332787",
+   "latLng": {
+    "lat": 52.0822313,
+    "lng": 4.395368599999999
+   }
+  },
+  {
+   "name": "Tel Aviv Estate",
+   "cleanName": "Tel Aviv Estate",
+   "address": "Nairobi, Kenya",
+   "venueId": "googlePlaces.ChIJfdkf0FESLxgRc9qTHrIY6bg",
+   "latLng": {
+    "lat": -1.3196663,
+    "lng": 36.9011809
+   }
+  },
+  {
+   "name": "Tel Aviv-Jaffa",
+   "cleanName": "Tel Aviv-Jaffa",
+   "address": "Spohrstraße, Nuremberg-West, Germany",
+   "venueId": "googlePlaces.ChIJKY7ZfV1Wn0cRKpcJx-SMpwE",
+   "latLng": {
+    "lat": 49.4580236,
+    "lng": 11.0384545
+   }
+  },
+  {
+   "name": "Tel Aviv",
+   "cleanName": "Tel Aviv",
+   "address": "Ituzaingó, Buenos Aires Province, Argentina",
+   "venueId": "googlePlaces.EjZUZWwgQXZpdiwgSXR1emFpbmfDsywgQnVlbm9zIEFpcmVzIFByb3ZpbmNlLCBBcmdlbnRpbmEiLiosChQKEgl9ED5hmL-8lRFOvSzMQ37kGRIUChIJXR2GCXi_vJURhj2d_Vl4yWs",
+   "latLng": {
+    "lat": -34.6499279,
+    "lng": -58.700482300000004
+   }
+  },
+  {
+   "name": "Tel Aviv Yafo Ballina",
+   "cleanName": "Tel Aviv Yafo Ballina",
+   "address": "River Street, Ballina NSW, Australia",
+   "venueId": "googlePlaces.ChIJTWssjiyBkGsRCk3t8stq68o",
+   "latLng": {
+    "lat": -28.8707698,
+    "lng": 153.560315
+   }
+  },
+  {
+   "name": "Cape Diem restaurant & lounge",
+   "cleanName": "Cape Diem restaurant & lounge",
+   "address": "Ertbrandstraat, Kapellen",
+   "venueId": "venues.2884098.28840975.20960879",
+   "latLng": {
+    "lat": 51.3524351,
+    "lng": 4.3973423
+   }
+  },
+  {
+   "name": "Tel Aviv",
+   "cleanName": "Tel Aviv",
+   "address": "Markt, Boxtel, Netherlands",
+   "venueId": "googlePlaces.ChIJHX_Ye0HoxkcR3dWEy_yFqEg",
+   "latLng": {
+    "lat": 51.588722000000004,
+    "lng": 5.326718
+   }
+  }
+ ],
+ "il": [
+  {
+   "name": "Tel Aviv",
+   "cleanName": "Tel Aviv",
+   "address": "Israel",
+   "venueId": "googlePlaces.ChIJH3w7GaZMHRURkD-WwKJy-8E",
+   "latLng": {
+    "lat": 32.085299899999995,
+    "lng": 34.781767599999995
+   }
+  },
+  {
+   "name": "Tel Aviv Central Bus Station 6 Floor",
+   "cleanName": "Tel Aviv Central Bus Station 6 Floor",
+   "address": "Tel Aviv-Yafo, Israel",
+   "venueId": "googlePlaces.ChIJyRV9TGFLHRURp61hHBya9dM",
+   "latLng": {
+    "lat": 32.055907999999995,
+    "lng": 34.779083
+   }
+  },
+  {
+   "name": "Tel Aviv-Hashalom",
+   "cleanName": "Tel Aviv-Hashalom",
+   "address": "לרחובות, Tel Aviv-Yafo, Israel",
+   "venueId": "googlePlaces.ChIJ7-8kIZlLHRUR2qz0pEdmwYM",
+   "latLng": {
+    "lat": 32.0734005,
+    "lng": 34.793175399999996
+   }
+  },
+  {
+   "name": "Tel Aviv Port",
+   "cleanName": "Tel Aviv Port",
+   "address": "",
+   "venueId": "googlePlaces.ChIJP0_fawpMHRURBp-AZxLV98g",
+   "latLng": {
+    "lat": 32.097142399999996,
+    "lng": 34.7729517
+   }
+  },
+  {
+   "name": "Tel Aviv University – Expo",
+   "cleanName": "Tel Aviv University – Expo",
+   "address": "Rokach Boulevard, Tel Aviv-Yafo, Israel",
+   "venueId": "googlePlaces.ChIJvWSdgNhLHRURGeYEu4n-BX8",
+   "latLng": {
+    "lat": 32.103572899999996,
+    "lng": 34.804544
+   }
+  },
+  {
+   "name": "Tel Aviv Central Bus Station 7th Floor/Platforms",
+   "cleanName": "Tel Aviv Central Bus Station 7th Floor/Platforms",
+   "address": "Tel Aviv-Yafo",
+   "venueId": "googlePlaces.ChIJvXUBUmFLHRURp9WXFwueV1w",
+   "latLng": {
+    "lat": 32.056141,
+    "lng": 34.779263
+   }
+  },
+  {
+   "name": "Tel Aviv Ha'Hagana",
+   "cleanName": "Tel Aviv Ha'Hagana",
+   "address": "Tel Aviv-Yafo, Israel",
+   "venueId": "googlePlaces.ChIJp9_SHmZLHRURXBzmYEszCh0",
+   "latLng": {
+    "lat": 32.054062,
+    "lng": 34.7847899
+   }
+  },
+  {
+   "name": "Tel Aviv Museum of Art",
+   "cleanName": "Tel Aviv Museum of Art",
+   "address": "Sderot Sha'ul HaMelech Street, Tel Aviv-Yafo, Israel",
+   "venueId": "googlePlaces.ChIJpz9FAptLHRURE7h6eDCkS_c",
+   "latLng": {
+    "lat": 32.0771847,
+    "lng": 34.786133
+   }
+  },
+  {
+   "name": "Tel Aviv University",
+   "cleanName": "Tel Aviv University",
+   "address": "Chaim Levanon Street, Tel Aviv-Yafo, Israel",
+   "venueId": "googlePlaces.ChIJ-wt232VJHRUR721e4jwavVk",
+   "latLng": {
+    "lat": 32.113496,
+    "lng": 34.803609
+   }
+  },
+  {
+   "name": "Tel Aviv Sourasky Medical Center - Ichilov",
+   "cleanName": "Tel Aviv Sourasky Medical Center - Ichilov",
+   "address": "Weizmann Street, Tel Aviv-Yafo, Israel",
+   "venueId": "googlePlaces.ChIJtR_MkwNHHRURITSgMvUeCMQ",
+   "latLng": {
+    "lat": 32.0801258,
+    "lng": 34.7898816
+   }
+  }
+ ]
+}

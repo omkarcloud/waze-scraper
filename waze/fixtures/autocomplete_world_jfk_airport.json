@@ -1,0 +1,208 @@
+{
+ "query": "JFK Airport",
+ "na": [
+  {
+   "name": "John F. Kennedy International Airport (JFK)",
+   "cleanName": "John F. Kennedy International Airport (JFK)",
+   "address": "Queens",
+   "venueId": "venues.187564438.1875775457.6664916",
+   "latLng": {
+    "lat": 40.645411599999996,
+    "lng": -73.7836745
+   }
+  },
+  {
+   "name": "JFK Airport Central Taxi Hold",
+   "cleanName": "JFK Airport Central Taxi Hold",
+   "address": "148th Street, JFK International Airport, NY, USA",
+   "venueId": "googlePlaces.ChIJ_cwtE_1mwokROmDJ7f9YWxY",
+   "latLng": {
+    "lat": 40.6567112,
+    "lng": -73.7940126
+   }
+  },
+  {
+   "name": "JFK Airport building 22A Delta GSE",
+   "cleanName": "JFK Airport building 22A Delta GSE",
+   "address": "",
+   "venueId": "venues.187564438.1875644385.4570751",
+   "latLng": {
+    "lat": 40.648303999999996,
+    "lng": -73.7997589
+   }
+  },
+  {
+   "name": "JFK Airport Building 76 - JFK Cargo",
+   "cleanName": "JFK Airport Building 76 - JFK Cargo",
+   "address": "N Boundary Rd, Queens",
+   "venueId": "venues.187564439.1875775458.7320551",
+   "latLng": {
+    "lat": 40.658969,
+    "lng": -73.7774506
+   }
+  },
+  {
+   "name": "JFK Airport (Terminal 4 Departure. (Service provided via Van))",
+   "cleanName": "JFK Airport (Terminal 4 Departure. (Service provided via Van))",
+   "address": "Queens, NY, USA",
+   "venueId": "googlePlaces.ChIJR-7X1VlmwokRfcOcCSX8EhA",
+   "latLng": {
+    "lat": 40.644652099999995,
+    "lng": -73.782945
+   }
+  },
+  {
+   "name": "JFK Airport Travel Plaza",
+   "cleanName": "JFK Airport Travel Plaza",
+   "address": "150th Avenue &, 148th Street, JFK International Airport, NY, USA",
+   "venueId": "googlePlaces.ChIJwYgIFuJmwokRivMI7kyFIIc",
+   "latLng": {
+    "lat": 40.6628176,
+    "lng": -73.7929164
+   }
+  },
+  {
+   "name": "Jfk Airport/Terminal 8",
+   "cleanName": "Jfk Airport/Terminal 8",
+   "address": "Queens, NY, USA",
+   "venueId": "googlePlaces.ChIJJ20EClZmwokRZoT-QqO2Wq0",
+   "latLng": {
+    "lat": 40.646927,
+    "lng": -73.788956
+   }
+  },
+  {
+   "name": "JFK Airport (Terminal 1 Departure. (Service provided via Van))",
+   "cleanName": "JFK Airport (Terminal 1 Departure. (Service provided via Van))",
+   "address": "Queens, NY, USA",
+   "venueId": "googlePlaces.ChIJ0aOQjlNmwokRCEvKH6RwHVg",
+   "latLng": {
+    "lat": 40.643211799999996,
+    "lng": -73.79085479999999
+   }
+  },
+  {
+   "name": "JFK Airport Hotel",
+   "cleanName": "JFK Airport Hotel",
+   "address": "153rd Lane, Jamaica, NY, USA",
+   "venueId": "googlePlaces.ChIJYVL1t-dmwokRJfvPlVd3ZXY",
+   "latLng": {
+    "lat": 40.665614999999995,
+    "lng": -73.78469799999999
+   }
+  },
+  {
+   "name": "JFK Airport (JFK Airport Terminal 7, Arrivals Level. The bus will stop on the ground level, at Passenger pickup A or B.)",
+   "cleanName": "JFK Airport (JFK Airport Terminal 7, Arrivals Level. The bus will stop on the ground level, at Passenger pickup A or B.)",
+   "address": "Queens, NY, USA",
+   "venueId": "googlePlaces.ChIJvWPk8_dmwokRDQRDK0PrNBY",
+   "latLng": {
+    "lat": 40.64834,
+    "lng": -73.78265999999999
+   }
+  }
+ ],
+ "row": [
+  {
+   "name": "Airport Area",
+   "cleanName": "Airport Area",
+   "address": "Al Matar - Abu Dhabi - United Arab Emirates",
+   "venueId": "googlePlaces.ChIJTcW0f9NIXj4RI0eCBRT_6sk",
+   "latLng": {
+    "lat": 24.4516968,
+    "lng": 54.6357017
+   }
+  },
+  {
+   "name": "JFK International",
+   "cleanName": "JFK International",
+   "address": "Coimbatore, Tamil Nadu, India",
+   "venueId": "googlePlaces.ChIJPxFQj57xqDsRQz8Bv_ivpKA",
+   "latLng": {
+    "lat": 11.2156753,
+    "lng": 76.9625408
+   }
+  },
+  {
+   "name": "JFK International",
+   "cleanName": "JFK International",
+   "address": "GV Ayyer Road, Willingdon Island, Kochi, Keralam, India",
+   "venueId": "googlePlaces.ChIJH3vS2FdtCDsR-w2Zmb_cmWQ",
+   "latLng": {
+    "lat": 9.9636444,
+    "lng": 76.27094509999999
+   }
+  },
+  {
+   "name": "Zayed International Airport (AUH)",
+   "cleanName": "Zayed International Airport (AUH)",
+   "address": "Al Matar - Abu Dhabi - United Arab Emirates",
+   "venueId": "googlePlaces.ChIJ73EMkN5IXj4RXnVtI3mZN5s",
+   "latLng": {
+    "lat": 24.4514258,
+    "lng": 54.6421225
+   }
+  },
+  {
+   "name": "Airport Road",
+   "cleanName": "Airport Road",
+   "address": "Al Matar, Madinah Saudi Arabia",
+   "venueId": "googlePlaces.EixBaXJwb3J0IFJvYWQsIEFsIE1hdGFyLCBNYWRpbmFoIFNhdWRpIEFyYWJpYSIuKiwKFAoSCXtAW_VBvr0VEeiWNQjLO5c8EhQKEglTZ8myj5e9FRFwQBU__3edIg",
+   "latLng": {
+    "lat": 24.4937385,
+    "lng": 39.6408817
+   }
+  },
+  {
+   "name": "Jfk International",
+   "cleanName": "Jfk International",
+   "address": "Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi, India",
+   "venueId": "googlePlaces.ChIJ3cGHvoodDTkRVAD2waSsco8",
+   "latLng": {
+    "lat": 28.554290599999998,
+    "lng": 77.1942985
+   }
+  },
+  {
+   "name": "Airport Garden Restaurant",
+   "cleanName": "Airport Garden Restaurant",
+   "address": "opposite international airport - Al Matar - Abu Dhabi - United Arab Emirates",
+   "venueId": "googlePlaces.ChIJA6HbTLxJXj4Rs3mHYcx7I7E",
+   "latLng": {
+    "lat": 24.422617199999998,
+    "lng": 54.646754099999995
+   }
+  },
+  {
+   "name": "Air Traffic Control Tower",
+   "cleanName": "Air Traffic Control Tower",
+   "address": "Al Matar - Abu Dhabi - United Arab Emirates",
+   "venueId": "googlePlaces.ChIJm8yawydJXj4RViNdbv6bHgw",
+   "latLng": {
+    "lat": 24.441430399999998,
+    "lng": 54.6552333
+   }
+  },
+  {
+   "name": "Thrifty Car Rental - Zayed International Airport Terminal A - Abu Dhabi",
+   "cleanName": "Thrifty Car Rental - Zayed International Airport Terminal A - Abu Dhabi",
+   "address": "Between Departure and Arrivals - Al Matar - Abu Dhabi - United Arab Emirates",
+   "venueId": "googlePlaces.ChIJd1EladdIXj4RuMOYqYVT4Ug",
+   "latLng": {
+    "lat": 24.451429599999997,
+    "lng": 54.642111299999996
+   }
+  },
+  {
+   "name": "Zayed International Airport Lost & Found",
+   "cleanName": "Zayed International Airport Lost & Found",
+   "address": "International Airport Terminal A Arrivals Level - Al Matar - Abu Dhabi - United Arab Emirates",
+   "venueId": "googlePlaces.ChIJ1TLSSPdPXj4RWud4Zsonjqk",
+   "latLng": {
+    "lat": 24.453146099999998,
+    "lng": 54.6405034
+   }
+  }
+ ],
+ "il": []
+}

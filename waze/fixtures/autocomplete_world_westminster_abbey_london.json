@@ -1,0 +1,118 @@
+{
+ "query": "Westminster Abbey, London",
+ "na": [
+  {
+   "name": "Abbey Estates",
+   "cleanName": "Abbey Estates",
+   "address": "Southdale Road East, Westminster, London, ON, Canada",
+   "venueId": "googlePlaces.ChIJMYzr9KjzLogR100JtGSdZqs",
+   "latLng": {
+    "lat": 42.945595499999996,
+    "lng": -81.20820460000002
+   }
+  }
+ ],
+ "row": [
+  {
+   "name": "Westminster Abbey",
+   "cleanName": "Westminster Abbey",
+   "address": "Dean's Yard, London, UK",
+   "venueId": "googlePlaces.ChIJLzVDusQEdkgRelObBaL_jto",
+   "latLng": {
+    "lat": 51.4993695,
+    "lng": -0.1272993
+   }
+  },
+  {
+   "name": "Westminster Abbey",
+   "cleanName": "Westminster Abbey",
+   "address": "London, UK",
+   "venueId": "googlePlaces.ChIJRUeRWcMEdkgRAO7ZzLCgDXA",
+   "latLng": {
+    "lat": 51.499424499999996,
+    "lng": -0.1275639
+   }
+  },
+  {
+   "name": "hub by Premier Inn London Westminster Abbey hotel",
+   "cleanName": "hub by Premier Inn London Westminster Abbey hotel",
+   "address": "Tothill Street, London, UK",
+   "venueId": "googlePlaces.ChIJS7ZZetsEdkgR_poveJL3T2Y",
+   "latLng": {
+    "lat": 51.499541799999996,
+    "lng": -0.13152819999999998
+   }
+  },
+  {
+   "name": "Westminster Abbey Choir School",
+   "cleanName": "Westminster Abbey Choir School",
+   "address": "London, UK",
+   "venueId": "googlePlaces.ChIJSXRAsNwEdkgR0DK6VcTmDVQ",
+   "latLng": {
+    "lat": 51.4989833,
+    "lng": -0.1296669
+   }
+  },
+  {
+   "name": "Fountains Abbey",
+   "cleanName": "Fountains Abbey",
+   "address": "Praed Street, London, UK",
+   "venueId": "googlePlaces.ChIJw9x9BLMadkgRreZRvNR0HJw",
+   "latLng": {
+    "lat": 51.516939699999995,
+    "lng": -0.17295149999999998
+   }
+  },
+  {
+   "name": "The Queen’s Diamond Jubilee Galleries",
+   "cleanName": "The Queen’s Diamond Jubilee Galleries",
+   "address": "Dean's Yard, London, UK",
+   "venueId": "googlePlaces.ChIJOW0Az9QFdkgRpX7ikRo6n4k",
+   "latLng": {
+    "lat": 51.499732099999996,
+    "lng": -0.12725870000000003
+   }
+  },
+  {
+   "name": "Westminster Abbey Shop",
+   "cleanName": "Westminster Abbey Shop",
+   "address": "Dean's Yard, London, UK",
+   "venueId": "googlePlaces.ChIJWwdPr8QEdkgRuIO_OZarwh4",
+   "latLng": {
+    "lat": 51.4992983,
+    "lng": -0.12863950000000002
+   }
+  },
+  {
+   "name": "Abbey Gardens",
+   "cleanName": "Abbey Gardens",
+   "address": "London, UK",
+   "venueId": "googlePlaces.EhlBYmJleSBHYXJkZW5zLCBMb25kb24sIFVLIi4qLAoUChIJewQFE8MEdkgR6cg80Yp2AdYSFAoSCfPzF7dbG3ZIEQqyADl5LpFJ",
+   "latLng": {
+    "lat": 51.4976637,
+    "lng": -0.1271936
+   }
+  },
+  {
+   "name": "Abbey Road Dental Practice",
+   "cleanName": "Abbey Road Dental Practice",
+   "address": "Abbey Road, London, UK",
+   "venueId": "googlePlaces.ChIJq9UcEp8adkgRcEbrRee7lfo",
+   "latLng": {
+    "lat": 51.5376839,
+    "lng": -0.1845133
+   }
+  },
+  {
+   "name": "Great Smith Street/Westminster Abbey (Stop R)",
+   "cleanName": "Great Smith Street/Westminster Abbey (Stop R)",
+   "address": "London, UK",
+   "venueId": "googlePlaces.ChIJ_yIqzmAFdkgR-2vTyNGGTvU",
+   "latLng": {
+    "lat": 51.4990606,
+    "lng": -0.1309112
+   }
+  }
+ ],
+ "il": []
+}

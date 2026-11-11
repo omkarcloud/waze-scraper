@@ -8,6 +8,8 @@ with a browser-minted reCAPTCHA token, see waze/fetch.py):
   user_drive_nyc.json (a toll route with E-ZPass pricing), user_drive_london.json
       (ULEZ restricted area, on-route jams), user_drive_paris.json
   autocomplete_times_square.json   (Google places + a Waze venue)
+  autocomplete_world_*.json        (2026-11-10) one bare query (world viewport,
+      no sll) asked on each region: {"query", "na": [...], "row": [...], "il": [...]}
   venue.json                       a Waze venue with hours / services / images
   reverse_geocoding.json, timezone.json
   nearby_address.json              (/venues/nearby, always empty: not served)
@@ -17,6 +19,8 @@ questions, numbers as numbers, dates as ISO 8601 UTC, null for absent
 values, identity fields first, presentation-only strings dropped.
 """
 import json
+import math
+import re
 from datetime import datetime, timezone
 
 from waze import refs
@@ -164,18 +168,25 @@ def parse_georss(body):
 
 # ---- routes ----------------------------------------------------------------------------
 
+def _money(value):
+    """A currency amount, 2 decimals (user-drive sends float noise: 31.439999999999994)."""
+    value = _float(value)
+    return round(value, 2) if value is not None else None
+
+
 def parse_toll(raw):
     info = _obj(raw)
     if not info:
         return None
-    price = _float(info.get("tollPrice"))
-    pass_price = _float(info.get("passBasedPriceChangeToPrice"))
+    pass_name = _text(info.get("passBasedMissingPassName")) or _text(info.get("passBasedUserPassName"))
     return {
-        "price": price,
+        "price": _money(info.get("tollPrice")),
         "currency": _text(info.get("tollPriceCurrencyCode")),
         "road_name": _text(info.get("tollRoadName")),
-        "pass_name": _text(info.get("passBasedMissingPassName")) or _text(info.get("passBasedUserPassName")),
-        "price_with_pass": pass_price,
+        "pass_name": pass_name,
+        # Only a pass gets a pass price: a toll without one answers 0.0 here
+        # (Israel's Highway 6, 2026-11-10), which would read as "free".
+        "price_with_pass": _money(info.get("passBasedPriceChangeToPrice")) if pass_name else None,
         "note": _text(info.get("serverParameterizedMessage")),
     }
 
@@ -262,6 +273,67 @@ def parse_place_hit(raw):
 
 def parse_place_hits(body):
     return [parse_place_hit(h) for h in (body or []) if isinstance(h, dict)]
+
+
+# A search without `near` asks every region: each one answers from its own
+# part of the world only ("London" is London, ON on na and London, UK on row;
+# "Sydney Opera House" is found on row alone; probed 2026-11-10). The region
+# whose first hit fits the query best goes first. Its confidence adds up:
+#   - the share of the query's words found in the hit's name + address (0..1)
+#   - the hit's name equal to (1) or starting with (0.5) the query's part
+#     before the first comma
+#   - the share of the next AGREE_HITS hits within AGREE_KM of it (0..1): a
+#     real city's own landmarks back it up, same-named small towns scatter.
+_WORD_RE = re.compile(r"[^\W_]+")
+AGREE_KM = 30
+AGREE_HITS = 3
+
+
+def _words(text):
+    return [w.casefold() for w in _WORD_RE.findall(text or "")]
+
+
+def _distance_km(a, b):
+    """Equirectangular distance between two {"lat","lng"} points (fine at city scale)."""
+    x = math.radians(b["lng"] - a["lng"]) * math.cos(math.radians((a["lat"] + b["lat"]) / 2))
+    y = math.radians(b["lat"] - a["lat"])
+    return 6371.0 * math.hypot(x, y)
+
+
+def region_confidence(query, hits):
+    """How sure one region's autocomplete is of its first hit: 0..3, None without hits."""
+    if not hits:
+        return None
+    top = hits[0]
+    wanted = set(_words(query))
+    found = set(_words(f"{top.get('name') or ''} {top.get('address') or ''}"))
+    coverage = len(wanted & found) / len(wanted) if wanted else 0.0
+    head = " ".join(_words(query.split(",")[0]))
+    name = " ".join(_words(top.get("name")))
+    naming = 1.0 if head and name == head else 0.5 if head and name.startswith(head + " ") else 0.0
+    agreeing = 0
+    if top.get("location"):
+        agreeing = sum(1 for h in hits[1:1 + AGREE_HITS]
+                       if h.get("location") and _distance_km(top["location"], h["location"]) <= AGREE_KM)
+    return coverage + naming + agreeing / AGREE_HITS
+
+
+def merge_region_hits(query, hits_by_region, order):
+    """{region: [hit, ...]} -> (best region or None, hits): the most confident
+    region's hits first, then the other regions' by confidence (ties keep
+    `order`), the same place listed twice kept once."""
+    scored = [(region_confidence(query, hits_by_region.get(region) or []), i, region)
+              for i, region in enumerate(order)]
+    scored = [s for s in scored if s[0] is not None]
+    ranked = [region for _, _, region in sorted(scored, key=lambda s: (-s[0], s[1]))]
+    merged, seen = [], set()
+    for region in ranked:
+        for hit in hits_by_region[region]:
+            key = (hit["kind"], hit["id"]) if hit.get("id") else (hit.get("name"), json.dumps(hit.get("location")))
+            if key not in seen:
+                seen.add(key)
+                merged.append(hit)
+    return (ranked[0] if ranked else None), merged
 
 
 def _hhmm(raw):

@@ -1,0 +1,229 @@
+{
+ "query": "Times Square",
+ "na": [
+  {
+   "name": "Times Square",
+   "cleanName": "Times Square",
+   "address": "Manhattan, NY, USA",
+   "venueId": "googlePlaces.ChIJmQJIxlVYwokRLgeuocVOGVU",
+   "latLng": {
+    "lat": 40.7579747,
+    "lng": -73.9855426
+   }
+  },
+  {
+   "name": "Times Square",
+   "cleanName": "Times Square",
+   "address": "New York, NY, USA",
+   "venueId": "googlePlaces.ChIJnaBtqVVYwokRaAqg4aX1C4Y",
+   "latLng": {
+    "lat": 40.7579747,
+    "lng": -73.9855426
+   }
+  },
+  {
+   "name": "Times Square Richmond Hill",
+   "cleanName": "Times Square Richmond Hill",
+   "address": "Highway 7, Richmond Hill, ON, Canada",
+   "venueId": "googlePlaces.ChIJKWYTv0srK4gRvpFw4Msa2Eg",
+   "latLng": {
+    "lat": 43.8450191,
+    "lng": -79.3838433
+   }
+  },
+  {
+   "name": "Millennium Times Square New York",
+   "cleanName": "Millennium Times Square New York",
+   "address": "W 44th St, Manhattan",
+   "venueId": "venues.187433368.1874464748.1166515",
+   "latLng": {
+    "lat": 40.7571182,
+    "lng": -73.9848633
+   }
+  },
+  {
+   "name": "Times Square Church",
+   "cleanName": "Times Square Church",
+   "address": "West 51st Street, New York, NY, USA",
+   "venueId": "googlePlaces.ChIJVUGHS1ZYwokRx39CH6zNL5M",
+   "latLng": {
+    "lat": 40.762439799999996,
+    "lng": -73.9841342
+   }
+  },
+  {
+   "name": "InterContinental New York Times Square",
+   "cleanName": "InterContinental New York Times Square",
+   "address": "W 44th St, Manhattan",
+   "venueId": "venues.187433368.1874399212.707527",
+   "latLng": {
+    "lat": 40.7586491,
+    "lng": -73.98941409999999
+   }
+  },
+  {
+   "name": "Sheraton - New York Times Square Hotel",
+   "cleanName": "Sheraton - New York Times Square Hotel",
+   "address": "W 53rd St, New York",
+   "venueId": "venues.187433368.1874464748.6717891",
+   "latLng": {
+    "lat": 40.7626627,
+    "lng": -73.98183430000002
+   }
+  },
+  {
+   "name": "Times Square Tower",
+   "cleanName": "Times Square Tower",
+   "address": "West 42nd Street, New York, NY, USA",
+   "venueId": "googlePlaces.ChIJQaO5NKtZwokRGSWhqcOmii8",
+   "latLng": {
+    "lat": 40.755297399999996,
+    "lng": -73.986784
+   }
+  },
+  {
+   "name": "Times Square",
+   "cleanName": "Times Square",
+   "address": "Estero Blvd, Fort Myers Beach",
+   "venueId": "venues.182190345.1822165589.367112",
+   "latLng": {
+    "lat": 26.453184999999998,
+    "lng": -81.9557722
+   }
+  },
+  {
+   "name": "Renaissance New York Times Square Hotel",
+   "cleanName": "Renaissance New York Times Square Hotel",
+   "address": "7th Ave, Manhattan",
+   "venueId": "venues.187433368.1874464748.821121",
+   "latLng": {
+    "lat": 40.7596901,
+    "lng": -73.98455659999999
+   }
+  }
+ ],
+ "row": [
+  {
+   "name": "Berjaya Times Square",
+   "cleanName": "Berjaya Times Square",
+   "address": "Jalan Imbi, Kuala Lumpur",
+   "venueId": "venues.66650143.666566970.7021126",
+   "latLng": {
+    "lat": 3.1421455999999997,
+    "lng": 101.710623
+   }
+  },
+  {
+   "name": "Times Square",
+   "cleanName": "Times Square",
+   "address": "Matheson Street, Bowrington, Hong Kong",
+   "venueId": "googlePlaces.ChIJ_bAR11AABDQRGxsNeGwaZYM",
+   "latLng": {
+    "lat": 22.278150999999998,
+    "lng": 114.1821136
+   }
+  },
+  {
+   "name": "Times Square Building",
+   "cleanName": "Times Square Building",
+   "address": "Andheri - Kurla Road, Gamdevi, Marol, Andheri East, Mumbai, Maharashtra, India",
+   "venueId": "googlePlaces.ChIJAbSn12zI5zsRNxznCpEsUWE",
+   "latLng": {
+    "lat": 19.1080978,
+    "lng": 72.8834916
+   }
+  },
+  {
+   "name": "Imago KK Times Square",
+   "cleanName": "Imago KK Times Square",
+   "address": "KK Times Square Boulevard, Kota Kinabalu",
+   "venueId": "venues.76087356.760676949.3333329",
+   "latLng": {
+    "lat": 5.970717,
+    "lng": 116.06631060000001
+   }
+  },
+  {
+   "name": "Times Square Center",
+   "cleanName": "Times Square Center",
+   "address": "Sheikh Zayed St, Al Qouz Ind. First القوز الصناعية الأولى",
+   "venueId": "venues.36176123.361892306.919747",
+   "latLng": {
+    "lat": 25.1395549,
+    "lng": 55.2200224
+   }
+  },
+  {
+   "name": "Times Square",
+   "cleanName": "Times Square",
+   "address": "Jalan Berakas, Bandar Seri Begawan",
+   "venueId": "venues.75300913.753271278.548179",
+   "latLng": {
+    "lat": 4.9395416,
+    "lng": 114.9398914
+   }
+  },
+  {
+   "name": "Penang Times Square",
+   "cleanName": "Penang Times Square",
+   "address": "Jalan Dato Keramat, George Town",
+   "venueId": "venues.65732662.657523229.582902",
+   "latLng": {
+    "lat": 5.4118968,
+    "lng": 100.3255428
+   }
+  },
+  {
+   "name": "Times Square",
+   "cleanName": "Times Square",
+   "address": "Causeway Bay, Hong Kong",
+   "venueId": "googlePlaces.ChIJU0-r21AABDQRco7h11tOM5o",
+   "latLng": {
+    "lat": 22.2782472,
+    "lng": 114.18203969999999
+   }
+  },
+  {
+   "name": "New Times Square Urban Office",
+   "cleanName": "New Times Square Urban Office",
+   "address": "Av. T-10, Goiânia",
+   "venueId": "venues.203621985.2036416458.8402400",
+   "latLng": {
+    "lat": -16.7034432,
+    "lng": -49.2659823
+   }
+  },
+  {
+   "name": "Times Square Grand",
+   "cleanName": "Times Square Grand",
+   "address": "PRL Colony, Thaltej, Ahmedabad, Gujarat, India",
+   "venueId": "googlePlaces.ChIJO1pR0m-bXjkR0XNzHfcqrLo",
+   "latLng": {
+    "lat": 23.041363399999998,
+    "lng": 72.4983019
+   }
+  }
+ ],
+ "il": [
+  {
+   "name": "Times Square",
+   "cleanName": "Times Square",
+   "address": "",
+   "venueId": "googlePlaces.ChIJ_bbg1uCBXjkRyXpKGSewAlc",
+   "latLng": {
+    "lat": 23.1566612,
+    "lng": 72.6360906
+   }
+  },
+  {
+   "name": "State Times Lane",
+   "cleanName": "State Times Lane",
+   "address": "Ambphalla, Old Heritage City, Jammu",
+   "venueId": "googlePlaces.EjVTdGF0ZSBUaW1lcyBMYW5lLCBBbWJwaGFsbGEsIE9sZCBIZXJpdGFnZSBDaXR5LCBKYW1tdSIuKiwKFAoSCVWBjPF6hB45EbDM2pNLbd8aEhQKEgnVTQdye4QeORHq13UcvV88gQ",
+   "latLng": {
+    "lat": 32.7450143,
+    "lng": 74.8647543
+   }
+  }
+ ]
+}
