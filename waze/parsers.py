@@ -24,6 +24,8 @@ import re
 from datetime import datetime, timezone
 
 from waze import refs
+from scraper_utils.values import num as _float, to_int as _int
+from scraper_utils.text import trimmed as _text
 
 ALERT_TYPES = ("ROAD_CLOSED", "ACCIDENT", "HAZARD", "POLICE", "JAM", "WEATHERHAZARD", "CONSTRUCTION", "MISC")
 JAM_LEVELS = {0: "free_flow", 1: "light", 2: "moderate", 3: "heavy", 4: "very_heavy", 5: "standstill"}
@@ -32,26 +34,6 @@ GEORSS_CAP = 200          # per type per box
 
 
 # ---- helpers ---------------------------------------------------------------------------
-
-def _text(value):
-    if value is None:
-        return None
-    value = str(value).strip()
-    return value or None
-
-
-def _int(value):
-    try:
-        return int(value)
-    except (TypeError, ValueError):
-        return None
-
-
-def _float(value):
-    try:
-        return float(value)
-    except (TypeError, ValueError):
-        return None
 
 
 def _iso(millis):

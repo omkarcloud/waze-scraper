@@ -58,6 +58,7 @@ import identity_pool
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
 from waze import token as tokens
 from waze.refs import SITE
+from scraper_utils import retry, sessions
 
 API = SITE + "/live-map/api"
 IMPERSONATE = "chrome"
@@ -119,29 +120,14 @@ def _session():
 
 
 def _drop_session():
-    sess = getattr(_local, "session", None)
-    _local.session = None
-    if sess is not None:
-        try:
-            sess.close()
-        except Exception:
-            pass
+    sessions.drop(_local)
 
 
 def _retrying(fn):
     """config.MAX_RETRIES attempts for the retryable errors (UpstreamError
     incl. Blocked), a fresh session (exit) each time; NotFound / BadRequest
     surface at once."""
-    last = None
-    for attempt in range(1, config.MAX_RETRIES + 1):
-        try:
-            return fn()
-        except WazeUpstreamError as e:
-            last = e
-            _drop_session()
-            if attempt < config.MAX_RETRIES:
-                time.sleep(config.RETRY_BACKOFF * attempt)
-    raise last
+    return retry.run(fn, config, WazeUpstreamError, lambda e: _drop_session())
 
 
 # ---- the one request shape ----------------------------------------------------------
